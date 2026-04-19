@@ -1,0 +1,124 @@
+name: Rebuild Production Data
+
+on:
+  release:
+    types: [published]
+
+# Required secrets:
+#   ALEXANDRIA_URL        e.g. https://api.philosophie.ch
+#   ALEXANDRIA_ADMIN_KEY  admin API key
+
+jobs:
+  rebuild:
+    name: Wipe and reimport all data
+    runs-on: ubuntu-latest
+    env:
+      API: ${{ secrets.ALEXANDRIA_URL }}
+      TOKEN: ${{ secrets.ALEXANDRIA_ADMIN_KEY }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Verify data_version.yml exists
+        run: |
+          test -f data_version.yml || (echo "ERROR: data_version.yml missing" && exit 1)
+
+      # ── Wipe ────────────────────────────────────────────────────────────────
+
+      - name: Wipe all data tables
+        run: |
+          curl -sS --fail-with-body -X POST "$API/api/v1/admin/wipe?confirm=true" \
+            -H "Authorization: Bearer $TOKEN"
+
+      # ── Import entities (no foreign-key dependencies) ───────────────────────
+
+      - name: Import keywords
+        run: |
+          curl -sS --fail-with-body -X POST "$API/api/v1/admin/import/keywords" \
+            -H "Authorization: Bearer $TOKEN" \
+            -F "file=@keyword/all.csv"
+
+      - name: Import schools
+        run: |
+          curl -sS --fail-with-body -X POST "$API/api/v1/admin/import/schools" \
+            -H "Authorization: Bearer $TOKEN" \
+            -F "file=@school/all.csv"
+
+      - name: Import institutions
+        run: |
+          curl -sS --fail-with-body -X POST "$API/api/v1/admin/import/institutions" \
+            -H "Authorization: Bearer $TOKEN" \
+            -F "file=@institution/all.csv"
+
+      - name: Import series
+        run: |
+          curl -sS --fail-with-body -X POST "$API/api/v1/admin/import/series" \
+            -H "Authorization: Bearer $TOKEN" \
+            -F "file=@series/all.csv"
+
+      - name: Import publishers
+        run: |
+          curl -sS --fail-with-body -X POST "$API/api/v1/admin/import/publishers" \
+            -H "Authorization: Bearer $TOKEN" \
+            -F "file=@publisher/all.csv"
+
+      - name: Import journals
+        run: |
+          curl -sS --fail-with-body -X POST "$API/api/v1/admin/import/journals" \
+            -H "Authorization: Bearer $TOKEN" \
+            -F "file=@journal/all.csv"
+
+      # ── Import authors (split by first char of author_key) ──────────────────
+
+      - name: Import authors
+        run: |
+          for f in author/*.csv; do
+            [ -f "$f" ] || continue
+            echo "→ $f"
+            curl -sS --fail-with-body -X POST "$API/api/v1/admin/import/authors" \
+              -H "Authorization: Bearer $TOKEN" \
+              -F "file=@$f"
+          done
+
+      # ── Import bibitems (split by 2-char bibkey prefix) ─────────────────────
+      # The IDS-format bibitem CSV includes author_ids / keyword_ids columns,
+      # so author and keyword junctions are created inline during this step.
+
+      - name: Import bibitems
+        run: |
+          for f in bibitem/*.csv; do
+            [ -f "$f" ] || continue
+            echo "→ $f"
+            curl -sS --fail-with-body -X POST "$API/api/v1/admin/import/bibitems" \
+              -H "Authorization: Bearer $TOKEN" \
+              -F "file=@$f"
+          done
+
+      - name: Import bibitem refs
+        run: |
+          curl -sS --fail-with-body -X POST "$API/api/v1/admin/import/bibitem-refs" \
+            -H "Authorization: Bearer $TOKEN" \
+            -F "file=@bibitem_refs/all.csv"
+
+      - name: Import bibitem notes
+        run: |
+          curl -sS --fail-with-body -X POST "$API/api/v1/admin/import/bibitem-notes" \
+            -H "Authorization: Bearer $TOKEN" \
+            -F "file=@bibitem_notes/all.csv"
+
+      # ── Record data version ─────────────────────────────────────────────────
+
+      - name: Record data version
+        run: |
+          VERSION=$(python3 -c "import yaml; d=yaml.safe_load(open('data_version.yml')); print(d['version'])")
+          DESCRIPTION=$(python3 -c "import yaml; d=yaml.safe_load(open('data_version.yml')); print(d['description'])")
+          IMPORTED_AT=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+
+          curl -sS --fail-with-body -X POST "$API/api/v1/data-version" \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Content-Type: application/json" \
+            -d "$(jq -n \
+                  --arg v "$VERSION" \
+                  --arg d "$DESCRIPTION" \
+                  --arg t "$IMPORTED_AT" \
+                  '{version: $v, description: $d, imported_at: $t}')"
