@@ -100,6 +100,11 @@ jobs:
             -H "Authorization: Bearer $TOKEN" \
             -F "file=@bibitem_refs/all.csv"
 
+      - name: Recompute transitive deps
+        run: |
+          curl -sS --fail-with-body -X POST "$API/api/v1/admin/recompute-deps" \
+            -H "Authorization: Bearer $TOKEN"
+
       - name: Import bibitem notes
         run: |
           curl -sS --fail-with-body -X POST "$API/api/v1/admin/import/bibitem-notes" \
