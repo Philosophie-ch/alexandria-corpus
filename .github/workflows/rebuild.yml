@@ -20,7 +20,8 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Verify data_version.yml exists
-        run: test -f data_version.yml || (echo "ERROR: data_version.yml missing" && exit 1)
+        run: |
+          test -f data_version.yml || (echo "ERROR: data_version.yml missing" && exit 1)
 
       # ── Version gate — fail before touching anything if version already deployed ──
 
