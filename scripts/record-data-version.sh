@@ -36,14 +36,15 @@ with open('$YML') as f:
 
 IMPORTED_AT=$(date -u +%Y-%m-%dT%H:%M:%SZ)
 
+PAYLOAD=$(python3 -c "
+import json, sys
+print(json.dumps({'version': sys.argv[1], 'description': sys.argv[2], 'imported_at': sys.argv[3]})
+)" "$VERSION" "$DESCRIPTION" "$IMPORTED_AT")
+
 curl -sS --fail-with-body -X POST "$API/api/v1/data-version" \
   -H "Authorization: Bearer $KEY" \
   -H "Content-Type: application/json" \
-  -d "$(jq -n \
-        --arg v "$VERSION" \
-        --arg d "$DESCRIPTION" \
-        --arg t "$IMPORTED_AT" \
-        '{version: $v, description: $d, imported_at: $t}')"
+  -d "$PAYLOAD"
 
 echo ""
 echo "Recorded version $VERSION"
