@@ -5,16 +5,15 @@ on:
     types: [published]
 
 # Required secrets:
-#   ALEXANDRIA_URL        e.g. https://api.philosophie.ch
-#   ALEXANDRIA_ADMIN_KEY  admin API key
+#   PROD_HOST                  production server hostname/IP
+#   PROD_USER                  SSH user on the production server
+#   PROD_SSH_KEY               SSH private key for production server
+#   ALEXANDRIA_SEED_API_KEY    admin API key (same secret as in alexandria-nexus)
 
 jobs:
   rebuild:
     name: Wipe and reimport all data
     runs-on: ubuntu-latest
-    env:
-      API: ${{ secrets.ALEXANDRIA_URL }}
-      TOKEN: ${{ secrets.ALEXANDRIA_ADMIN_KEY }}
 
     steps:
       - uses: actions/checkout@v4
@@ -23,122 +22,8 @@ jobs:
         run: |
           test -f data_version.yml || (echo "ERROR: data_version.yml missing" && exit 1)
 
-      # ── Version gate — fail before touching anything if version already deployed ──
-
-      - name: Check version is new
-        run: |
-          NEW_VERSION=$(python3 -c "
-          with open('data_version.yml') as f:
-              for line in f:
-                  line = line.strip()
-                  if line.startswith('version:'):
-                      print(line.split(':', 1)[1].strip().strip('\"'))
-                      break
-          ")
-          echo "Releasing version: $NEW_VERSION"
-
-          CURRENT=$(curl -sS --fail-with-body \
-            "$API/api/v1/data-version?limit=1&sort=imported_at&order=desc" \
-            -H "Authorization: Bearer $TOKEN" \
-            | python3 -c "
-          import json, sys
-          items = json.load(sys.stdin).get('items', [])
-          print(items[0]['version'] if items else '')
-          ")
-
-          echo "Current DB version: ${CURRENT:-none}"
-          if [ "$CURRENT" = "$NEW_VERSION" ]; then
-            echo "ERROR: DB is already at version $NEW_VERSION — bump data_version.yml before releasing"
-            exit 1
-          fi
-
-      # ── Wipe ────────────────────────────────────────────────────────────────────
-
-      - name: Wipe all data tables
-        run: |
-          curl -sS --fail-with-body -X POST "$API/api/v1/admin/wipe?confirm=true" \
-            -H "Authorization: Bearer $TOKEN"
-
-      # ── Import entities ──────────────────────────────────────────────────────────
-
-      - name: Import keywords
-        run: |
-          curl -sS --fail-with-body -X POST "$API/api/v1/admin/import/keywords" \
-            -H "Authorization: Bearer $TOKEN" -F "file=@data/keyword/all.csv"
-
-      - name: Import schools
-        run: |
-          curl -sS --fail-with-body -X POST "$API/api/v1/admin/import/schools" \
-            -H "Authorization: Bearer $TOKEN" -F "file=@data/school/all.csv"
-
-      - name: Import institutions
-        run: |
-          curl -sS --fail-with-body -X POST "$API/api/v1/admin/import/institutions" \
-            -H "Authorization: Bearer $TOKEN" -F "file=@data/institution/all.csv"
-
-      - name: Import series
-        run: |
-          curl -sS --fail-with-body -X POST "$API/api/v1/admin/import/series" \
-            -H "Authorization: Bearer $TOKEN" -F "file=@data/series/all.csv"
-
-      - name: Import publishers
-        run: |
-          curl -sS --fail-with-body -X POST "$API/api/v1/admin/import/publishers" \
-            -H "Authorization: Bearer $TOKEN" -F "file=@data/publisher/all.csv"
-
-      - name: Import journals
-        run: |
-          curl -sS --fail-with-body -X POST "$API/api/v1/admin/import/journals" \
-            -H "Authorization: Bearer $TOKEN" -F "file=@data/journal/all.csv"
-
-      # ── Import authors (merge split files → one call) ────────────────────────────
-
-      - name: Import authors
-        run: |
-          OUT=$(mktemp /tmp/authors_XXXX.csv)
-          first=1
-          for f in data/author/*.csv; do
-            [ -f "$f" ] || continue
-            if [ $first -eq 1 ]; then cat "$f" > "$OUT"; first=0
-            else tail -n +2 "$f" >> "$OUT"; fi
-          done
-          curl -sS --fail-with-body -X POST "$API/api/v1/admin/import/authors" \
-            -H "Authorization: Bearer $TOKEN" -F "file=@$OUT;type=text/csv"
-          rm "$OUT"
-
-      # ── Import bibitems (merge split files → one call) ───────────────────────────
-
-      - name: Import bibitems
-        run: |
-          OUT=$(mktemp /tmp/bibitems_XXXX.csv)
-          first=1
-          for f in data/bibitem/*.csv; do
-            [ -f "$f" ] || continue
-            if [ $first -eq 1 ]; then cat "$f" > "$OUT"; first=0
-            else tail -n +2 "$f" >> "$OUT"; fi
-          done
-          curl -sS --fail-with-body -X POST "$API/api/v1/admin/import/bibitems" \
-            -H "Authorization: Bearer $TOKEN" -F "file=@$OUT;type=text/csv"
-          rm "$OUT"
-
-      - name: Import bibitem refs
-        run: |
-          curl -sS --fail-with-body -X POST "$API/api/v1/admin/import/bibitem-refs" \
-            -H "Authorization: Bearer $TOKEN" -F "file=@data/bibitem_refs/all.csv"
-
-      - name: Recompute transitive deps
-        run: |
-          curl -sS --fail-with-body -X POST "$API/api/v1/admin/recompute-deps" \
-            -H "Authorization: Bearer $TOKEN"
-
-      - name: Import bibitem notes
-        run: |
-          curl -sS --fail-with-body -X POST "$API/api/v1/admin/import/bibitem-notes" \
-            -H "Authorization: Bearer $TOKEN" -F "file=@data/bibitem_notes/all.csv"
-
-      # ── Record data version ──────────────────────────────────────────────────────
-
-      - name: Record data version
+      - name: Extract new version
+        id: version
         run: |
           VERSION=$(python3 -c "
           with open('data_version.yml') as f:
@@ -148,22 +33,56 @@ jobs:
                       print(line.split(':', 1)[1].strip().strip('\"'))
                       break
           ")
-          DESCRIPTION=$(python3 -c "
-          with open('data_version.yml') as f:
-              for line in f:
-                  line = line.strip()
-                  if line.startswith('description:'):
-                      print(line.split(':', 1)[1].strip().strip('\"'))
-                      break
-          ")
-          IMPORTED_AT=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          echo "Releasing version: $VERSION"
+          echo "value=$VERSION" >> "$GITHUB_OUTPUT"
 
-          curl -sS --fail-with-body -X POST "$API/api/v1/data-version" \
-            -H "Authorization: Bearer $TOKEN" \
-            -H "Content-Type: application/json" \
-            -d "$(jq -n \
-                  --arg v "$VERSION" \
-                  --arg d "$DESCRIPTION" \
-                  --arg t "$IMPORTED_AT" \
-                  '{version: $v, description: $d, imported_at: $t}')"
-          echo "Recorded version $VERSION"
+      - name: Rebuild data on production server
+        uses: appleboy/ssh-action@v1
+        env:
+          NEW_VERSION: ${{ steps.version.outputs.value }}
+          TOKEN: ${{ secrets.ALEXANDRIA_SEED_API_KEY }}
+          CORPUS_REPO: https://github.com/Philosophie-ch/alexandria-corpus.git
+        with:
+          host: ${{ secrets.PROD_HOST }}
+          username: ${{ secrets.PROD_USER }}
+          key: ${{ secrets.PROD_SSH_KEY }}
+          envs: NEW_VERSION,TOKEN,CORPUS_REPO
+          script: |
+            set -e
+
+            # ── Version gate ──────────────────────────────────────────────────
+            CURRENT=$(curl -sf \
+              "http://localhost:8080/api/v1/data-version?limit=1&sort=imported_at&order=desc" \
+              -H "Authorization: Bearer $TOKEN" \
+              | python3 -c "
+            import json, sys
+            items = json.load(sys.stdin).get('items', [])
+            print(items[0]['version'] if items else '')
+            ")
+
+            echo "Current DB version: ${CURRENT:-none}"
+            echo "Releasing version:  $NEW_VERSION"
+
+            if [ "$CURRENT" = "$NEW_VERSION" ]; then
+              echo "ERROR: DB is already at version $NEW_VERSION — bump data_version.yml before releasing"
+              exit 1
+            fi
+
+            # ── Clone corpus ──────────────────────────────────────────────────
+            TMPDIR_CORPUS=$(mktemp -d /tmp/alx_corpus_XXXXXX)
+            trap 'rm -rf "$TMPDIR_CORPUS"' EXIT
+
+            git clone --depth 1 "$CORPUS_REPO" "$TMPDIR_CORPUS/corpus"
+
+            # ── Wipe ──────────────────────────────────────────────────────────
+            curl -sS --fail-with-body -X POST \
+              "http://localhost:8080/api/v1/admin/wipe?confirm=true" \
+              -H "Authorization: Bearer $TOKEN"
+
+            # ── Import ────────────────────────────────────────────────────────
+            "$TMPDIR_CORPUS/corpus/scripts/import-from-corpus.sh" \
+              "http://localhost:8080" "$TOKEN"
+
+            # ── Record version ────────────────────────────────────────────────
+            "$TMPDIR_CORPUS/corpus/scripts/record-data-version.sh" \
+              "http://localhost:8080" "$TOKEN"
