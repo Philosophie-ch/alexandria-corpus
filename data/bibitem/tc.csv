@@ -1,0 +1,4 @@
+id,entry_type,bibkey,options,shorthand,date_year,pubstate,title_latex,title_unicode,booktitle_latex,booktitle_unicode,crossref,journal_key,volume,number,pages,eid,series_key,address,institution_key,school_key,publisher_key,type_field,edition,note_latex,note_unicode,issuetitle_latex,issuetitle_unicode,extra_note_latex,extra_note_unicode,urn,eprint,doi,url,langid,is_translation,epoch,author_keys,editor_keys,guesteditor_keys,keyword_keys
+166379,incollection,tchernetska:2009,,,2009,,Manuscript Studies,Manuscript Studies,,,,,,,747--762,,,,,,,,,,,,,,,,,,,,false,,tchernetska,,,
+166380,incollection,tcherneva:2018,,,2018,,Money and Monetary Regimes,Money and Monetary Regimes,,,,,,,237--250,,,,,,,,,,,,,,,,,,,,false,,tcherneva,,,1:economics;2:money
+166381,incollection,tchitcherine:1900,,,1900,,La m{\'e}taphysique est-elle une science?,La métaphysique est-elle une science?,,,,,,,391--414,,,,,,,,,,,,,,,,,,,french,false,,tchitcherine,,,1:metaphysics;2:metametaphysics
