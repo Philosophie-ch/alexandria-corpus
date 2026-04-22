@@ -1,57 +1,70 @@
 # alexandria-corpus
 
-Versioned bibliography data for [Alexandria Nexus](https://github.com/Philosophie-ch/alexandria-nexus). Each table is mirrored as CSV files here. Merging to `main` (via a release) triggers a full production rebuild.
+Versioned bibliography data for [Alexandria Nexus](https://github.com/Philosophie-ch/alexandria-nexus). Each table is mirrored as CSV files here. Publishing a GitHub release triggers a full production rebuild.
 
 ## Layout
 
 ```
-data_version.yml          -- version tag and description, updated before each PR
+data_version.yml          -- version tag and description, bump before each release
 
-keyword/all.csv
-school/all.csv
-institution/all.csv
-series/all.csv
-publisher/all.csv
-journal/all.csv
+data/
+  keyword/all.csv
+  school/all.csv
+  institution/all.csv
+  series/all.csv
+  publisher/all.csv
+  journal/all.csv
 
-author/                   -- split by first character of author_key
-  a.csv
-  b.csv
-  ...
+  author/                 -- split by first character of author_key
+    a.csv  b.csv  ...
 
-bibitem/                  -- split by first two characters of bibkey
-  aa.csv
-  ab.csv
-  ...
+  bibitem/                -- split by first two characters of bibkey
+    aa.csv  ab.csv  ...
 
-bibitem_refs/all.csv
-bibitem_notes/all.csv
+  bibitem_authors/all.csv
+  bibitem_keywords/all.csv
+  bibitem_refs/all.csv
+  bibitem_notes/all.csv
 ```
 
-## Adding a new data version
+## Updating the corpus
 
-1. Run a full import locally against the source CSV to catch errors.
-2. Generate the snapshot:
-   ```bash
-   curl -X POST https://localhost:8080/api/v1/admin/snapshot \
-     -H "Authorization: Bearer $KEY" -o snapshot.zip
-   unzip -o snapshot.zip -d /path/to/alexandria-corpus
-   ```
-3. Update `data_version.yml` with a version string and description.
-4. Open a PR. Review the diff.
-5. Publish a GitHub release to trigger the rebuild workflow.
+1. Run the full local import against the source portal CSVs using the tooling in `sysadmin-utils/alexandria/dev/`. This imports data into the local dev DB and takes a snapshot that replaces `data/` here.
+2. Bump `data_version.yml` (version + description).
+3. Open a PR, review the diff, merge to `main`.
+4. Publish a GitHub release — the rebuild workflow deploys to production.
 
 ## Rebuild workflow
 
-On release publish, `.github/workflows/rebuild.yml`:
+On release publish, `.github/workflows/rebuild.yml` SSHes into the production server and:
 
-1. Wipes all data tables (`POST /api/v1/admin/wipe?confirm=true`)
-2. Reimports in dependency order: keywords, schools, institutions, series, publishers, journals, authors, bibitems
-3. Imports bibitem refs and recomputes the transitive dependency graph
-4. Imports bibitem notes
-5. Records the data version (`POST /api/v1/data-version`)
+1. Checks that `data_version.yml` carries a version not yet in the DB (version gate).
+2. Wipes all data tables.
+3. Clones this repo on the server and reimports in dependency order: entities → authors → bibitems → junctions → refs → notes.
+4. Records the data version.
 
-Requires two repository secrets: `ALEXANDRIA_URL` and `ALEXANDRIA_ADMIN_KEY`.
+Required repository secrets (same values as in `alexandria-nexus`):
+
+| Secret | Description |
+|--------|-------------|
+| `PROD_HOST` | Production server hostname/IP |
+| `PROD_USER` | SSH user |
+| `PROD_SSH_KEY` | SSH private key |
+| `ALEXANDRIA_SEED_API_KEY` | Admin API key |
+
+## Manual production rebuild (on demand)
+
+If you need to push data to production outside of a release, use the sysadmin tunnel:
+
+```bash
+# Terminal 1 — open the tunnel
+cd sysadmin-utils/alexandria/sysadmin && ./tunnel.sh
+
+# Terminal 2 — run the rebuild
+./corpus-rebuild.sh
+```
+
+Requires `ALEXANDRIA_CORPUS_PATH` set in the sysadmin `.env`.
 
 ## CSV format
 
