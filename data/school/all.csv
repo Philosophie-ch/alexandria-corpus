@@ -1,0 +1,280 @@
+id,school_key,name_latex,name_unicode
+1,university_of_oxford,University of Oxford,University of Oxford
+2,philosophy_department_university_of_edinburgh,"Philosophy Department, University of Edinburgh","Philosophy Department, University of Edinburgh"
+3,philosophy_department_university_of_tasmania,"Philosophy Department, University of Tasmania","Philosophy Department, University of Tasmania"
+4,university_of_sunderland,University of Sunderland,University of Sunderland
+5,department_of_philosophy,Department of Philosophy,Department of Philosophy
+6,columbia_university,Columbia University,Columbia University
+7,philosophy_department_australian_catholic_university,"Philosophy Department, Australian Catholic University","Philosophy Department, Australian Catholic University"
+8,university_of_toronto,University of Toronto,University of Toronto
+9,department_of_computer_science_university_of_rochester,"Department of Computer Science, University of Rochester","Department of Computer Science, University of Rochester"
+10,department_of_computer_science_university_of_british_columbia,"Department of Computer Science, University of British Columbia","Department of Computer Science, University of British Columbia"
+11,mcmaster_university,McMaster University,McMaster University
+12,linguistics_department_university_of_ottawa,"Linguistics Department, University of Ottawa","Linguistics Department, University of Ottawa"
+13,philosophy_department_university_of_adelaide,"Philosophy Department, University of Adelaide","Philosophy Department, University of Adelaide"
+14,computer_science_department_university_of_california,"Computer Science Department, University of California","Computer Science Department, University of California"
+15,department_of_linguistics_and_philosopy_massachusetts_institute_of_technology,"Department of Linguistics and Philosopy, Massachusetts Institute of Technology","Department of Linguistics and Philosopy, Massachusetts Institute of Technology"
+16,philosophy_department_texas_a_m_university,"Philosophy Department, Texas A\&M University","Philosophy Department, Texas A&M University"
+17,university_of_wisconsin_milwaukee,University of Wisconsin-Milwaukee,University of Wisconsin-Milwaukee
+18,department_of_computer_science_brown_university,"Department of Computer Science, Brown University","Department of Computer Science, Brown University"
+19,philosophy_department_university_of_miami,"Philosophy Department, University of Miami","Philosophy Department, University of Miami"
+20,universit_a_t_bern_institut_f_u_r_germanistik,"Universit{\""a}t Bern, Institut f{\""u}r Germanistik","Universität Bern, Institut für Germanistik"
+21,linguistics_department_massachusetts_institute_of_technology,"Linguistics Department, Massachusetts Institute of Technology","Linguistics Department, Massachusetts Institute of Technology"
+22,department_of_computer_science_yale_university,"Department of Computer Science, Yale University","Department of Computer Science, Yale University"
+23,philosophy_department_university_of_kentucky,"Philosophy Department, University of Kentucky","Philosophy Department, University of Kentucky"
+24,facult_e_des_sciences_universit_e_de_neuch_a_tel,"Facult{\'e} des Sciences, Universit{\'e} de Neuch{\^a}tel","Faculté des Sciences, Université de Neuchâtel"
+25,philosophy_department_new_york_university,"Philosophy Department, New York University","Philosophy Department, New York University"
+26,faculty_of_philosophy_rijksuniversiteit_groningen,"Faculty of Philosophy, Rijksuniversiteit Groningen","Faculty of Philosophy, Rijksuniversiteit Groningen"
+27,philosophy_department_university_of_wisconsin_milwaukee,"Philosophy Department, University of Wisconsin-Milwaukee","Philosophy Department, University of Wisconsin-Milwaukee"
+28,philosophy_department_university_of_canterbury,"Philosophy Department, University of Canterbury","Philosophy Department, University of Canterbury"
+29,ohio_state_university,Ohio State University,Ohio State University
+30,philosophy_department_harvard_university,"Philosophy Department, Harvard University","Philosophy Department, Harvard University"
+31,computer_science_department_columbia_university,"Computer Science Department, Columbia University","Computer Science Department, Columbia University"
+32,department_of_philosophy_university_of_warwick,"Department of Philosophy, University of Warwick","Department of Philosophy, University of Warwick"
+33,university_of_illinois,University of Illinois,University of Illinois
+34,department_of_philosophy_university_of_pennsylvania,"Department of Philosophy, University of Pennsylvania","Department of Philosophy, University of Pennsylvania"
+35,cornell_university_department_of_philosophy,"Cornell University, Department of Philosophy","Cornell University, Department of Philosophy"
+36,sussex_university,Sussex University,Sussex University
+37,department_of_computer_information_science_university_of_pennsylvania,"Department of Computer \& Information Science, University of Pennsylvania","Department of Computer & Information Science, University of Pennsylvania"
+38,linguistics_department_university_of_illinois,"Linguistics Department, University of Illinois","Linguistics Department, University of Illinois"
+39,computer_science_university_of_illinois,"Computer Science, University of Illinois","Computer Science, University of Illinois"
+40,department_of_linguistics_g_o_teborg_university,"Department of Linguistics, G{\""o}teborg University","Department of Linguistics, Göteborg University"
+41,institut_jean_nicod_paris,Institut Jean-Nicod Paris,Institut Jean-Nicod Paris
+42,school_of_philosophical_anthropological_and_film_studies,"School of Philosophical, Anthropological and Film Studies","School of Philosophical, Anthropological and Film Studies"
+43,facult_e_des_lettres_de_clermont_ferrand,Facult{\'e} des lettres de Clermont-Ferrand,Faculté des lettres de Clermont-Ferrand
+44,university_of_massachusetts,University of Massachusetts,University of Massachusetts
+45,philosophy_department_boston_college,"Philosophy Department, Boston College","Philosophy Department, Boston College"
+46,philosophy_department_university_of_arizona,"Philosophy Department, University of Arizona","Philosophy Department, University of Arizona"
+47,department_of_computer_science_university_of_essex,"Department of Computer Science, University of Essex","Department of Computer Science, University of Essex"
+48,princeton_university,Princeton University,Princeton University
+49,linguistics_department_university_of_massachusetts,"Linguistics Department, University of Massachusetts","Linguistics Department, University of Massachusetts"
+50,department_of_computer_and_information_science_university_of_pennsylvania,"Department of Computer and Information Science, University of Pennsylvania","Department of Computer and Information Science, University of Pennsylvania"
+51,eindhoven_university_of_technology,Eindhoven University of Technology,Eindhoven University of Technology
+52,philosophy_department_university_of_notre_dame,"Philosophy Department, University of Notre Dame","Philosophy Department, University of Notre Dame"
+53,department_of_electrical_engineering_stanford_university,"Department of Electrical Engineering, Stanford University","Department of Electrical Engineering, Stanford University"
+54,universit_a_t_t_u_bingen,"Universit{\""a}t T{\""u}bingen",Universität Tübingen
+55,d_e_partement_de_philosophie_universit_e_de_gen_e_ve,"D{\'e}partement de philosophie, Universit{\'e} de Gen{\`e}ve","Département de philosophie, Université de Genève"
+56,philosophy_department_rutgers_university,"Philosophy Department, Rutgers University","Philosophy Department, Rutgers University"
+57,philosophisches_institut_universit_a_t_bonn,"Philosophisches Institut, Universit{\""a}t Bonn","Philosophisches Institut, Universität Bonn"
+58,philosophy_department_university_of_rhode_island,"Philosophy Department, University of Rhode Island","Philosophy Department, University of Rhode Island"
+59,philosophy_department_university_of_sydney,"Philosophy Department, University of Sydney","Philosophy Department, University of Sydney"
+60,university_college_london,University College London,University College London
+61,universidad_de_barcelona_departamento_de_l_o_gica_historia_y_filsofi_i_a_de_la_ciencia,"Universidad de Barcelona, Departamento de L{\'o}gica, Historia y Filsofi{\'{\i}}a de la Ciencia","Universidad de Barcelona, Departamento de Lógica, Historia y Filsofiía de la Ciencia"
+62,philosophy_department_mcgill_university,"Philosophy Department, McGill University","Philosophy Department, McGill University"
+63,department_of_computer_engineering_and_information_science_bilkent_university,"Department of Computer Engineering and Information Science, Bilkent University","Department of Computer Engineering and Information Science, Bilkent University"
+64,cornell_university,Cornell University,Cornell University
+65,school_of_philosophy_university_of_sydney,"School of Philosophy, University of Sydney","School of Philosophy, University of Sydney"
+66,new_college_university_of_oxford,"New College, University of Oxford","New College, University of Oxford"
+67,linguistics_department_university_of_san_diego,"Linguistics Department, University of San Diego","Linguistics Department, University of San Diego"
+68,philosophy_department_university_of_southern_california,"Philosophy Department, University of Southern California","Philosophy Department, University of Southern California"
+69,university_of_california_at_irvine,University of California at Irvine,University of California at Irvine
+70,philosophy_department_university_of_newcastle,"Philosophy Department, University of Newcastle","Philosophy Department, University of Newcastle"
+71,philosophy_department_university_of_cambridge,"Philosophy Department, University of Cambridge","Philosophy Department, University of Cambridge"
+72,philosophisches_institut_der_universit_a_t_bern,"Philosophisches Institut der Universit{\""a}t Bern",Philosophisches Institut der Universität Bern
+73,institute_for_language_logic_and_information_university_of_amsterdam,"Institute for Language, Logic and Information, University of Amsterdam","Institute for Language, Logic and Information, University of Amsterdam"
+74,universit_e_libre_de_bruxelles_facult_e_de_philosophie_et_lettres,"Universit{\'e} Libre de Bruxelles, Facult{\'e} de Philosophie et Lettres","Université Libre de Bruxelles, Faculté de Philosophie et Lettres"
+75,philosophische_fakult_a_t_heinrich_heine_universit_a_t,"Philosophische Fakult{\""a}t, Heinrich-Heine Universit{\""a}t","Philosophische Fakultät, Heinrich-Heine Universität"
+76,department_of_computer_science_university_of_delaware,"Department of Computer Science, University of Delaware","Department of Computer Science, University of Delaware"
+77,fachbereich_f_u_r_philosophie,"Fachbereich f{\""u}r Philosophie",Fachbereich für Philosophie
+78,institut_f_u_r_philosophie_humboldt_universit_a_t_zu_berlin,"Institut f{\""u}r Philosophie, Humboldt-Universit{\""a}t zu Berlin","Institut für Philosophie, Humboldt-Universität zu Berlin"
+79,philosophy_department_university_of_texas,"Philosophy Department, University of Texas","Philosophy Department, University of Texas"
+80,massachusetts_institute_of_technology,Massachusetts Institute of Technology,Massachusetts Institute of Technology
+81,universit_a_t_t_u_bingen_philosophisch_historische_fakult_a_t,"Universit{\""a}t T{\""u}bingen, Philosophisch-historische Fakult{\""a}t","Universität Tübingen, Philosophisch-historische Fakultät"
+82,department_of_computer_science_the_pennsylvania_state_university,"Department of Computer Science, the Pennsylvania State University","Department of Computer Science, the Pennsylvania State University"
+83,universit_a_t_zu_k_o_ln,"Universit{\""a}t zu K{\""o}ln",Universität zu Köln
+84,institut_f_u_r_christliche_philosophie_universit_a_t_innsbruck,"Institut f{\""u}r Christliche Philosophie, Universit{\""a}t Innsbruck","Institut für Christliche Philosophie, Universität Innsbruck"
+85,university_of_pittsburgh_department_of_history_and_philosophy_of_science,"University of Pittsburgh, Department of History and Philosophy of Science","University of Pittsburgh, Department of History and Philosophy of Science"
+86,philosophy_department_state_university_of_new_york_at_albany,"Philosophy Department, State University of New York at Albany","Philosophy Department, State University of New York at Albany"
+87,central_european_university,Central European University,Central European University
+88,universit_e_de_louvain_belgium,"Universit\'{e} de Louvain, Belgium","Université de Louvain, Belgium"
+89,philosophy_department_king_s_college,"Philosophy Department, King's College","Philosophy Department, King's College"
+90,computer_science_department_state_university_of_new_york_at_stony_brook,"Computer Science Department, State University of New York at Stony Brook","Computer Science Department, State University of New York at Stony Brook"
+91,linguistics_department,Linguistics Department,Linguistics Department
+92,d_e_partement_de_philosophie_de_l_universit_e_de_provence,D{\'e}partement de Philosophie de l'Universit{\'e} de Provence,Département de Philosophie de l'Université de Provence
+93,university_of_lethbridge,University of Lethbridge,University of Lethbridge
+94,department_of_philosophy_macquarie_university,"Department of Philosophy, Macquarie University","Department of Philosophy, Macquarie University"
+95,department_of_computer_science_rutgers_university,"Department of Computer Science, Rutgers University","Department of Computer Science, Rutgers University"
+96,computer_science_department_harvard_university,"Computer Science Department, Harvard University","Computer Science Department, Harvard University"
+97,carnegie_mellon_university,Carnegie Mellon University,Carnegie Mellon University
+98,harvard_university,Harvard University,Harvard University
+99,university_of_colorado,University of Colorado,University of Colorado
+100,universit_a_della_svizzera_italiana,Universit{\`a} della Svizzera italiana,Università della Svizzera italiana
+101,philosophy_department_university_of_california_davis,"Philosophy Department, University of California, Davis","Philosophy Department, University of California, Davis"
+102,freie_universit_a_t_institut_f_u_r_mathematik,"Freie Universit{\""a}t, Institut f{\""u}r Mathematik","Freie Universität, Institut für Mathematik"
+103,computer_science_department_brown_university,"Computer Science Department, Brown University","Computer Science Department, Brown University"
+104,catholic_university_of_america,Catholic University of America,Catholic University of America
+105,universit_e_de_paris_iv,Universit{\'e} de Paris IV,Université de Paris IV
+106,electrical_engineering_and_computer_science,Electrical Engineering and Computer Science,Electrical Engineering and Computer Science
+107,university_of_california_davis,"University of California, Davis","University of California, Davis"
+108,d_e_partement_de_philosophie_universit_e_de_nancy,"D{\'e}partement de Philosophie, Universit{\'e} de Nancy","Département de Philosophie, Université de Nancy"
+109,lunds_universitet_filosofiska_institutionen,"Lunds Universitet, Filosofiska Institutionen","Lunds Universitet, Filosofiska Institutionen"
+110,philosophy_department_university_of_nottingham,"Philosophy Department, University of Nottingham","Philosophy Department, University of Nottingham"
+111,ludwig_maximilians_universit_a_t_m_u_nchen,"Ludwig-Maximilians-Universit{\""a}t M{\""u}nchen",Ludwig-Maximilians-Universität München
+112,university_of_cambridge,University of Cambridge,University of Cambridge
+113,program_for_computational_linguistics_university_of_g_o_teborg_1996,"Program for Computational Linguistics, University of G{\""o}teborg 1996","Program for Computational Linguistics, University of Göteborg 1996"
+114,d_e_partement_de_philosophie_universit_e_fran_c_c_ois_rabelais,"D{\'e}partement de Philosophie, Universit{\'e} Fran{\c{c}}ois-Rabelais","Département de Philosophie, Université François-Rabelais"
+115,department_of_philosophy_indiana_university,"Department of Philosophy, Indiana University","Department of Philosophy, Indiana University"
+116,philosophy_department_rutgers_the_state_university_of_new_jersey,"Philosophy Department, Rutgers, The State University of New Jersey","Philosophy Department, Rutgers, The State University of New Jersey"
+117,department_of_philosophy_university_of_st_andrews,"Department of Philosophy, University of St.~Andrews","Department of Philosophy, University of St. Andrews"
+118,philosophy_department_georgia_state_university,"Philosophy Department, Georgia State University","Philosophy Department, Georgia State University"
+119,institut_de_philosophie_facult_e_des_lettres_et_sciences_humaines,"Institut de philosophie, Facult{\'e} des Lettres et Sciences Humaines","Institut de philosophie, Faculté des Lettres et Sciences Humaines"
+120,philosophy_department_university_of_pittsburgh,"Philosophy Department, University of Pittsburgh","Philosophy Department, University of Pittsburgh"
+121,philosophy_department_ohio_state_university,"Philosophy Department, Ohio State University","Philosophy Department, Ohio State University"
+122,university_of_sussex,University of Sussex,University of Sussex
+123,university_of_california_at_san_diego,University of California at San Diego,University of California at San Diego
+124,stanford_university,Stanford University,Stanford University
+125,geisteswissenschaftliche_fakult_a_t_der_universit_a_t_leipzig,"Geisteswissenschaftliche Fakult{\""a}t der Universit{\""a}t Leipzig",Geisteswissenschaftliche Fakultät der Universität Leipzig
+126,department_of_computer_science_university_of_toronto,"Department of Computer Science, University of Toronto","Department of Computer Science, University of Toronto"
+127,department_of_linguistics_massachusetts_institute_of_technology,"Department of Linguistics, Massachusetts Institute of Technology","Department of Linguistics, Massachusetts Institute of Technology"
+128,charles_sturt_university_philosophy_department,"Charles Sturt University, Philosophy Department","Charles Sturt University, Philosophy Department"
+129,linguistics_department_university_of_california_at_berkeley,"Linguistics Department, University of California at Berkeley","Linguistics Department, University of California at Berkeley"
+130,philosophy_department_dalhousie_university,"Philosophy Department, Dalhousie University","Philosophy Department, Dalhousie University"
+131,department_of_computer_and_information_science_university_of_delaware,"Department of Computer and Information Science, University of Delaware","Department of Computer and Information Science, University of Delaware"
+132,zeno_institute_of_philosophy,Zeno Institute of Philosophy,Zeno Institute of Philosophy
+133,philosophy_department_university_of_virginia,"Philosophy Department, University of Virginia","Philosophy Department, University of Virginia"
+134,department_of_linguistics_and_philosophy_massachusetts_institute_of_technology,"Department of Linguistics and Philosophy, Massachusetts Institute of Technology","Department of Linguistics and Philosophy, Massachusetts Institute of Technology"
+135,texas_tech_university,Texas Tech University,Texas Tech University
+136,humanistische_sektion_der_philosophischen_fakult_a_t,"Humanistische Sektion der Philosophischen Fakult{\""a}t",Humanistische Sektion der Philosophischen Fakultät
+137,university_of_london,University of London,University of London
+138,philosophy_department_university_of_toronto,"Philosophy Department, University of Toronto","Philosophy Department, University of Toronto"
+139,philosophy_department_university_of_st_andrews,"Philosophy Department, University of St.~Andrews","Philosophy Department, University of St. Andrews"
+140,department_of_computer_science_university_of_texas_at_austin,"Department of Computer Science, University of Texas at Austin","Department of Computer Science, University of Texas at Austin"
+141,departement_philosophie_und_geschichtswissenschaft,Departement Philosophie und Geschichtswissenschaft,Departement Philosophie und Geschichtswissenschaft
+142,girton_college_university_of_cambridge,"Girton College, University of Cambridge","Girton College, University of Cambridge"
+143,australian_national_university_research_school_of_social_sciences,"Australian National University, Research School of Social Sciences","Australian National University, Research School of Social Sciences"
+144,filosofiska_institutionen_uppsala_universitet,"Filosofiska Institutionen, Uppsala Universitet","Filosofiska Institutionen, Uppsala Universitet"
+145,university_of_edinburgh,University of Edinburgh,University of Edinburgh
+146,katholieke_universiteit_te_nijmegen,Katholieke Universiteit te Nijmegen,Katholieke Universiteit te Nijmegen
+147,philosophy_department_kent_state_university,"Philosophy Department, Kent State University","Philosophy Department, Kent State University"
+148,philosophy_department_yale_university,"Philosophy Department, Yale University","Philosophy Department, Yale University"
+149,philosophy_department_queen_s_university,"Philosophy Department, Queen's University","Philosophy Department, Queen's University"
+150,universit_a_t_des_saarlandes,"Universit{\""a}t des Saarlandes",Universität des Saarlandes
+151,philosophy_department_university_of_wollongong,"Philosophy Department, University of Wollongong","Philosophy Department, University of Wollongong"
+152,philosophy_department_university_of_waterloo,"Philosophy Department, University of Waterloo","Philosophy Department, University of Waterloo"
+153,department_of_philosophy_university_of_michigan,"Department of Philosophy, University of Michigan","Department of Philosophy, University of Michigan"
+154,philosophy_department_university_of_london,"Philosophy Department, University of London","Philosophy Department, University of London"
+155,university_of_essex,University of Essex,University of Essex
+156,philosophy_department_university_of_manitoba,"Philosophy Department, University of Manitoba","Philosophy Department, University of Manitoba"
+157,queen_s_university,Queen's University,Queen's University
+158,university_of_southern_california,University of Southern California,University of Southern California
+159,university_of_utrecht,University of Utrecht,University of Utrecht
+160,philosophy_department_university_of_exeter,"Philosophy Department, University of Exeter","Philosophy Department, University of Exeter"
+161,philosophy_department_university_of_birmingham,"Philosophy Department, University of Birmingham","Philosophy Department, University of Birmingham"
+162,king_s_college_university_of_cambridge,"King's College, University of Cambridge","King's College, University of Cambridge"
+163,d_e_partement_de_philosophie_universit_e_de_lausanne,"D{\'e}partement de philosophie, Universit{\'e} de Lausanne","Département de philosophie, Université de Lausanne"
+164,city_university_of_new_york,City University of New York,City University of New York
+165,teoretisk_filosofi_g_o_teborgs_universitet,"Teoretisk filosofi, G{\""o}teborgs universitet","Teoretisk filosofi, Göteborgs universitet"
+166,theologische_fakult_a_t,"Theologische Fakult{\""a}t",Theologische Fakultät
+167,massachusetts_institute_of_technology_department_of_linguistics_and_philosopy,"Massachusetts Institute of Technology, Department of Linguistics and Philosopy","Massachusetts Institute of Technology, Department of Linguistics and Philosopy"
+168,philosophy_department,Philosophy Department,Philosophy Department
+169,universit_a_t_erlangen,"Universit{\""a}t Erlangen",Universität Erlangen
+170,arch_e_philosophical_research_centre_for_logic_language_metaphysics_and_epistemology,"Arch{\'e} -- Philosophical Research Centre for Logic, Language, Metaphysics and Epistemology","Arché – Philosophical Research Centre for Logic, Language, Metaphysics and Epistemology"
+171,harvard_university_philosophy_department,"Harvard University, Philosophy Department","Harvard University, Philosophy Department"
+172,philosophy_department_university_of_south_wales,"Philosophy Department, University of South Wales","Philosophy Department, University of South Wales"
+173,school_of_philosophy_theology_and_religion_university_of_birmingham,"School of Philosophy, Theology and Religion, University of Birmingham","School of Philosophy, Theology and Religion, University of Birmingham"
+174,faculty_of_mathematics_and_computer_science_university_of_amsterdam,"Faculty of Mathematics and Computer Science, University of Amsterdam","Faculty of Mathematics and Computer Science, University of Amsterdam"
+175,department_of_philosophy_university_of_massachusetts,"Department of Philosophy, University of Massachusetts","Department of Philosophy, University of Massachusetts"
+176,georg_august_universit_a_g_o_ttingen,"Georg-August Universit{\""a} G{\""o}ttingen",Georg-August Universitä Göttingen
+177,philosophy_department_state_university_of_new_york_at_buffalo,"Philosophy Department, State University of New York at Buffalo","Philosophy Department, State University of New York at Buffalo"
+178,centre_for_cognitive_science_university_of_edinburgh,"Centre for Cognitive Science, University of Edinburgh","Centre for Cognitive Science, University of Edinburgh"
+179,universit_e_de_lille,Universit{\'e} de Lille,Université de Lille
+180,marquette_university,Marquette University,Marquette University
+181,philosophy_department_university_of_new_england,"Philosophy Department, University of New England","Philosophy Department, University of New England"
+182,philosophy_department_middle_east_technical_university,"Philosophy Department, Middle East Technical University","Philosophy Department, Middle East Technical University"
+183,computer_science_department_university_of_michigan,"Computer Science Department, University of Michigan","Computer Science Department, University of Michigan"
+184,linguistics_department_university_of_texas_at_austin,"Linguistics Department, University of Texas at Austin.","Linguistics Department, University of Texas at Austin."
+185,massachusetts_institute_of_technology_artificial_intelligence_laboratory,"Massachusetts Institute of Technology, Artificial Intelligence Laboratory","Massachusetts Institute of Technology, Artificial Intelligence Laboratory"
+186,philosophy_department_wayne_state_university,"Philosophy Department, Wayne State University","Philosophy Department, Wayne State University"
+187,philosophy_department_university_of_western_ontario,"Philosophy Department, University of Western Ontario","Philosophy Department, University of Western Ontario"
+188,universit_a_t_heidelberg,"Universit{\""a}t Heidelberg",Universität Heidelberg
+189,philosophy_department_durham_university,"Philosophy Department, Durham University","Philosophy Department, Durham University"
+190,department_of_computing_macquarie_university,"Department of Computing, Macquarie University","Department of Computing, Macquarie University"
+191,philosophy_department_university_of_massachusetts_amherst,"Philosophy Department, University of Massachusetts, Amherst","Philosophy Department, University of Massachusetts, Amherst"
+192,harvard_university_department_of_philosophy,"Harvard University, Department of Philosophy","Harvard University, Department of Philosophy"
+193,philosophy_department_university_of_south_florida,"Philosophy Department, University of South Florida","Philosophy Department, University of South Florida"
+194,linguistics_department_university_of_california,"Linguistics Department, University of California","Linguistics Department, University of California"
+195,erasmus_universiteit,Erasmus Universiteit,Erasmus Universiteit
+196,philosophische_fakult_a_t_universit_a_t_jena,"Philosophische Fakult{\""a}t, Universit{\""a}t Jena","Philosophische Fakultät, Universität Jena"
+197,rijksuniversiteit_groningen,Rijksuniversiteit Groningen,Rijksuniversiteit Groningen
+198,concordia_university,Concordia University,Concordia University
+199,centre_for_medieval_studies,Centre for Medieval Studies,Centre for Medieval Studies
+200,department_of_history_and_philosophy_of_science_indiana_university,"Department of History and Philosophy of Science, Indiana University","Department of History and Philosophy of Science, Indiana University"
+201,university_of_edinburgh_departement_of_philosophy,"University of Edinburgh, Departement of Philosophy","University of Edinburgh, Departement of Philosophy"
+202,oxford_university_computing_laboratory,Oxford University Computing Laboratory,Oxford University Computing Laboratory
+203,institut_f_u_r_computerlinguistik,"Institut f{\""u}r Computerlinguistik",Institut für Computerlinguistik
+204,department_of_computer_science_stanford_university,"Department of Computer Science, Stanford University","Department of Computer Science, Stanford University"
+205,philosophy_department_darwin_college_university_of_cambridge,"Philosophy Department, Darwin College, University of Cambridge","Philosophy Department, Darwin College, University of Cambridge"
+206,department_of_computer_and_information_science_link_o_ping_university,"Department of Computer and Information Science, Link{\""o}ping University","Department of Computer and Information Science, Linköping University"
+207,universit_e_de_paris,Universit{\'e} de Paris,Université de Paris
+208,university_of_pittsburgh,University of Pittsburgh,University of Pittsburgh
+209,facult_e_des_sciences,Facult{\'e} des Sciences,Faculté des Sciences
+210,philosophy_department_university_of_maryland,"Philosophy Department, University of Maryland","Philosophy Department, University of Maryland"
+211,massachusetts_institute_of_technology_department_of_philosophy,"Massachusetts Institute of Technology, Department of Philosophy","Massachusetts Institute of Technology, Department of Philosophy"
+212,philosophy_department_university_of_manchester,"Philosophy Department, University of Manchester","Philosophy Department, University of Manchester"
+213,university_of_stanford,University of Stanford,University of Stanford
+214,schletter_sche_buchhandlung,Schletter'sche Buchhandlung,Schletter'sche Buchhandlung
+215,universidad_de_barcelona_departamento_de_l_o_gica_historia_y_filosof_i_a_de_la_ciencia,"Universidad de Barcelona, Departamento de L{\'o}gica, Historia y Filosof{\'{\i}}a de la Ciencia","Universidad de Barcelona, Departamento de Lógica, Historia y Filosofía de la Ciencia"
+216,philosophy_department_central_european_university,"Philosophy Department, Central European University","Philosophy Department, Central European University"
+217,computer_science_department_university_of_pennsylvania,"Computer Science Department, University of Pennsylvania","Computer Science Department, University of Pennsylvania"
+218,ruprecht_karls_universit_a_t,"Ruprecht-Karls-Universit{\""a}t",Ruprecht-Karls-Universität
+219,university_of_rochester,University of Rochester,University of Rochester
+220,universit_e_de_paris_i,Universit{\'e} de Paris I,Université de Paris I
+221,philosophy_department_university_of_missouri_st_louis,"Philosophy Department, University of Missouri - St.~Louis","Philosophy Department, University of Missouri - St. Louis"
+222,philosophy_department_georgetown_university,"Philosophy Department, Georgetown University","Philosophy Department, Georgetown University"
+223,philosophy_department_california_state_university,"Philosophy Department, California State University","Philosophy Department, California State University"
+224,leiden_university,Leiden University,Leiden University
+225,intelligent_systems_program_university_of_pittsburgh,"Intelligent Systems Program, University of Pittsburgh","Intelligent Systems Program, University of Pittsburgh"
+226,philosophy_department_university_of_queensland,"Philosophy Department, University of Queensland","Philosophy Department, University of Queensland"
+227,tilburg_university,Tilburg University,Tilburg University
+228,claremont_graduate_school_and_university_center,Claremont Graduate School and University Center,Claremont Graduate School and University Center
+229,university_of_iowa,University of Iowa,University of Iowa
+230,computer_science_department_university_of_toronto,"Computer Science Department, University of Toronto","Computer Science Department, University of Toronto"
+231,philosophy_department_australian_national_university,"Philosophy Department, Australian National University","Philosophy Department, Australian National University"
+232,universit_e_de_bruxelles,Universit{\'e} de Bruxelles,Université de Bruxelles
+233,university_of_california_department_of_philosophy,"University of California, Department of Philosophy","University of California, Department of Philosophy"
+234,university_of_wisconsin_at_madison,University of Wisconsin at Madison,University of Wisconsin at Madison
+235,massachusetts_institute_of_technology_department_of_linguistics_and_philosophy,"Massachusetts Institute of Technology, Department of Linguistics and Philosophy","Massachusetts Institute of Technology, Department of Linguistics and Philosophy"
+236,universit_e_de_paris_i_d_e_partement_de_philosophie,"Universit{\'e} de Paris I, D{\'e}partement de philosophie","Université de Paris I, Département de philosophie"
+237,university_of_california_santa_cruz_department_of_linguistics,"University of California, Santa Cruz, Department of Linguistics","University of California, Santa Cruz, Department of Linguistics"
+238,university_of_pennsylvania,University of Pennsylvania,University of Pennsylvania
+239,geisteswissenschaftliche_fakult_a_t_der_karl_franzens_universit_a_t_graz,"Geisteswissenschaftliche Fakult{\""a}t der Karl-Franzens-Universit{\""a}t Graz",Geisteswissenschaftliche Fakultät der Karl-Franzens-Universität Graz
+240,philosophy_department_monash_university,"Philosophy Department, Monash University","Philosophy Department, Monash University"
+241,d_e_partement_de_philosophie_universit_e_de_fribourg,"D{\'e}partement de Philosophie, Universit{\'e} de Fribourg","Département de Philosophie, Université de Fribourg"
+242,linguistics_department_stanford_university,"Linguistics Department, Stanford University","Linguistics Department, Stanford University"
+243,department_of_computer_science_duke_university,"Department of Computer Science, Duke University","Department of Computer Science, Duke University"
+244,new_york_university,New York University,New York University
+245,philosophy_department_university_of_iowa,"Philosophy Department, University of Iowa","Philosophy Department, University of Iowa"
+246,institute_for_applied_mathematics_iam_universit_a_t_bern,"Institute for Applied Mathematics IAM, Universit{\""a}t Bern","Institute for Applied Mathematics IAM, Universität Bern"
+247,universit_a_t_salzburg,"Universit{\""a}t Salzburg",Universität Salzburg
+248,faculteit_letteren_en_wijsbegeerte_universiteit_gent,"Faculteit Letteren en Wijsbegeerte, Universiteit Gent","Faculteit Letteren en Wijsbegeerte, Universiteit Gent"
+249,department_of_computer_science_university_of_rome_la_sapienza,"Department of Computer Science, University of Rome ``La Sapienza''","Department of Computer Science, University of Rome “La Sapienza”"
+250,center_for_the_study_of_language_and_information,Center for the Study of Language {and} Information,Center for the Study of Language and Information
+251,faculty_of_mathematics_and_informatics_university_of_leipzig,"Faculty of Mathematics and Informatics, University of Leipzig","Faculty of Mathematics and Informatics, University of Leipzig"
+252,philosophy_department_western_sydney_university,"Philosophy Department, Western Sydney University","Philosophy Department, Western Sydney University"
+253,philosophy_department_florida_state_university,"Philosophy Department, Florida State University","Philosophy Department, Florida State University"
+254,yale_university,Yale University,Yale University
+255,philosophy_department_princeton_university,"Philosophy Department, Princeton University","Philosophy Department, Princeton University"
+256,philosophische_fakult_a_t,"Philosophische Fakult{\""a}t",Philosophische Fakultät
+257,computer_science_department_stanford_university,"Computer Science Department, Stanford University","Computer Science Department, Stanford University"
+258,school_of_philosophy_university_of_melbourne,"School of Philosophy, University of Melbourne","School of Philosophy, University of Melbourne"
+259,katholieke_universiteit_leuven,Katholieke Universiteit Leuven,Katholieke Universiteit Leuven
+260,group_in_logic_and_methodology_of_science_the_university_of_california_at_berkeley,"Group in Logic and Methodology of Science, the University of California at Berkeley","Group in Logic and Methodology of Science, the University of California at Berkeley"
+261,university_of_texas_at_austin,University of Texas at Austin,University of Texas at Austin
+262,universit_a_t_bern_philosophisch_historische_fakult_a_t,"Universit{\""a}t Bern, Philosophisch-historische Fakult{\""a}t","Universität Bern, Philosophisch-historische Fakultät"
+263,philosophy_department_graduate_center_city_university_of_new_york,"Philosophy Department, Graduate Center, City University of New York","Philosophy Department, Graduate Center, City University of New York"
+264,department_of_philosophy_the_university_of_melbourne,"Department of Philosophy, The University of Melbourne","Department of Philosophy, The University of Melbourne"
+265,philosophy_department_syracuse_university,"Philosophy Department, Syracuse University","Philosophy Department, Syracuse University"
+266,vrije_universiteit_van_amsterdam,Vrije Universiteit van Amsterdam,Vrije Universiteit van Amsterdam
+267,university_of_california,University of California,University of California
+268,university_of_san_diego,University of San Diego,University of San Diego
+269,university_of_michigan,University of Michigan,University of Michigan
+270,department_of_philosophy_mount_holyoke_college,"Department of Philosophy, Mount Holyoke College","Department of Philosophy, Mount Holyoke College"
+271,department_of_electrical_engineering_and_computer_science_massachusetts_institute_of_technology,"Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology","Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology"
+272,university_of_notre_dame,University of Notre Dame,University of Notre Dame
+273,philosophy_department_university_of_oxford,"Philosophy Department, University of Oxford","Philosophy Department, University of Oxford"
+274,department_of_computer_science_university_of_sydney,"Department of Computer Science, University of Sydney","Department of Computer Science, University of Sydney"
+275,university_of_north_carolina,University of North Carolina,University of North Carolina
+276,department_of_philosophy_carnegie_mellon_university,"Department of Philosophy, Carnegie Mellon University","Department of Philosophy, Carnegie Mellon University"
+277,computer_science_department_university_of_rochester,"Computer Science Department, University of Rochester","Computer Science Department, University of Rochester"
+278,university_of_reading,University of Reading,University of Reading
+279,philosophy_department_vrije_universiteit_van_amsterdam,"Philosophy Department, Vrije Universiteit van Amsterdam","Philosophy Department, Vrije Universiteit van Amsterdam"
