@@ -4638,32 +4638,32 @@ id,entry_type,bibkey,options,shorthand,date_year,pubstate,title_latex,title_unic
 108086,book,massin-meylan:2014,,,2014,,Aristote chez les helv{\`e}tes.~Douze essais de m{\'e}taphysique helv{\'e}tique,Aristote chez les helvètes. Douze essais de métaphysique helvétique,Aristote chez les helv{\`e}tes.~Douze essais de m{\'e}taphysique helv{\'e}tique,Aristote chez les helvètes. Douze essais de métaphysique helvétique,,,,,,,,,Paris,,,les-editions-d-ithaque,,,,,,,,,,,,,french,false,,,,massin;meylan,,1:metaphysics
 108087,article,massin-monnoyer:2003,,,2003,,"Toucher et proprioception: le corps, milieu tactile","Toucher et proprioception: le corps, milieu tactile",,,,voir-barre,26/27,,48--73,48,,,,,,,,,,,,,,,,,,,french,false,,,massin;monnoyer,,,1:perception;2:touch
 108088,book,massin-mulligan:2021,,,2021,,D{\'e}crire.~La psychologie de Franz Brentano,Décrire. La psychologie de Franz Brentano,,,,,,,,,,analyse_et_philosophie,Paris,,,librairie-philosophique-jean-vrin,,,,,,,,,,,,,french,false,,,massin;mulligan_k,,,
-108089,article,massin-poncet:2008,,,2008,,Illusion et Milieu Perceptif,Illusion et Milieu Perceptif,,,,spps,,5,,,,,,,,,,,,,,,,,,,,,french,false,,,massin;poncet_p,,,
-108090,article,massin:2008,,,2008,,Against Tropes,Against Tropes,,,,spps,,2,,,,,,,,,,,,,,,,,,,,,english,false,,,massin,,,
-108091,article,massin:2008a,,,2008,,Force and Causation,Force and Causation,,,,spps,,3,,,,,,,,,,,,,,,,,,,,,english,false,,,massin,,,
-108092,article,massin:2008b,,,2008,,Illusion et Depiction,Illusion et Depiction,,,,spps,,4,,,,,,,,,,,,,,,,,,,,,french,false,,,massin,,,
-108093,article,massin:2008c,,,2008,,In Defence of Mixed­ Feelings,In Defence of Mixed­ Feelings,,,,spps,,7,,,,,,,,,,,,,,,,,,,,,english,false,,,massin,,,
-108094,article,massin:2008d,,,2008,,Individu et Soci{\'e}t{\'e},Individu et Société,,,,spps,,8,,,,,,,,,,,,,,,,,,,,,french,false,,,massin,,,
-108095,article,massin:2008e,,,2008,,Introduction {\`a} la philosophie morale,Introduction à la philosophie morale,,,,spps,,11,,,,,,,,,,,,,,,,,,,,,french,false,,,massin,,,
-108096,article,massin:2008f,,,2008,,Introduction: The Nature of Pleasantness,Introduction: The Nature of Pleasantness,,,,spps,,12,,,,,,,,,,,,,,,,,,,,,english,false,,,massin,,,
-108097,article,massin:2008g,,,2008,,Kinds of Impenetrability,Kinds of Impenetrability,,,,spps,,13,,,,,,,,,,,,,,,,,,,,,english,false,,,massin,,,
-108098,article,massin:2008h,,,2008,,La Bipolarit{\'e} du Toucher,La Bipolarité du Toucher,,,,spps,,6,,,,,,,,,,,,,,,,,,,,,french,false,,,massin,,,
-108099,article,massin:2008i,,,2008,,La Possibilit{\'e} du Contact,La Possibilité du Contact,,,,spps,,14,,,,,,,,,,,,,,,,,,,,,french,false,,,massin,,,
-108100,article,massin:2008j,,,2008,,Le Corps et l'Esprit : deuxi{\`e}me partie,Le Corps et l'Esprit : deuxième partie,,,,spps,,10,,,,,,,,,,,,,,,,,,,,,french,false,,,massin,,,
-108101,article,massin:2008k,,,2008,,Le Corps et l'Esprit : premi{\`e}re partie,Le Corps et l'Esprit : première partie,,,,spps,,9,,,,,,,,,,,,,,,,,,,,,french,false,,,massin,,,
-108102,article,massin:2008l,,,2008,,"Les cinq sens, le sens commun et les sensibles communs","Les cinq sens, le sens commun et les sensibles communs",,,,spps,,27,,,,,,,,,,,,,,,,,,,,,french,false,,,massin,,,
-108103,article,massin:2008m,,,2008,,The Irreducibility of Pleasure to Desire,The Irreducibility of Pleasure to Desire,,,,spps,,17,,,,,,,,,,,,,,,,,,,,,english,false,,,massin,,,
-108104,article,massin:2008n,,,2008,,The Phenomenology of Mind­-Independence,The Phenomenology of Mind­-Independence,,,,spps,,15,,,,,,,,,,,,,,,,,,,,,english,false,,,massin,,,
-108105,article,massin:2008o,,,2008,,The Self­/World Dualism and Neutral Monism,The Self­/World Dualism and Neutral Monism,,,,spps,,16,,,,,,,,,,,,,,,,,,,,,english,false,,,massin,,,
-108106,article,massin:2008p,,,2008,,Touch as a Sense of Force,Touch as a Sense of Force,,,,spps,,28,,,,,,,,,,,,,,,,,,,,,english,false,,,massin,,,
-108107,article,massin:2008q,,,2008,,Why Colours Don't Resist,Why Colours Don't Resist,,,,spps,,18,,,,,,,,,,,,,,,,,,,,,english,false,,,massin,,,
+108089,article,massin-poncet:2008,,,2008,,Illusion et Milieu Perceptif,Illusion et Milieu Perceptif,,,,spps,,5,,,,,,,,,,,,,,,,,,,10.48106/spps.00005,,french,false,,,massin;poncet_p,,,
+108090,article,massin:2008,,,2008,,Against Tropes,Against Tropes,,,,spps,,2,,,,,,,,,,,,,,,,,,,10.48106/spps.00002,,english,false,,,massin,,,
+108091,article,massin:2008a,,,2008,,Force and Causation,Force and Causation,,,,spps,,3,,,,,,,,,,,,,,,,,,,10.48106/spps.00003,,english,false,,,massin,,,
+108092,article,massin:2008b,,,2008,,Illusion et Depiction,Illusion et Depiction,,,,spps,,4,,,,,,,,,,,,,,,,,,,10.48106/spps.00004,,french,false,,,massin,,,
+108093,article,massin:2008c,,,2008,,In Defence of Mixed­ Feelings,In Defence of Mixed­ Feelings,,,,spps,,7,,,,,,,,,,,,,,,,,,,10.48106/spps.00007,,english,false,,,massin,,,
+108094,article,massin:2008d,,,2008,,Individu et Soci{\'e}t{\'e},Individu et Société,,,,spps,,8,,,,,,,,,,,,,,,,,,,10.48106/spps.00008,,french,false,,,massin,,,
+108095,article,massin:2008e,,,2008,,Introduction {\`a} la philosophie morale,Introduction à la philosophie morale,,,,spps,,11,,,,,,,,,,,,,,,,,,,10.48106/spps.00011,,french,false,,,massin,,,
+108096,article,massin:2008f,,,2008,,Introduction: The Nature of Pleasantness,Introduction: The Nature of Pleasantness,,,,spps,,12,,,,,,,,,,,,,,,,,,,10.48106/spps.00012,,english,false,,,massin,,,
+108097,article,massin:2008g,,,2008,,Kinds of Impenetrability,Kinds of Impenetrability,,,,spps,,13,,,,,,,,,,,,,,,,,,,10.48106/spps.00013,,english,false,,,massin,,,
+108098,article,massin:2008h,,,2008,,La Bipolarit{\'e} du Toucher,La Bipolarité du Toucher,,,,spps,,6,,,,,,,,,,,,,,,,,,,10.48106/spps.00006,,french,false,,,massin,,,
+108099,article,massin:2008i,,,2008,,La Possibilit{\'e} du Contact,La Possibilité du Contact,,,,spps,,14,,,,,,,,,,,,,,,,,,,10.48106/spps.00014,,french,false,,,massin,,,
+108100,article,massin:2008j,,,2008,,Le Corps et l'Esprit : deuxi{\`e}me partie,Le Corps et l'Esprit : deuxième partie,,,,spps,,10,,,,,,,,,,,,,,,,,,,10.48106/spps.00010,,french,false,,,massin,,,
+108101,article,massin:2008k,,,2008,,Le Corps et l'Esprit : premi{\`e}re partie,Le Corps et l'Esprit : première partie,,,,spps,,9,,,,,,,,,,,,,,,,,,,10.48106/spps.00009,,french,false,,,massin,,,
+108102,article,massin:2008l,,,2008,,"Les cinq sens, le sens commun et les sensibles communs","Les cinq sens, le sens commun et les sensibles communs",,,,spps,,27,,,,,,,,,,,,,,,,,,,10.48106/spps.00027,,french,false,,,massin,,,
+108103,article,massin:2008m,,,2008,,The Irreducibility of Pleasure to Desire,The Irreducibility of Pleasure to Desire,,,,spps,,17,,,,,,,,,,,,,,,,,,,10.48106/spps.00017,,english,false,,,massin,,,
+108104,article,massin:2008n,,,2008,,The Phenomenology of Mind­-Independence,The Phenomenology of Mind­-Independence,,,,spps,,15,,,,,,,,,,,,,,,,,,,10.48106/spps.00015,,english,false,,,massin,,,
+108105,article,massin:2008o,,,2008,,The Self­/World Dualism and Neutral Monism,The Self­/World Dualism and Neutral Monism,,,,spps,,16,,,,,,,,,,,,,,,,,,,10.48106/spps.00016,,english,false,,,massin,,,
+108106,article,massin:2008p,,,2008,,Touch as a Sense of Force,Touch as a Sense of Force,,,,spps,,28,,,,,,,,,,,,,,,,,,,10.48106/spps.00028,,english,false,,,massin,,,
+108107,article,massin:2008q,,,2008,,Why Colours Don't Resist,Why Colours Don't Resist,,,,spps,,18,,,,,,,,,,,,,,,,,,,10.48106/spps.00018,,english,false,,,massin,,,
 108108,article,massin:2009,,,2009,,The Metaphysics of Forces,The Metaphysics of Forces,,,,dialectica,63,4,555--589,555,,,,,,,,,,,The Philosophy of Vectors,The Philosophy of Vectors,,,,,10.1111/j.1746-8361.2009.01213.x,,english,false,,,massin,,leuenberger_s;blum_ph,1:properties;2:vectors
 108109,UNKNOWN,massin:2010,,,2010,,L'objectivit{\'e} du toucher.~M{\'e}taphysique et perception,L'objectivité du toucher. Métaphysique et perception,,,,,,,,,,,Marseille,,d_e_partement_de_philosophie_de_l_universit_e_de_provence,,Thèse de doctorat,,,,,,,,,,,,french,false,,,massin,,,1:perception;2:touch
 108110,UNKNOWN,massin:2011,,,2011,,On Pleasures,On Pleasures,,,,,,,,,,,Gen{\`e}ve,,d_e_partement_de_philosophie_universit_e_de_gen_e_ve,,Th{\`e}se de doctorat,,,,,,,,,,,,english,false,,,massin,,,1:feeling;2:pleasure
 108111,incollection,massin:2011a,,,2011,,Joies am{\`e}res et douces peines,Joies amères et douces peines,,,,,,,55--70,55,,,,,,,,,,,,,,,,,,,french,false,,,massin,,,1:feeling;2:emotions
 108112,incollection,massin:2011b,,,2011,,Le mutisme des sens,Le mutisme des sens,,,,,,,325--350,325,,,,,,,,,,,,,,,,,,,french,false,,,massin,,,1:perception;2:sensation
-108113,article,massin:2011c,,,2011,,The Objectivity of Touch,The Objectivity of Touch,,,,spps,,104,,,,,,,,,,,,,,,,,,,,,english,false,,,massin,,,
-108114,article,massin:2011d,,,2011,,When Forces Meet Each Other,When Forces Meet Each Other,,,,spps,,105,,,,,,,,,,,,,,,,,,,,,english,false,,,massin,,,
+108113,article,massin:2011c,,,2011,,The Objectivity of Touch,The Objectivity of Touch,,,,spps,,104,,,,,,,,,,,,,,,,,,,10.48106/spps.00104,,english,false,,,massin,,,
+108114,article,massin:2011d,,,2011,,When Forces Meet Each Other,When Forces Meet Each Other,,,,spps,,105,,,,,,,,,,,,,,,,,,,10.48106/spps.00105,,english,false,,,massin,,,
 108115,incollection,massin:2013,,,2013,,Determinables and Brute Similarities,Determinables and Brute Similarities,,,,,,,388--420,388,,,,,,,,,,,,,,,,,,,english,false,,,massin,,,1:properties;2:determinate_determinable
 108116,incollection,massin:2013a,,,2013,,The Intentionality of Pleasures and Other Feelings.~A Brentanian Approach,The Intentionality of Pleasures and Other Feelings. A Brentanian Approach,,,,,,,307--338,307,,,,,,,,,,,,,,,,,,,english,false,,,massin,,,1:feeling;2:pleasure
 108117,article,massin:2014,,,2014,,Pleasure and Its Contraries,Pleasure and Its Contraries,,,,the-review-of-philosophy-and-psychology,5,1,15--40,15,,,,,,,,,,,,,,,,,,,english,false,,,massin,,,1:feeling;2:pleasure
