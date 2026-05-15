@@ -1,5 +1,5 @@
 # Bump version and description before opening a PR to main.
 
-version: "11-alpha.1"
-description: "Second alpha release with v11 of the bibliography data, which still contains errors and inconsistencies, but lets us test the new data structure and API. Major change w.r.t alpha.0 is that the English language was added to Bibitems, and the Dialectica now has ISSN values."
+version: "11-alpha.2"
+description: "Second alpha release with v11 of the bibliography data, which still contains errors and inconsistencies, but lets us test the new data structure and API. Major change w.r.t alpha.1 is that the SPPS entries were cleaned up, completed, full with DOIs, and fixed (numbers for their DOIs from 78 onwards were shifted +1)."
 
