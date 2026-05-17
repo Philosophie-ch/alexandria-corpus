@@ -79,6 +79,13 @@ echo "=== Refs & Notes ==="
 bulk_import "bibitem_refs"   "$DATA_DIR/bibitem_refs/all.csv"
 bulk_import "bibitem_notes"  "$DATA_DIR/bibitem_notes/all.csv"
 
+echo "=== Recompute numeric fields ==="
+resp=$(curl -sf -X POST "$API/api/v1/admin/compute-numeric-fields" \
+  -H "Authorization: Bearer $KEY") \
+  || die "compute-numeric-fields failed"
+updated=$(echo "$resp" | python3 -c "import json,sys; print(json.load(sys.stdin)['updated'])")
+echo "  updated: $updated"
+
 END=$(date +%s)
 echo ""
 echo "Done in $((END - START))s"
