@@ -235,7 +235,7 @@ id,entry_type,bibkey,options,shorthand,date_year,pubstate,title_latex,title_unic
 164753,incollection,swinburne:1994a,,,1994,,Body and Soul,Body and Soul,,,,,,,,,311--316,311,,,,,,,,,,,,,,,,,,,english,false,,,swinburne,,,1:mind_body;2:physicalism
 164754,incollection,swinburne:1994b,,,1994,,Intellectual Autobiography,Intellectual Autobiography,,,,,,,,,1--18,1,,,,,,,,,,,,,,,,,,,english,false,,,swinburne,,,1:religion
 164755,article,swinburne:1995,,,1995,,Thisness,Thisness,,,,australasian-journal-of-philosophy,73,73,,,389--400,389,,,,,,,,,,,,,,,,,,,english,false,,,swinburne,,,1:ontology;2:haecceities
-164756,incollection,swinburne:1995a,,,1995,,Dasheit,Dasheit,,,,,,,,,121--140,121,,,,,,,,,,,,,,,,,,,ngerman,false,,,swinburne,,,1:ontology;2:haecceities
+164756,incollection,swinburne:1995a,,,1995,,Dasheit,Dasheit,,,,,,,,,121--140,121,,,,,,,,,,,,,,,,,,,german,false,,,swinburne,,,1:ontology;2:haecceities
 164757,article,swinburne:1995b,,,1995,,"Theodicy, Our Well-Being, and God's Rights","Theodicy, Our Well-Being, and God's Rights",,,,international-journal-for-philosophy-of-religion,38,38,1--3,1,75--91,75,,,,,,,,,Reprinted in \citet[75--91]{long_et:1995},Reprinted in Long (1995),,,,,,,,,english,false,,,swinburne,,,1:religion
 164758,book,swinburne:1996,,,1996,,The Coherence of Theism,The Coherence of Theism,,,,,,,,,,,,,Oxford,,,oxford-university-press,,2,First edition: \citet{swinburne:1977},First edition: Swinburne (1977),,,,,,,10.1093/acprof:oso/9780198779698.001.0001,,english,false,,,swinburne,,,1:religion;2:arguments_for_the_existence_of_god
 164759,book,swinburne:1996a,,,1996,,Is there a God?,Is there a God?,,,,,,,,,,,,,Oxford,,,oxford-university-press,,,,,,,,,,,10.1093/acprof:oso/9780198235446.001.0001,,english,false,,,swinburne,,,1:religion
