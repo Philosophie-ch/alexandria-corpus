@@ -11076,6 +11076,7 @@ brown_dh:2018a,macpherson_f-dorsch:2018,depends_on
 brown_dh:2018b,andrews_k-beck:2018,depends_on
 brown_dh:2021,brown_dh-macpherson:2021,depends_on
 brown_dj-desousa:2003,williston-gombay:2003,depends_on
+brown_dj:1997,lamb_r:1997,depends_on
 brown_dj:1999,aho_t-yrjoensuuri:1999,depends_on
 brown_dj:2002,lagerlund-yrjoensuuri:2002,depends_on
 brown_dj:2007,lagerlund:2007,depends_on
@@ -21490,6 +21491,7 @@ digiovanni_g:1995,robinson_hok:1995c,depends_on
 digiovanni_g:2005,carlson_dg:2005,depends_on
 digiovanni_g:2009,stolzenberg_j-rush:2009,depends_on
 digiovanni_g:2009a,westphal_kr:2009,depends_on
+digiovanni_g:2013a,delaurentiis-edwards:2013,depends_on
 digiovanni_g:2014,altman_mc:2014,depends_on
 digiovanni_m:2014,amerini_f-galluzzo:2014,depends_on
 digiovanni_p:2002,romano_f-barbanti:2002,depends_on
@@ -31408,6 +31410,7 @@ goetz_t-meurers:1997,cohen_par-wahlster:1997,depends_on
 goff_p-coleman:2020,kriegel_u:2020,depends_on
 goff_p-godsil:2017,jacobs_ja-jackson:2017,depends_on
 goff_p-papineau:2014,chalmers_dj:2010,further_ref
+goff_p-roelofs:2026,bugnon_j-etal:2026,depends_on
 goff_p:2006,valore:2006,depends_on
 goff_p:2009a,skrbina:2009,depends_on
 goff_p:2011c,blamauer:2011,depends_on
@@ -39408,6 +39411,7 @@ hooker_b:2005a,arneson_rj:2005,further_ref
 hooker_b:2005a,mcintyre_a:2005,further_ref
 hooker_b:2005a,phil-issues:2005,depends_on
 hooker_b:2010,skorupski:2010a,depends_on
+hooker_b:2011,sheinman:2011,depends_on
 hooker_b:2012a,heuer_u-lang:2012,depends_on
 hooker_b:2013,bakhurst-etal:2013,depends_on
 hooker_b:2014,timmons:2014,depends_on
@@ -48098,6 +48102,7 @@ lamb_d:1997,ginev-cohen:1997,depends_on
 lamb_jw:1975,lehrer_k:1994,depends_on
 lamb_m-lane:2016,heyward_c-roser:2016,depends_on
 lamb_ml:2007,vermeir_k-deckard:2012,depends_on
+lamb_r:1997b,lamb_r:1997,depends_on
 lambek_j-moerdijk:1982,troelstra-vandalen:1982,depends_on
 lambek_j:1961,jakobson:1961,depends_on
 lambek_j:1980,seldin_jp-hindley:1980,depends_on
@@ -51372,6 +51377,7 @@ london_j:2011,gracyk-kania:2011,depends_on
 london_p:1980,charniak-etal:1980,further_ref
 londregan:2006,weingast-wittman:2006,depends_on
 loner_d:2024,elkind_ldc-klein:2024,depends_on
+lonergan_b:2010,lonergan_b:1972,further_ref
 long_aa:1982,barnes_j-etal:1982,depends_on
 long_aa:1988,annas_j-grimm:1988,depends_on
 long_aa:1988,barnes_j:1988d,further_ref
@@ -61826,7 +61832,7 @@ noonan:1986,lowe_ej:1986,further_ref
 noonan:1986a,simons_p:1985b,further_ref
 noonan:1986b,butterfield_j:1986,depends_on
 noonan:1987a,spinks:1986,further_ref
-noonan:1989,noonan:2003,further_ref
+noonan:1989,noonan:2019,further_ref
 noonan:1989a,hale_b:1987,further_ref
 noonan:1993a,heil_j-mele:1993,depends_on
 noonan:1995,lowe_ej:1994a,further_ref
@@ -80665,7 +80671,9 @@ soble:1987,shelp_ee:1987,depends_on
 soble:1987a,shelp_ee:1987,depends_on
 soble:1988,brannigan_a-goldenberg:1988,further_ref
 soble:1988,soble:1991,further_ref
+soble:1998,soble:2008,further_ref
 soble:2005,borchert:2005,depends_on
+soble:2008,soble:1998,further_ref
 soble:2017,halwani_r-etal:2017,depends_on
 soble:2023,halwani_r-etal:2023,depends_on
 soble:2023a,halwani_r-etal:2023,depends_on
@@ -85870,7 +85878,9 @@ thooft:1994,hilgevoord:1994,depends_on
 thooft:2007,butterfield_j-earman:2007,depends_on
 thooft:2009,oriti:2009,depends_on
 thorburn_m:2016,dyzenhaus-thorburn:2016,depends_on
+thoreau:1854,thoreau:2004,further_ref
 thoreau:1991,bedau_ha:1991,depends_on
+thoreau:2004,thoreau:1854,further_ref
 thorn:2011,pust:2011,further_ref
 thorn:2013,puncochar-svarny:2013,depends_on
 thorn:2015,maeki-etal:2015,depends_on

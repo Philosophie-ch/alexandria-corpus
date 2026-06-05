@@ -1243,6 +1243,12 @@ lamb_p:2019,2:marxism,2
 lamb_p:2019,3:socialism,3
 lamb_r:1987,1:feeling,1
 lamb_r:1987,2:emotions,2
+lamb_r:1997,1:feeling,1
+lamb_r:1997,2:friendship,2
+lamb_r:1997,3:love,3
+lamb_r:1997b,1:feeling,1
+lamb_r:1997b,2:friendship,2
+lamb_r:1997b,3:love,3
 lambek_j-moerdijk:1982,1:mathematics,1
 lambek_j-moerdijk:1982,2:intuitionistic_mathematics,2
 lambek_j-scott:1981,1:logic,1
