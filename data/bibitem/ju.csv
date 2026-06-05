@@ -10,7 +10,7 @@ id,entry_type,bibkey,options,shorthand,date_year,pubstate,title_latex,title_unic
 84616,article,jubien:1977,,,1977,,Ontology and mathematical truth,Ontology and mathematical truth,,,,nous,11,11,,,133--150,133,,,,,,,,,,,,,,,,,,,english,false,,,jubien,,,1:ontology
 84617,article,jubien:1981,,,1981,,Intensional Foundations of Mathematics,Intensional Foundations of Mathematics,,,,nous,15,15,,,513--527,513,,,,,,,,,,,,,,,,,,,english,false,,,jubien,,,1:mathematics;2:intuitionistic_mathematics;3:intensional_mathematics
 84618,article,jubien:1981a,,,1981,,Formal Semantics and the Existence of Sets,Formal Semantics and the Existence of Sets,,,,nous,15,15,,,165--176,165,,,,,,,,,,,,,,,,,,,english,false,,,jubien,,,1:mathematics;2:set_theory;3:nature_of_sets
-84619,article,jubien:1985,,,1985,,Review of \citet{wright_c:1983},Review of,,,,the-journal-of-symbolic-logic,50,50,1,1,252--254,252,,,,,,,,,,,,,,,,,,,english,false,,,jubien,,,1:mathematics
+84619,article,jubien:1985,,,1985,,Review of \citet{wright_c:1983},Review of Wright (1983),,,,the-journal-of-symbolic-logic,50,50,1,1,252--254,252,,,,,,,,,,,,,,,,,,,english,false,,,jubien,,,1:mathematics
 84620,incollection,jubien:1988,,,1988,,On Properties and Property Theory,On Properties and Property Theory,,,chierchia-etal:1988,,,,,,159--175,159,,,,,,,,,,,,,,,,,,,english,false,,,jubien,,,1:properties
 84621,incollection,jubien:1988a,,,1988,,Problems with Possible Worlds,Problems with Possible Worlds,,,austin_df:1988,,,,,,299--322,299,,,,,,,,,,,,,,,,,,,english,false,,,jubien,,,1:modality;2:possible_worlds
 84622,article,jubien:1989,,,1989,,Straight Talk about Sets,Straight Talk about Sets,,,,philosophical-topics,17,17,2,2,91--128,91,,,,,,,,,,,,,,,,,,,english,false,,,jubien,,,1:mathematics;2:set_theory;3:nature_of_sets

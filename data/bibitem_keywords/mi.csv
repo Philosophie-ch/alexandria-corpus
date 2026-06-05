@@ -1878,6 +1878,9 @@ miller_se:1990,1:political_philosophy,1
 miller_se:1990,2:torture,2
 miller_se:1990a,1:social_philosophy,1
 miller_se:1990a,2:convention,2
+miller_se:2001,1:action,1
+miller_se:2001,2:collective_action,2
+miller_se:2001,3:collective_responsibility,3
 miller_se:2003,1:ontology,1
 miller_se:2003,2:social_ontology,2
 miller_se:2003a,1:ontology,1
