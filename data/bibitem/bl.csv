@@ -1102,7 +1102,7 @@ id,entry_type,bibkey,options,shorthand,date_year,pubstate,title_latex,title_unic
 16701,article,blum_ph:2022e,,,2022,,Aristotelian Forms and Representation by Identity,Aristotelian Forms and Representation by Identity,,,,spps,,,272,272,,,,,,,,,,,,,,,,,,,10.48106/spps.00272,,english,false,,,blum_ph,,,
 16702,article,blum_ph:2023,,,2023,,Ceasefire?,Ceasefire?,,,,philosophie-ch,,,,,,,,,,,,,,,,,,,,,,,,https://www.philosophie.ch/2023-02-09-blum,english,false,,cc-by-3,blum_ph,,,
 16703,article,blum_ph:2023a,,,2023,,Mike Ben Peter: Black Lives Matter,Mike Ben Peter: Black Lives Matter,,,,philosophie-ch,,,,,,,,,,,,,,,,,,,,,,,,https://www.philosophie.ch/2023-06-23-blum,german,false,,cc-by-3,blum_ph,,,
-16704,article,blum_ph:2024,,,2024,,Editorial: Farewell from the Editor,Editorial: Farewell from the Editor,,,,dialectica,78,78,1,1,,,,,,,,,,,,,,,,,,,10.48106/dial.v78.i1.03,,english,false,,,blum_ph,,,
+16704,article,blum_ph:2024,,,2024,,Editorial: Farewell from the Editor,Editorial: Farewell from the Editor,,,,dialectica,78,78,1,1,1--4,1,,,,,,,,,,,,,,,,,10.48106/dial.v78.i1.03,,english,false,,,blum_ph,,,
 16705,article,blum_ph:2024a,,,2024,,"Angeh{\""o}rige und Organspenden",Angehörige und Organspenden,,,,philosophie-ch,,,,,,,,,,,,,,,,,,,,,,,,https://www.philosophie.ch/2024-12-14-blum,german,false,,cc-by-3,blum_ph,,,
 16706,article,blum_ph:2024b,,,2024,,What Are Aristotelian Forms?,What Are Aristotelian Forms?,,,,spps,,,274,274,,,,,,,,,,,,,,,,,,,10.48106/spps.00274,,english,false,,,blum_ph,,,
 16707,article,blum_ph:2024c,,,2024,,Everything Is Positive,Everything Is Positive,,,,spps,,,275,275,,,,,,,,,,,,,,,,,,,10.48106/spps.00275,,english,false,,,blum_ph,,,
