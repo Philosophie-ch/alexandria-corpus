@@ -1,5 +1,5 @@
 # Bump version and description before opening a PR to main.
 
-version: "11.alpha-4"
-description: "Fourth alpha release with v11 of the bibliography data, which still contains errors and inconsistencies, but lets us test the new data structure and API. Major change w.r.t alpha.3 is that the crossref column has been populated for bibitems."
+version: "11.alpha-5"
+description: "Fifth alpha release with v11 of the bibliography data, which still contains errors and inconsistencies, but lets us test the new data structure and API. Major change w.r.t alpha-4 is that the latest dialectica.bib data has been integrated."
 
