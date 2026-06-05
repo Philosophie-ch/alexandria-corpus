@@ -85,7 +85,7 @@ id,entry_type,bibkey,options,shorthand,date_year,pubstate,title_latex,title_unic
 59416,incollection,geach_pt:1976b,,,1976,,Back-Reference,Back-Reference,,,kasher_a:1976,,,,,,25--39,25,,,,,,,,,,,,,,,,,,,english,false,,,geach_pt,,,1:reference;2:anaphora
 59417,article,geach_pt:1976c,,,1976,,Murder and Sodomy,Murder and Sodomy,,,,philosophy,51,51,,,346--348,346,,,,,,,,,,,,,,,,,,,english,false,,,geach_pt,,,1:ethics
 59418,article,geach_pt:1976d,,,1976,,Two Kinds of Intentionality?,Two Kinds of Intentionality?,,,,the-monist,59,59,,,306--320,306,,,,,,,,,,,,,,,,,,,english,false,,,geach_pt,,,2:intentionality
-59419,article,geach_pt:1976e,,,1976,,Review of \citet{dummett_mae:1973},Review of,,,,mind,85,85,,,436--449,436,,,,,,,,,,,,,,,,,,,english,false,,,geach_pt,,,
+59419,article,geach_pt:1976e,,,1976,,Review of \citet{dummett_mae:1973},Review of Dummett (1973),,,,mind,85,85,,,436--449,436,,,,,,,,,,,,,,,,,,,english,false,,,geach_pt,,,
 59420,incollection,geach_pt:1976f,,,1976,,Why Logic Matters,Why Logic Matters,,,lewis_hd:1976,,,,,,86--99,86,,,,,,,,,,,,,,,,,,,english,false,,,geach_pt,,,1:logic
 59421,book,geach_pt:1977,,,1977,,"Providence and Evil: The Stanton Lectures, 1971-2","Providence and Evil: The Stanton Lectures, 1971-2",,,,,,,,,,,,,Cambridge,,,cambridge-university-press,,,,,,,,,,,,,english,false,,,geach_pt,,,1:religion;2:problem_of_evil
 59422,book,geach_pt:1977a,,,1977,,The Virtues: The Stanton Lectures 1973-4,The Virtues: The Stanton Lectures 1973-4,,,,,,,,,,,,,Cambridge,,,cambridge-university-press,,,,,,,,,,,,,english,false,,,geach_pt,,,1:ethics

@@ -37857,6 +37857,7 @@ hight:2010,parigi_s:2010,depends_on
 hight:2017,belfrage_b-brook:2017,depends_on
 hight:2020,pearce_kl-oda:2020,depends_on
 hiipakka:1996,childers_t-etal:1996,depends_on
+hilbert_d:1900a,ewald_wb:1996a,further_ref
 hilbert_d:1915,renn_j-schemmel:2007,depends_on
 hilbert_d:1916,renn_j-schemmel:2007,depends_on
 hilbert_d:1917,renn_j-schemmel:2007,depends_on
@@ -68693,6 +68694,7 @@ quine-ullian:1970,quine-ullian:1978,further_ref
 quine-ullian:1978,quine-ullian:1970,further_ref
 quine:1941b,quine:1966a,further_ref
 quine:1941b,schilpp:1941,depends_on
+quine:1951d,harding_s:1976,depends_on
 quine:1951f,henle_p-etal:1951,depends_on
 quine:1966a,quine:1995c,further_ref
 quine:1966b,klemke_ed:1970,further_ref
