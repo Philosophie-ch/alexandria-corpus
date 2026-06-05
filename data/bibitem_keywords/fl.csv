@@ -316,6 +316,7 @@ fletcher_sc:2021a,2:physical_time,2
 fletcher_sc:2021a,3:time_in_relativity_theory,3
 fletchermaumus:2012,1:reference,1
 fletchermaumus:2012,2:names,2
+fletcherthompson:1994,1:perception,1
 fleurbaey-etal:2007,1:political_philosophy,1
 fleurbaey-etal:2007a,1:political_philosophy,1
 fleurbaey-etal:2007a,2:liberalism,2
@@ -744,5 +745,15 @@ flynn_jr:2018,1:political_philosophy,1
 flynn_m:1987,1:linguistics,1
 flynn_m:1987,2:categorial_grammar,2
 flynn_s:1988,1:linguistics,1
+flynn_t:1981,1:skepticism,1
+flynn_t:1981,2:other_minds,2
+flynn_t:1983,1:political_philosophy,1
+flynn_t:1985,1:history_of_philosophy,1
+flynn_t:1992,1:history,1
+flynn_t:1998,1:history_of_philosophy,1
+flynn_t:2003,1:social_philosophy,1
+flynn_t:2003a,1:ontology,1
+flynn_t:2003a,2:negativity,2
 flynn_t:2005a,1:history,1
 flynn_t:2006,1:history_of_philosophy,1
+flynn_t:2012,1:political_philosophy,1

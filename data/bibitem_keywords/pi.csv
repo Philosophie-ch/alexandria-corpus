@@ -416,6 +416,8 @@ pieper_a:1989,1:ethics,1
 pieper_a:1989,3:categorical_imperative,3
 pieper_a:1995,2:evil,2
 pieper_a:2002,1:ethics,1
+pieper_a:2003,1:action,1
+pieper_a:2003,2:agency,2
 pieper_a:2008,2:evil,2
 pieper_a:2009,1:rationality,1
 pieper_a:2009,2:practical_rationality,2
@@ -1217,6 +1219,8 @@ pinkard:2017b,2:method_in_of_philosophy,2
 pinkard:2019,1:metaphysics,1
 pinkard:2019,2:transcendental_idealism,2
 pinkard:2020,1:metaphysics,1
+pinkard:2022,1:metaphysics,1
+pinkard:2022,2:existentialism,2
 pinkas_d:2000,1:skepticism,1
 pinkas_d:2000,2:evil_demon,2
 pinkas_g-loui:1992,1:information,1

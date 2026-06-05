@@ -2128,6 +2128,8 @@ hall_rj:2007,1:perception,1
 hall_rj:2007,2:phenomenal_properties,2
 hall_rj:2008,1:feeling,1
 hall_rj:2008,2:pain,2
+hall_rl:1980,1:political_philosophy,1
+hall_rl:1980,2:liberty,2
 hall_rl:1989,1:religion,1
 hall_rl:1989,2:heaven_and_hell,2
 hall_rp:1987,1:argumentation,1
@@ -3537,6 +3539,7 @@ hanley_rp:2017,1:history_of_philosophy,1
 hanley_rp:2017a,1:history_of_philosophy,1
 hanley_rp:2020,1:history_of_philosophy,1
 hanley_rp:2020a,1:political_philosophy,1
+hanly:1966,2:consciousness,2
 hanly:1988,1:science,1
 hanna_ja:2018,1:political_philosophy,1
 hanna_ja:2018,2:authority,2
@@ -4524,6 +4527,8 @@ harding_sa-carbonellcortes:2018,3:translation,3
 hardman_a:2014,1:technology,1
 hardmanmoore:2016,1:religion,1
 hardmanmoore:2016,2:theology,2
+hardt_dan-etal:2012,1:reference,1
+hardt_dan-etal:2012,2:anaphora,2
 hardt_dan:1999,1:semantics,1
 hardt_dan:1999,2:dynamic_semantics,2
 hardt_dav:1997,1:linguistics,1
@@ -5865,7 +5870,6 @@ hart_hla:1961,1:law,1
 hart_hla:1961a,1:law,1
 hart_hla:1962,1:law,1
 hart_hla:1963,1:law,1
-hart_hla:1963a,1:law,1
 hart_hla:1963b,1:law,1
 hart_hla:1963c,1:law,1
 hart_hla:1964,1:law,1
@@ -6146,6 +6150,8 @@ hartmann_kl:1972,1:metaphysics,1
 hartmann_kl:1972,2:transcendental_idealism,2
 hartmann_kl:1977,1:social_sciences,1
 hartmann_kl:1981,1:political_philosophy,1
+hartmann_kl:1981a,1:ontology,1
+hartmann_kl:1981a,2:social_ontology,2
 hartmann_kl:1985,1:metaphysics,1
 hartmann_kl:1985,2:the_absolute,2
 hartmann_kl:1990,1:metaphysics,1
@@ -6153,6 +6159,8 @@ hartmann_m-etal:2013,1:metaphysics,1
 hartmann_m-etal:2013,2:pragmatism,2
 hartmann_m:2010,1:feeling,1
 hartmann_m:2010,2:emotions,2
+hartmann_m:2017,1:feeling,1
+hartmann_m:2017,2:emotions,2
 hartmann_n:1905,1:properties,1
 hartmann_n:1905,2:powers,2
 hartmann_n:1905,3:forces,3
@@ -6870,6 +6878,8 @@ hatzimoysis:2011a,1:knowledge,1
 hatzimoysis:2011a,2:self_knowledge,2
 hatzimoysis:2014,1:feeling,1
 hatzimoysis:2014,2:emotions,2
+hatzimoysis:2017,1:feeling,1
+hatzimoysis:2017,2:emotions,2
 hatzistavrou:2005,1:political_philosophy,1
 hatzistavrou:2013,1:political_philosophy,1
 hatzistavrou:2014,1:political_philosophy,1

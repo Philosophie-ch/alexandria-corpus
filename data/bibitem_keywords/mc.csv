@@ -168,6 +168,8 @@ mcbride_wl:1971,2:legal_reasoning,2
 mcbride_wl:1972,1:political_philosophy,1
 mcbride_wl:1972,2:authority,2
 mcbride_wl:1972,3:coercion,3
+mcbride_wl:1981,1:political_philosophy,1
+mcbride_wl:1981,2:marxism,2
 mcbride_wl:1985,1:political_philosophy,1
 mcbride_wl:1985,2:politics,2
 mcbride_wl:1988,1:political_philosophy,1
@@ -1163,6 +1165,8 @@ mcculloch_g:1991,2:metaphysics_of_words,2
 mcculloch_g:1993,1:perception,1
 mcculloch_g:1993,2:phenomenal_properties,2
 mcculloch_g:1993,3:qualia,3
+mcculloch_g:1993a,1:metaphysics,1
+mcculloch_g:1993a,2:realism,2
 mcculloch_g:1994,1:representation,1
 mcculloch_g:1994,2:content_determination,2
 mcculloch_g:1994,3:content_externalism,3
@@ -3143,6 +3147,8 @@ mckitterick_r:1992,1:history_of_philosophy,1
 mckitterick_r:1995,1:history_of_philosophy,1
 mcknight_cj:1996,1:metaphysics,1
 mcknight_cj:1996,2:relativism,2
+mclachlan:2015,1:religion,1
+mclachlan:2015,2:heaven_and_hell,2
 mclaren_bm:1999,1:ai,1
 mclaren_bm:1999,2:machine_reasoning,2
 mclaren_bm:1999,3:case_based_reasoning,3

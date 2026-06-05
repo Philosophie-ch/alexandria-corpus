@@ -796,6 +796,8 @@ tanasoca_a:2019,3:citizenship,3
 tancelin:2005,1:aesthetics,1
 tancelin:2005,2:fiction,2
 tancelin:2005,3:poetry,3
+tandon:1998,1:persons,1
+tandon:1998,2:self,2
 tandon:1999,1:history_of_philosophy,1
 tandon:2002,1:religion,1
 tanenbaum:1984,1:computation,1
@@ -1250,6 +1252,8 @@ tarski_a:1935c,1:mathematics,1
 tarski_a:1935d,1:explanation,1
 tarski_a:1935d,2:definition,2
 tarski_a:1935e,1:probability,1
+tarski_a:1936,1:logic,1
+tarski_a:1936,2:logic_course,2
 tarski_a:1936a,1:logic,1
 tarski_a:1936a,2:entailment,2
 tarski_a:1936a,3:logical_consequence,3

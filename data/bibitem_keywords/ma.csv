@@ -3197,6 +3197,8 @@ malinas:2003,2:two_envelope_paradox,2
 malinconico_a-tagliagambe:2018,1:time,1
 maling:1984,1:language,1
 maling:1984,2:reflexive_constructions,2
+malinge_y-djeranian:2023,1:metaphysics,1
+malinge_y-djeranian:2023,2:existentialism,2
 malink-rosen:2013,1:method,1
 malink-rosen:2013,2:reductio,2
 malink:2006,1:logic,1
@@ -4891,8 +4893,6 @@ marek_ww-truszcynski:1994a,1:rationality,1
 marek_ww-truszcynski:1994a,2:belief_revision,2
 marek_ww:1987,1:information,1
 marek_ww:1987,2:knowledge_representation,2
-marek_ww:1993,1:ai,1
-marek_ww:1993,2:history_of_ai,2
 marek_ww:2008,1:mathematics,1
 marek_ww:2008,2:history_of_mathematics,2
 marelli_f:2012,1:aesthetics,1
@@ -7104,6 +7104,8 @@ martin_rog:1964,2:logic_course,2
 martin_sb:1966,2:metaphysics_of_mind,2
 martin_t:2007,1:complexity,1
 martin_t:2007,2:mereology,2
+martin_th:1996,2:aesthetic_value,2
+martin_th:1996,3:beauty,3
 martin_th:1998,1:knowledge,1
 martin_th:1998,2:self_knowledge,2
 martin_th:1998,3:self_deception,3
@@ -9741,8 +9743,6 @@ mayr_er:2017,2:free_will,2
 mayr_er:2018,1:political_philosophy,1
 mayr_er:2018,2:rights,2
 mayr_er:2018,3:human_rights,3
-mays_e-etal:1991,1:information,1
-mays_e-etal:1991,2:knowledge_representation,2
 mays_w:1945,1:metaphilosophy,1
 mays_w:1952,1:ai,1
 mays_w:1952,2:foundations_of_ai,2
@@ -9784,6 +9784,8 @@ maziarz_e:1987,1:mathematics,1
 maziarz_e:1987,2:sociology_of_mathematics,2
 maziarz_e:1988,1:mathematics,1
 maziarz_e:1988,2:sociology_of_mathematics,2
+mazis:1979,1:perception,1
+mazis:1979,2:touch,2
 mazis:1988,1:history_of_philosophy,1
 mazlack:1976,1:computation,1
 mazlack:1976,2:programming,2

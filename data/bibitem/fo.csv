@@ -1146,3 +1146,4 @@ id,entry_type,bibkey,options,shorthand,date_year,pubstate,title_latex,title_unic
 54963,incollection,foxeades-etal:2013,,,2013,,Happiness in the Classroom,Happiness in the Classroom,,,david_s-etal:2013,,,,,,579--591,579,,,,,,,,,,,,,,,,,,,english,false,,,foxeades;proctor_c;ashley_m,,,1:feeling;2:happiness
 54964,incollection,foxpiven:2006,,,2006,,The Politics of Retrenchment: The US Case,The Politics of Retrenchment: The US Case,,,moran_m-etal:2006,,,,,,858--873,858,,,,,,,,,,,,,,,,,,,english,false,,,foxpiven,,,1:political_philosophy
 54965,book,foyer_j-etal:2009,,,2009,,La vertu,La vertu,La vertu,La vertu,,,,,,,,,,,Paris,,,presses-universitaires-de-france,,,,,,,,,,,,,french,false,,,,foyer_j;terre_f;puigelier_c,,1:ethics
+186665,incollection,follesdal_d:1981b,,,1981,,Sartre on Freedom,Sartre on Freedom,,,schilpp:1981,,,,,,392--407,392,,,,,,,,,,,,,,,,,,,english,false,,,follesdal_d,,,1:political_philosophy;2:liberty

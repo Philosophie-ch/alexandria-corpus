@@ -1080,6 +1080,7 @@ lalivedepinay:1976,1:religion,1
 lalla_s:2003,1:science,1
 lalla_s:2008,1:time,1
 lalla_s:2008,2:eternity,2
+lallement_b:2004,1:history_of_philosophy,1
 lallement_b:2005,1:social_sciences,1
 lallement_b:2005,2:sociology,2
 lallement_m:2005,1:social_sciences,1
@@ -2286,6 +2287,9 @@ langensand_l-mathis:2019,1:political_philosophy,1
 langensand_l-mathis:2019,2:anarchism,2
 langer_j:2001,1:language,1
 langer_j:2001,2:language_learning,2
+langer_m:1981,1:history_of_philosophy,1
+langer_m:2009,1:persons,1
+langer_m:2009,2:the_body,2
 langer_sk:1926,1:representation,1
 langer_sk:1926,2:meaning,2
 langer_sk:1926a,1:properties,1
@@ -2690,6 +2694,7 @@ laplane_d:2005,1:psychology,1
 laplane_d:2005,2:neuroscience,2
 laplantine_f:2015,1:perception,1
 laplantine_f:2015,2:the_senses,2
+lapointe_fh:1976,1:persons,1
 lapointe_sa-etal:2009,1:history_of_philosophy,1
 lapointe_sa-pincock:2017,1:history_of_philosophy,1
 lapointe_sa-pincock:2017a,1:history_of_philosophy,1
@@ -4270,6 +4275,8 @@ lazarus_rs:2001,1:feeling,1
 lazarus_rs:2001,2:emotions,2
 lazenby-butterfield:2018,1:political_philosophy,1
 lazenby-butterfield:2018,2:discrimination,2
+lazere_d:1981,1:political_philosophy,1
+lazere_d:1981,2:marxism,2
 lazerowitz_aa:1967,1:structuralism,1
 lazerowitz_aa:1967,2:relations,2
 lazerowitz_m-ambrose:1983,1:epistemology,1

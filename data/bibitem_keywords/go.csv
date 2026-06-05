@@ -1699,6 +1699,9 @@ goldszmidt-pearl:1996,2:qualitative_probability,2
 goldszmidt:1992,1:probability,1
 goldszmidt:1992,2:qualitative_probability,2
 goldszmidt:2010,1:decision_theory,1
+goldthorpe:1992,1:history_of_philosophy,1
+goldthorpe:1996,1:persons,1
+goldthorpe:1996,2:self,2
 goldthorpe:2003,1:aesthetics,1
 goldthorpe:2003,2:fiction,2
 goldwasser-etal:1989,1:computation,1
@@ -1755,6 +1758,8 @@ golob_s:2017a,1:metaphysics,1
 golob_s:2017a,2:transcendental_deduction,2
 golob_s:2017b,1:ethics,1
 golob_s:2021,1:action,1
+golomb_j:2002,1:metaphysics,1
+golomb_j:2002,2:phenomenology,2
 golomb_j:2005,1:ethics,1
 golosz_j:2002,1:time,1
 golosz_j:2002,2:motion,2
@@ -1908,6 +1913,7 @@ gomezlobo:1987,3:self_predication,3
 gomezlobo:1989,1:history_of_philosophy,1
 gomezlobo:1991,1:ethics,1
 gomezlobo:2004,1:ethics,1
+gomezmuller:2005,1:history_of_philosophy,1
 gomezmuller:2005a,1:history_of_philosophy,1
 gomezperez-benjamins:2002,1:ethics,1
 gomezpin:1996,1:history_of_philosophy,1
@@ -2890,6 +2896,8 @@ gordon_js-etal:2016,1:political_philosophy,1
 gordon_js-etal:2016,2:rights,2
 gordon_js-etal:2016,3:human_rights,3
 gordon_lr:2003,1:history_of_philosophy,1
+gordon_lr:2009,1:persons,1
+gordon_lr:2009,2:the_body,2
 gordon_lr:2014,1:history,1
 gordon_lr:2017,1:political_philosophy,1
 gordon_lr:2017,2:discrimination,2
