@@ -3460,6 +3460,8 @@ carraud:2009,1:epistemology,1
 carraud:2009,2:cogito,2
 carre:1946,1:properties,1
 carre:1946,2:property_nominalism,2
+carre:1982,1:persons,1
+carre:1982,2:self,2
 carreiro-demri:2012,1:logic,1
 carreiro-demri:2012,2:modal_logic,2
 carreiro-venema:2014,1:logic,1
@@ -4758,6 +4760,7 @@ casewinters:2019,3:incarnation,3
 casey_es:1974,1:epistemology,1
 casey_es:1974,2:a_priori,2
 casey_es:1976,2:imagination,2
+casey_es:1981,2:imagination,2
 casey_es:1985,2:memory,2
 casey_es:1993,2:memory,2
 casey_es:1997,1:aesthetics,1
@@ -4843,6 +4846,8 @@ cassam:1998,1:epistemology,1
 cassam:2000,1:rationality,1
 cassam:2000a,1:method,1
 cassam:2000a,2:transcendental_arguments,2
+cassam:2002,1:persons,1
+cassam:2002,2:the_body,2
 cassam:2003,1:epistemology,1
 cassam:2003a,1:epistemology,1
 cassam:2003a,2:a_priori,2
@@ -5532,7 +5537,11 @@ catalani:2004,1:method,1
 catalano_gd:2021,1:science,1
 catalano_gd:2021,2:technology,2
 catalano_gd:2021,3:engineering,3
+catalano_js:1998,1:persons,1
+catalano_js:1998,2:the_body,2
 catalano_js:2000,2:consciousness,2
+catalano_js:2021,1:metaphysics,1
+catalano_js:2021,2:existentialism,2
 cataldi:2015,1:feeling,1
 cataldi:2015,2:emotions,2
 catan_j:1972,1:metaphysics,1
@@ -5918,10 +5927,14 @@ caws:1975,3:inference,3
 caws:1975a,1:language,1
 caws:1989,1:method,1
 caws:1989,2:induction,2
+caws:1992,1:structuralism,1
+caws:1992,2:post_structuralism,2
 caws:1994,1:history_of_philosophy,1
 caws:2000,1:history_of_philosophy,1
 caws:2003,1:truth,1
 caws:2003,2:temporal_truth,2
+caws:2003a,1:ontology,1
+caws:2003a,2:negativity,2
 cawsey:1990,1:explanation,1
 cawsey:1992,1:explanation,1
 cawsey:1993,1:explanation,1

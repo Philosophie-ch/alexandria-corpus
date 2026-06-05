@@ -18,6 +18,8 @@ hoag:1987,1:feeling,1
 hoag:1987,2:happiness,2
 hoagland_h:1943,1:time,1
 hoagland_h:1950,2:consciousness,2
+hoagland_sl:1999,1:political_philosophy,1
+hoagland_sl:1999,2:feminism,2
 hoard:1998,1:linguistics,1
 hoard:1998,2:logic_for_natural_language,2
 hoard:1998,3:natural_language_programming,3
@@ -2646,6 +2648,8 @@ honneth:2002a,2:metaethics,2
 honneth:2002a,3:moral_realism,3
 honneth:2003,1:political_philosophy,1
 honneth:2003,2:anerkennung,2
+honneth:2003a,1:political_philosophy,1
+honneth:2003a,2:anerkennung,2
 honneth:2004,1:rationality,1
 honneth:2004a,1:identity,1
 honneth:2004a,2:individuation,2
@@ -3106,6 +3110,7 @@ hopkins_r:2012b,2:perceptual_content,2
 hopkins_r:2012c,1:perception,1
 hopkins_r:2013,1:perception,1
 hopkins_r:2016,1:aesthetics,1
+hopkins_r:2016a,2:imagination,2
 hopkins_r:2016b,1:aesthetics,1
 hopkins_r:2016b,2:film,2
 hopkins_r:2018,2:memory,2
@@ -4803,6 +4808,12 @@ howell_rj:2023a,2:de_se,2
 howell_rj:2023a,3:mineness,3
 howell_wg:2006,1:social_philosophy,1
 howell_wg:2006,2:institutions,2
+howells_c:1992,1:history_of_philosophy,1
+howells_c:1992a,1:history_of_philosophy,1
+howells_c:1992b,1:persons,1
+howells_c:1992b,2:self,2
+howells_c:2009,1:persons,1
+howells_c:2009,2:the_body,2
 howells_e:2012,1:religion,1
 howells_e:2012,2:religious_experience,2
 howells_e:2012,3:mysticism,3

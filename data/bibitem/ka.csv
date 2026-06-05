@@ -1973,3 +1973,4 @@ id,entry_type,bibkey,options,shorthand,date_year,pubstate,title_latex,title_unic
 86798,article,kazmi:1987,,,1987,,Quantification and Opacity,Quantification and Opacity,,,,linguistics-and-philosophy,10,10,1,1,77--100,77,,,,,,,,,,,,,,,,,,,english,false,,,kazmi,,,1:representation;2:propositional_attitudes
 86799,article,kazmi:1990,,,1990,,Parthood and Persistence,Parthood and Persistence,,,,canadian-journal-of-philosophy,20,20,suppl.~16,,227--250,227,,,,,,,,,,,,,,,,,,,english,false,,,kazmi,,,1:time;2:persistence
 86800,incollection,kazmi:1992,,,1992,,Some Remarks on Indiscernibility,Some Remarks on Indiscernibility,,,hanson_pp-hunter:1992,,,,,,167--178,167,,,,,,,,,,,,,,,,,,,english,false,,,kazmi,,,1:identity;2:indiscernibles
+186714,incollection,kampits_p:2003,,,2003,,Grundlose Freiheit (833-949 und 950-955),Grundlose Freiheit (833-949 und 950-955),,,schumacher_bn:2003,,,,,,211--226,211,,,,,,,,,,,,,,,,,,,german,false,,,kampits_p,,,1:political_philosophy;2:liberty

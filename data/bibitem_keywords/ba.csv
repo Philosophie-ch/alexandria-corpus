@@ -1338,6 +1338,7 @@ baiasu_r:2012,1:space_spacetime,1
 baiasu_r:2013,1:time,1
 baiasu_r:2013,2:ontology_of_time,2
 baiasu_s-grier:2011,1:history_of_philosophy,1
+baiasu_s:2011,1:ethics,1
 baiasu_s:2011a,1:space_spacetime,1
 baiasu_s:2013,1:action,1
 baiasu_s:2013,2:motivation,2
@@ -2435,6 +2436,9 @@ baldwin_t:1984a,3:moore_s_proof,3
 baldwin_t:1985,1:ethics,1
 baldwin_t:1985a,1:political_philosophy,1
 baldwin_t:1985a,2:political_tolerance,2
+baldwin_t:1986,1:history_of_philosophy,1
+baldwin_t:1986a,1:metaphilosophy,1
+baldwin_t:1986a,2:analytic_continental_philosophy,2
 baldwin_t:1988,1:metaphysics,1
 baldwin_t:1988,2:perspectivalism,2
 baldwin_t:1988,3:solipsism,3
@@ -4192,6 +4196,11 @@ barnes_go:2007,2:necessary_a_posteriori,2
 barnes_go:2012,1:ethics,1
 barnes_go:2016,1:political_philosophy,1
 barnes_go:2016,2:justice,2
+barnes_he:1981,1:mind_body,1
+barnes_he:1992,1:ontology,1
+barnes_he:1992,2:being,2
+barnes_he:1999,1:political_philosophy,1
+barnes_he:1999,2:feminism,2
 barnes_j-barnes:1989,1:time,1
 barnes_j-bobzien:1999,1:logic,1
 barnes_j-etal:1975,1:history_of_philosophy,1
@@ -5981,6 +5990,8 @@ bates_je-etal:2008,1:feeling,1
 bates_jea:2014,1:time,1
 bates_jea:2014,2:death,2
 bates_jea:2014,3:evil_of_death,3
+bates_jo-etal:1991,1:ai,1
+bates_jo-etal:1991,2:foundations_of_ai,2
 bates_jo:1992,1:ai,1
 bates_jo:1992,2:virtual_reality,2
 bates_jo:1994,1:feeling,1

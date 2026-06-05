@@ -313,7 +313,6 @@ areces-tencate:2007,2:modal_logic,2
 arechiga:1996,1:time,1
 arechiga:1996,2:experience_of_time,2
 arenas:1996,1:method,1
-arenas:2001,1:technology,1
 arends_f:2007,1:political_philosophy,1
 arendt_h:1951,1:political_philosophy,1
 arendt_h:1964,1:political_philosophy,1
@@ -1363,6 +1362,9 @@ aronson_jl:1990,1:properties,1
 aronson_jl:1990,2:token_type,2
 aronson_jl:1997,1:properties,1
 aronson_jl:1997,2:dispositions,2
+aronson_r:1981,1:history_of_philosophy,1
+aronson_r:1987,1:history_of_philosophy,1
+aronson_r:1992,1:history_of_philosophy,1
 aronson_r:2005,1:political_philosophy,1
 aronson_r:2017,1:political_philosophy,1
 aronson_sh:1972,1:feeling,1

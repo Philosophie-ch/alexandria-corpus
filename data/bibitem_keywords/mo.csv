@@ -2179,6 +2179,7 @@ morana:1998,2:friendship,2
 morand_b:2004,1:representation,1
 morand_b:2004,2:natural_meaning,2
 morand_b:2004,3:signs,3
+morando_c:2015,2:imagination,2
 morange:2005,1:biology,1
 morange:2007,1:time,1
 morange:2007,2:death,2
@@ -2434,6 +2435,7 @@ morel_pm:2009a,2:atomism,2
 morel_pm:2010,1:history_of_philosophy,1
 morel_pm:2016,1:ethics,1
 morel_pm:2019,1:epistemology,1
+moreland_jm:1973,2:substance,2
 moreland_jp-craig:2003,1:religion,1
 moreland_jp-craig:2003a,1:religion,1
 moreland_jp-craig:2003a,2:god,2
@@ -3290,6 +3292,13 @@ morris_kj:1996,1:feeling,1
 morris_kj:1996,2:pain,2
 morris_kj:2000,1:animals,1
 morris_kj:2000,2:animal_cognition,2
+morris_kj:2009,1:persons,1
+morris_kj:2009,2:the_body,2
+morris_kj:2009a,1:persons,1
+morris_kj:2009a,2:the_body,2
+morris_kj:2009b,1:persons,1
+morris_kj:2009b,2:the_body,2
+morris_kj:2010,1:action,1
 morris_kj:2013,1:persons,1
 morris_kj:2013,2:the_body,2
 morris_kj:2014,1:skepticism,1
@@ -3325,6 +3334,13 @@ morris_pe-hampson:1983,2:imagery,2
 morris_ph:1988,1:information,1
 morris_ph:1988,2:knowledge_representation,2
 morris_ph:1988,3:yale_shooting_problem,3
+morris_ps:1982,1:persons,1
+morris_ps:1982,2:the_body,2
+morris_ps:1996,1:persons,1
+morris_ps:1996,2:self,2
+morris_ps:1999,1:political_philosophy,1
+morris_ps:1999,2:discrimination,2
+morris_ps:1999,3:objectification,3
 morris_ra-morris:2000,1:rationality,1
 morris_ra-morris:2000,2:temporal_reasoning,2
 morris_ri:2017,1:action,1

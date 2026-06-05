@@ -416,3 +416,4 @@ id,entry_type,bibkey,options,shorthand,date_year,pubstate,title_latex,title_unic
 57183,article,futter_db:2015,,,2015,,Variations in Philosophical Genre: The Platonic Dialogue,Variations in Philosophical Genre: The Platonic Dialogue,,,,metaphilosophy,46,46,2,2,246--262,246,,,,,,,,,,,,,,,,,,,english,false,,,futter_db,,,1:metaphilosophy
 57184,article,futter_db:2016,,,2016,,Philosophical Anti-authoritarianism,Philosophical Anti-authoritarianism,,,,philosophia,44,44,4,4,1333--1349,1333,,,,,,,,,,,,,,,,,,,english,false,,,futter_db,,,1:metaphilosophy
 186577,article,furrer_d:2009,,,2009,,Ce n'est qu'un animal apr{\`e}s tout!,Ce n'est qu'un animal après tout!,,,,spps,,,31,31,,,,,,,,,,,,,,,,,,,10.48106/spps.00031,,french,false,,,furrer_da,,,
+186671,incollection,fullbrook_e-fullbook:1999,,,1999,,The \emph{Absence} of Beauvoir,The Absence of Beauvoir,,,murphy_js:1999,,,,,,45--63,45,,,,,,,,,,,,,,,,,,,english,false,,,fullbrook_e;fullbrook_k,,,1:political_philosophy;2:feminism

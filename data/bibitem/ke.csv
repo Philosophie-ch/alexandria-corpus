@@ -1211,3 +1211,5 @@ id,entry_type,bibkey,options,shorthand,date_year,pubstate,title_latex,title_unic
 88010,incollection,keyt:2011,,,2011,,Plato on Justice,Plato on Justice,,,anagnostopoulos_g:2011,,,,,,255--270,255,,,,,,,,,,,,,,,,,,,english,false,,,keyt,,,1:political_philosophy;2:justice
 88011,incollection,keyt:2013,,,2013,,A Life in the Academy,A Life in the Academy,,,,,,,,,11--44,11,,,,,,,,,,,,,,,,,,,english,false,,,keyt,,,1:history_of_philosophy
 88012,incollection,keyt:2018,,,2018,,Aristotle on Freedom and Equality,Aristotle on Freedom and Equality,,,anagnostopoulos_g-santas:2018,,,,,,225--241,225,,,,,,,,,,,,,,,,,,,english,false,,,keyt,,,1:history_of_philosophy;3:democracy
+186715,article,kelly_maj:1979,,,1979,,Are Egos but Modes in Descartes?,Are Egos but Modes in Descartes?,,,,papers-on-french-seventeenth-century-literature,,,,,80--85,80,,,,,,,,,,,,,,,,,,,english,false,,,kelly_maj,,,1:persons;2:self
+186716,incollection,kenevan_pd:1981,,,1981,,Self-Consciousness and the Ego in the Philosophy of Sartre,Self-Consciousness and the Ego in the Philosophy of Sartre,,,schilpp:1981,,,,,,197--210,197,,,,,,,,,,,,,,,,,,,english,false,,,kenevan_pd,,,1:persons;2:self

@@ -943,6 +943,9 @@ damasio_cv-pereira:1998,1:logic,1
 damasio_cv-pereira:1998,2:paraconsistent_logic,2
 damasio_h:2001,2:cognition,2
 damasio_h:2001,3:thinking,3
+damast:1991,1:rationality,1
+damast:1991,2:intuition_as_a_faculty,2
+damast:1991,3:phenomenological_reduction,3
 damato_ds:2021,1:political_philosophy,1
 damato_ds:2021,2:anarchism,2
 damboeck:2009,1:logic,1
@@ -1324,6 +1327,7 @@ daniels_cb:1994,3:propositions,3
 daniels_cb:1999,1:knowledge,1
 daniels_f:1949,1:science,1
 daniels_f:1949,2:sociology_of_science,2
+daniels_g:1970,1:history_of_philosophy,1
 daniels_m:2005,1:metaphysics,1
 daniels_m:2005,2:perspectivalism,2
 daniels_m:2005,3:intersubjectivity,3
@@ -1536,6 +1540,7 @@ danto:2013p,1:aesthetics,1
 danto:2013p,2:what_is_art,2
 danto:2013q,1:aesthetics,1
 danto:2013q,2:art_works,2
+danto:2013s,1:history_of_philosophy,1
 danto:2013t,1:history_of_philosophy,1
 danto:2013u,1:action,1
 danto:2013u,2:basic_actions,2
@@ -1675,7 +1680,6 @@ darling_km:2002,3:underdetermination,3
 darlington:1981,1:computation,1
 darlington:1981,2:computational_logic,2
 darlington:1981,3:program_synthesis,3
-darmon_jc:1998,1:history_of_philosophy,1
 darmon_jc:2001,1:skepticism,1
 darms-jacobson:2000,1:ethics,1
 darms-jacobson:2000,2:metaethics,2

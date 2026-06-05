@@ -1165,7 +1165,7 @@ id,author_key,given_name_latex,given_name_unicode,family_name_latex,family_name_
 73519,sartori_p,Paolo,Paolo,Sartori,Sartori,,,,,,,false,,
 73520,sartorio,Carolina,Carolina,Sartorio,Sartorio,,,,,,,false,,
 73521,sartorius,Rolf,Rolf,Sartorius,Sartorius,,,,,,,false,,
-73522,sartre,Jean-Paul,Jean-Paul,Sartre,Sartre,,,,,,,false,,
+73522,sartre,Jean-Paul,Jean-Paul,Sartre,Sartre,,,,,,,true,,
 73523,sartwell,Crispin,Crispin,Sartwell,Sartwell,,,,,,,false,,
 73524,sarukkai,Sundar,Sundar,Sarukkai,Sarukkai,,,,,,,false,,
 73525,sarvasy_w,Wendy,Wendy,Sarvasy,Sarvasy,,,,,,,false,,

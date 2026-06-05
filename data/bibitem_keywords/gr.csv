@@ -983,6 +983,7 @@ gratton_c:1998,1:skepticism,1
 gratton_c:1998,2:evil_demon,2
 gratton_c:2010,1:method,1
 gratton_c:2010,2:infinite_regress,2
+gratton_p:2015,1:history_of_philosophy,1
 gratzl-orlandelli:2017,1:logic,1
 gratzl:2009,1:reference,1
 gratzl:2009,2:definite_descriptions,2
@@ -1497,6 +1498,8 @@ green_k:1998,1:reference,1
 green_k:1998,2:rigidity,2
 green_k:1999,1:metaphilosophy,1
 green_k:1999,2:analytic_continental_philosophy,2
+green_k:1999a,1:political_philosophy,1
+green_k:1999a,2:feminism,2
 green_k:2007,1:political_philosophy,1
 green_k:2007,2:feminism,2
 green_k:2008,1:history_of_philosophy,1
@@ -2248,6 +2251,8 @@ grene_m:1966a,1:epistemology,1
 grene_m:1966a,2:cogito,2
 grene_m:1966b,2:nature_of_value,2
 grene_m:1966b,3:fact_vs_value,3
+grene_m:1970,1:time,1
+grene_m:1970,2:experience_of_time,2
 grene_m:1971,2:reduction,2
 grene_m:1974,1:biology,1
 grene_m:1974a,1:ontology,1
@@ -2829,6 +2834,8 @@ grimaldi_n:1991,1:metaphysics,1
 grimaldi_n:1991,2:transcendental_idealism,2
 grimaldi_n:1991,3:transcendental_illusion,3
 grimaldi_n:1992,2:desire,2
+grimaldi_n:1994,1:determinism,1
+grimaldi_n:1994,2:free_action,2
 grimaldi_n:1994a,1:religion,1
 grimaldi_n:1996,1:religion,1
 grimaldi_n:1996a,1:time,1
@@ -3951,6 +3958,8 @@ gruender_k:1995,1:dictionary,1
 gruender_k:1998,1:dictionary,1
 gruender_k:2001,1:dictionary,1
 gruender_s:2011,1:linguistics,1
+gruene_s:2003,1:pragmatics,1
+gruene_s:2003,2:lying,2
 gruene_s:2008,1:representation,1
 gruene_s:2008,2:concepts,2
 gruene_s:2008a,1:modality,1
