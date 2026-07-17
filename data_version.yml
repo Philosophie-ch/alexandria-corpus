@@ -1,5 +1,5 @@
 # Bump version and description before opening a PR to main.
 
-version: "11.alpha-6"
-description: "Fifth alpha release with v11 of the bibliography data, which still contains errors and inconsistencies, but lets us test the new data structure and API. Major change w.r.t alpha-4 is that the latest dialectica.bib data has been integrated. Alpha-6 fixes data missing for Dialectica 2024 articles."
+version: "11.alpha-7"
+description: "Sixth alpha release with v11 of the bibliography data, which still contains errors and inconsistencies, but lets us test the new data structure and API. Major change w.r.t alpha-5 is that the latest dialectica.bib data has been integrated, and some author data corrected."
 
