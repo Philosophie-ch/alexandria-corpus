@@ -67,6 +67,8 @@ owens_d:1989b,1:causation,1
 owens_d:1990,1:perception,1
 owens_d:1990,2:object_of_perception,2
 owens_d:1992,1:causation,1
+owens_d:1995,1:reference,1
+owens_d:1995,2:rigidity,2
 owens_d:1996,2:memory,2
 owens_d:1999,2:memory,2
 owens_d:2000,1:epistemology,1

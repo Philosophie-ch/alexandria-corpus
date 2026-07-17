@@ -5,8 +5,17 @@ rhees:1954,3:private_language_argument,3
 rhees:1966,1:metaphilosophy,1
 rhees:1998,1:metaphilosophy,1
 rhees:1999,1:ethics,1
+rheinberger-muellerwille:2004,1:biology,1
+rheinberger-muellerwille:2004,2:genetics,2
+rheinberger-muellerwille:2004,3:genes,3
 rheinberger-muellerwille:2008,1:biology,1
 rheinberger-muellerwille:2008,2:evolution,2
+rheinberger-muellerwille:2009,1:biology,1
+rheinberger-muellerwille:2009,2:genetics,2
+rheinberger-muellerwille:2009,3:genes,3
+rheinberger-muellerwille:2015,1:biology,1
+rheinberger-muellerwille:2015,2:genetics,2
+rheinberger-muellerwille:2015,3:genes,3
 rheinberger:1999,1:biology,1
 rheinberger:2005,1:science,1
 rheinberger:2005,2:sociology_of_science,2
@@ -25,6 +34,12 @@ rheinwald:1993,1:properties,1
 rheinwald:1994,1:action,1
 rheinwald:1994,2:agency,2
 rheinwald:1994,3:agent_causation,3
+rheinwald:1997,1:properties,1
+rheinwald:1997,2:property_designators,2
+rheinwald:1997,3:concept_horse,3
+rheinwald:2001,1:identity,1
+rheinwald:2001a,1:representation,1
+rheinwald:2001a,2:fregean_sense,2
 rheinwald:2012,1:causation,1
 rhi_by:1993,1:religion,1
 rhie_b:2017,1:aesthetics,1
@@ -77,3 +92,5 @@ rhodes_ry:2015,2:problem_of_evil,2
 rhonheimer:2013,1:ethics,1
 rhook-zangari:1994,1:space_spacetime,1
 rhook-zangari:1994,2:relativity_theory,2
+rhoth:2003,1:representation,1
+rhoth:2003,2:meaning,2

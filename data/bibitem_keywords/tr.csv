@@ -244,6 +244,9 @@ travis_c:1998,1:mathematics,1
 travis_c:1998,2:intuitionistic_mathematics,2
 travis_c:2000,1:representation,1
 travis_c:2000a,1:metaphilosophy,1
+travis_c:2002,1:logic,1
+travis_c:2002,2:entailment,2
+travis_c:2002,3:lewis_carroll_paradox,3
 travis_c:2002a,1:logic,1
 travis_c:2004,1:perception,1
 travis_c:2004,2:perceptual_content,2
@@ -252,6 +255,8 @@ travis_c:2004a,2:empiricism,2
 travis_c:2005,1:representation,1
 travis_c:2005,2:fregean_sense,2
 travis_c:2005a,1:perception,1
+travis_c:2005b,1:perception,1
+travis_c:2005b,2:disjunctivism_about_perception,2
 travis_c:2006a,1:representation,1
 travis_c:2006a,2:meaning_theories,2
 travis_c:2006a,3:deflationism_about_meaning,3
@@ -280,8 +285,11 @@ travis_c:2011d,1:perception,1
 travis_c:2011d,2:perceptual_content,2
 travis_c:2011e,2:desire,2
 travis_c:2012,1:perception,1
+travis_c:2013,1:perception,1
 travis_c:2013a,1:perception,1
 travis_c:2013a,2:perceptual_content,2
+travis_c:2013c,1:perception,1
+travis_c:2013d,1:perception,1
 travis_c:2013e,1:perception,1
 travis_c:2013e,2:perceptual_content,2
 travis_c:2014,1:perception,1
@@ -289,6 +297,9 @@ travis_c:2014,2:perceptual_content,2
 travis_c:2014a,2:desire,2
 travis_c:2015,1:metaphysics,1
 travis_c:2015,2:relativism,2
+travis_c:2015b,1:representation,1
+travis_c:2015b,2:meaning_skepticism,2
+travis_c:2015b,3:occasion_sensitivity,3
 travis_c:2017,1:representation,1
 travis_c:2017,2:meaning,2
 travis_c:2017a,1:pragmatics,1
@@ -341,6 +352,8 @@ traynor:2013,1:time,1
 traynor:2013,2:persistence,2
 traynor:2014,1:time,1
 traynor:2014,2:persistence,2
+treanor_b-sweetman:2016,1:history_of_philoosophy,1
+treanor_b:2004,1:history_of_philoosophy,1
 treanor_b:2015,1:explanation,1
 treanor_b:2015,2:understanding,2
 treanor_b:2015,3:hermeneutics,3
@@ -726,6 +739,15 @@ tropman:2018,1:ethics,1
 tropman:2018,2:metaethics,2
 tropman:2018,3:moral_sentimentalism,3
 tropman:2019,1:religion,1
+troquard_n-balbiani:2015,1:time,1
+troquard_n-balbiani:2015,2:tense_logic,2
+troquard_n-balbiani:2015,3:dynamic_logic,3
+troquard_n-balbiani:2019,1:time,1
+troquard_n-balbiani:2019,2:tense_logic,2
+troquard_n-balbiani:2019,3:dynamic_logic,3
+troquard_n-balbiani:2023,1:time,1
+troquard_n-balbiani:2023,2:tense_logic,2
+troquard_n-balbiani:2023,3:dynamic_logic,3
 troquet:2000,1:technology,1
 troscianko_et:2017,1:aesthetics,1
 troscianko_et:2017,2:fiction,2

@@ -179,6 +179,7 @@ engel_ej:2004,1:history_of_philosophy,1
 engel_k:2018,1:argumentation,1
 engel_k:2018,2:paradoxes,2
 engel_mgj:1989,1:epistemology,1
+engel_mi:2019,1:history_of_philosophy,1
 engel_p-dutant:2005,1:epistemology,1
 engel_p-kochan:1991,1:logic,1
 engel_p-kochan:1991,2:philosophy_of_logic,2
@@ -198,6 +199,8 @@ engel_p:1981a,2:being,2
 engel_p:1982,2:essence,2
 engel_p:1982a,1:argumentation,1
 engel_p:1982a,2:informal_logic,2
+engel_p:1983,1:logic,1
+engel_p:1983,2:intensional_logic,2
 engel_p:1983a,1:belief,1
 engel_p:1983b,1:history_of_philosophy,1
 engel_p:1983c,1:pragmatics,1
@@ -211,6 +214,8 @@ engel_p:1984d,1:belief,1
 engel_p:1984e,1:metaphilosophy,1
 engel_p:1984f,1:representation,1
 engel_p:1984f,2:hyperintensionality,2
+engel_p:1985,1:reference,1
+engel_p:1985,2:names,2
 engel_p:1985a,1:representation,1
 engel_p:1985a,2:meaning_skepticism,2
 engel_p:1985a,3:rule_following,3
@@ -313,6 +318,8 @@ engel_p:1994g,1:logic,1
 engel_p:1994g,2:history_of_logic,2
 engel_p:1994h,1:belief,1
 engel_p:1994k,1:mathematics,1
+engel_p:1994l,1:representation,1
+engel_p:1994l,2:meaning_skepticism,2
 engel_p:1994n,1:persons,1
 engel_p:1994n,2:personal_identity,2
 engel_p:1994o,1:history_of_philosophy,1
@@ -375,6 +382,8 @@ engel_p:1998a,3:lewis_carroll_paradox,3
 engel_p:1998b,1:belief,1
 engel_p:1998b,2:acceptance,2
 engel_p:1998c,1:truth,1
+engel_p:1998e,1:logic,1
+engel_p:1998e,2:anti_psychologism,2
 engel_p:1998f,1:history_of_philosophy,1
 engel_p:1998h,1:language,1
 engel_p:1998h,2:indicative_conditionals,2

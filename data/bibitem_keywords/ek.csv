@@ -52,6 +52,8 @@ eklund_m:2006,1:vagueness,1
 eklund_m:2006a,1:metaphysics,1
 eklund_m:2006a,2:metametaphysics,2
 eklund_m:2006b,1:mathematics,1
+eklund_m:2007,1:metaphysics,1
+eklund_m:2007,2:fictionalism,2
 eklund_m:2007a,1:vagueness,1
 eklund_m:2007b,1:truth,1
 eklund_m:2007b,2:semantic_paradoxes,2
@@ -82,6 +84,8 @@ eklund_m:2011,2:ontic_vagueness,2
 eklund_m:2011a,1:vagueness,1
 eklund_m:2011b,1:representation,1
 eklund_m:2011b,2:concepts,2
+eklund_m:2011c,1:metaphysics,1
+eklund_m:2011c,2:fictionalism,2
 eklund_m:2012,1:logic,1
 eklund_m:2012,2:logical_pluralism,2
 eklund_m:2012a,2:normativity,2
@@ -106,6 +110,8 @@ eklund_m:2014b,1:ontology,1
 eklund_m:2014b,2:quantification,2
 eklund_m:2015,1:method,1
 eklund_m:2015,2:conceptual_analysis,2
+eklund_m:2015a,1:metaphysics,1
+eklund_m:2015a,2:fictionalism,2
 eklund_m:2016,1:metaphysics,1
 eklund_m:2016,2:metametaphysics,2
 eklund_m:2016a,1:mathematics,1
@@ -116,6 +122,8 @@ eklund_m:2018,2:metaontology,2
 eklund_m:2018,3:easy_ontology,3
 eklund_m:2019,1:exemplification,1
 eklund_m:2019,2:unity_of_the_proposition,2
+eklund_m:2019a,1:metaphysics,1
+eklund_m:2019a,2:fictionalism,2
 eklund_m:2020,1:representation,1
 eklund_m:2020,2:concepts,2
 eklund_m:2020,3:conceptual_engineering,3
@@ -123,6 +131,8 @@ eklund_m:2021,1:mathematics,1
 eklund_m:2021a,1:representation,1
 eklund_m:2021a,2:concepts,2
 eklund_m:2021a,3:conceptual_engineering,3
+eklund_m:2024,1:metaphysics,1
+eklund_m:2024,2:fictionalism,2
 eklund_pe:1991,1:logic,1
 eklund_pe:1991,2:nonmonotonic_logic,2
 eklund_pe:1991,3:inheritance_theory,3
@@ -203,3 +213,6 @@ ekstrom:2019a,3:luck_egalitarianism,3
 ekstrom:2021,1:religion,1
 ekstrom:2021,2:problem_of_evil,2
 ekstrom:2021,3:free_will_defense,3
+ekstrom:2024,1:religion,1
+ekstrom:2024,2:problem_of_evil,2
+ekstrom:2024,3:theodicy,3

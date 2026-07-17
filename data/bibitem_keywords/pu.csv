@@ -111,6 +111,7 @@ puligandla:1975,3:ontological_argument,3
 puligandla:1999,2:consciousness,2
 puligandla:2013,1:religion,1
 puligandla:2013,2:god,2
+pulkkinen_j:2000,1:metaphilosophy,1
 pulkkinen_j:2001,1:history_of_philosophy,1
 pullano:2021,1:political_philosophy,1
 pullano:2021,2:nation_state,2
@@ -288,6 +289,7 @@ puritz:1972a,2:mathematical_analysis,2
 puritz:1972a,3:nonstandard_analysis,3
 purkis:2012,1:political_philosophy,1
 purkis:2012,2:anarchism,2
+purnell:2004,1:history_of_philosophy,1
 purnelle_g:1996,1:history_of_philosophy,1
 purshouse:2004,1:feeling,1
 purshouse:2004,2:envy,2
@@ -330,6 +332,7 @@ purviance:1997,2:passions,2
 purviance:2006,1:representation,1
 purviance:2006,2:ideas,2
 purviance:2006,3:innate_ideas,3
+puryear:2013,1:vagueness,1
 puryear:2013a,1:skepticism,1
 puryear:2014,1:religion,1
 puryear:2014,2:arguments_for_the_existence_of_god,2
@@ -361,6 +364,8 @@ pust:2011,1:probability,1
 pust:2011,2:sleeping_beauty,2
 pust:2012,1:probability,1
 pust:2012,2:sleeping_beauty,2
+pust:2012a,1:rationality,1
+pust:2012a,2:intuition_as_a_faculty,2
 pust:2013,1:probability,1
 pust:2013,2:sleeping_beauty,2
 pust:2013a,1:skepticism,1
@@ -372,6 +377,8 @@ pust:2014b,1:epistemology,1
 pust:2014b,2:intuitions_as_reasons,2
 pust:2017,1:ethics,1
 pust:2017,2:metaethics,2
+pust:2024,1:ethics,1
+pust:2024,2:metaethics,2
 pustejovsky-bergler:1987,1:linguistics,1
 pustejovsky-bergler:1987,2:linguistics_as_a_science,2
 pustejovsky-bergler:1987,3:mathematical_linguistics,3
@@ -439,6 +446,9 @@ putallaz:2010,1:political_philosophy,1
 putallaz:2010,2:freedom_of_speech,2
 puterman_zm:1977,1:causation,1
 puterman_zm:1977,2:metaphysics_of_causality,2
+putnam_d-etal:2019,1:ethics,1
+putnam_d-etal:2019,2:bioethics,2
+putnam_d-etal:2019,3:disability,3
 putnam_d:2019,1:ethics,1
 putnam_d:2019,2:bioethics,2
 putnam_d:2019,3:disability,3
@@ -661,6 +671,9 @@ putnam_h:1985b,1:truth,1
 putnam_h:1985c,1:vagueness,1
 putnam_h:1985d,1:representation,1
 putnam_h:1985d,2:meaning,2
+putnam_h:1986,1:representation,1
+putnam_h:1986,2:content_determination,2
+putnam_h:1986,3:meaning_holism,3
 putnam_h:1986b,1:psychology,1
 putnam_h:1986d,1:metaphysics,1
 putnam_h:1986d,2:realism,2

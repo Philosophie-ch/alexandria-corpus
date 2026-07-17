@@ -103,6 +103,10 @@ eder_g:2013,1:logic,1
 eder_g:2013,2:history_of_logic,2
 eder_g:2014,1:truth,1
 eder_g:2014,2:logic_of_truth,2
+eder_g:2016,1:logic,1
+eder_g:2016,2:logical_truth,2
+eder_g:2016a,1:mathematics,1
+eder_g:2016a,2:geometry,2
 edgar_a:2006,1:history_of_philosophy,1
 edgar_a:2015,1:aesthetics,1
 edgar_s:2008,1:logic,1
@@ -172,6 +176,8 @@ edgington:2000,1:vagueness,1
 edgington:2000,2:ontic_vagueness,2
 edgington:2000a,1:language,1
 edgington:2000a,2:indicative_conditionals,2
+edgington:2001,1:language,1
+edgington:2001,2:indicative_conditionals,2
 edgington:2001a,1:vagueness,1
 edgington:2001b,1:language,1
 edgington:2001b,2:indicative_conditionals,2
@@ -186,6 +192,8 @@ edgington:2005,1:language,1
 edgington:2005,2:indicative_conditionals,2
 edgington:2005a,2:extrinsic_entities,2
 edgington:2005a,3:boundaries,3
+edgington:2006,1:language,1
+edgington:2006,2:indicative_conditionals,2
 edgington:2006a,1:logic,1
 edgington:2006a,2:logical_connectives,2
 edgington:2006a,3:invariantism_about_logical_constants,3
@@ -199,9 +207,13 @@ edgington:2010,1:vagueness,1
 edgington:2011,1:causation,1
 edgington:2011a,1:causation,1
 edgington:2011a,2:counterfactual_theories_of_causation,2
+edgington:2014,1:language,1
+edgington:2014,2:indicative_conditionals,2
 edgington:2016,1:vagueness,1
 edgington:2020,1:belief,1
 edgington:2020,2:credence,2
+edgington:2020a,1:language,1
+edgington:2020a,2:indicative_conditionals,2
 edgington:2021,1:modality,1
 edgington:2021,2:counterfactuals,2
 edgington:2021a,1:metaphilosophy,1
@@ -348,6 +360,7 @@ edwards_h:2005,3:constructive_mathematics,3
 edwards_ies-etal:1971,1:history_of_philosophy,1
 edwards_ies-etal:1973,1:history_of_philosophy,1
 edwards_jc:2018,1:law,1
+edwards_jc:2018a,1:law,1
 edwards_je:2000,1:properties,1
 edwards_je:2000,2:powers,2
 edwards_je:2000,3:forces,3
@@ -429,10 +442,12 @@ edwards_mj:2009,1:religion,1
 edwards_mj:2010a,1:history_of_philosophy,1
 edwards_mj:2010b,1:history_of_philosophy,1
 edwards_mj:2010c,1:history_of_philosophy,1
+edwards_mj:2014,1:history_of_philosophy,1
 edwards_mj:2014a,1:history_of_philosophy,1
 edwards_mj:2015,1:action,1
 edwards_mj:2015,2:agency,2
 edwards_mj:2017,1:causation,1
+edwards_mj:2018,1:history_of_philosophy,1
 edwards_mj:2021,1:history_of_philosophy,1
 edwards_mj:2021a,1:history_of_philosophy,1
 edwards_mj:2021b,1:history_of_philosophy,1
@@ -440,6 +455,7 @@ edwards_mj:2021e,1:skepticism,1
 edwards_mj:2021e,2:ancient_skepticism,2
 edwards_mj:2021g,1:history_of_philosophy,1
 edwards_mj:2021h,1:history_of_philosophy,1
+edwards_mj:2022,1:history_of_philosophy,1
 edwards_p:1949,1:representation,1
 edwards_p:1949,2:meaningfulness,2
 edwards_p:1949a,1:modality,1

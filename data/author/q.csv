@@ -71,7 +71,7 @@ id,author_key,given_name_latex,given_name_unicode,family_name_latex,family_name_
 69876,quilter_j,John,John,Quilter,Quilter,,,,,,,false,,
 69877,quiltydunn_j,Jake,Jake,Quilty-Dunn,Quilty-Dunn,,,,,,,false,,
 69878,quincy,B{\'e}rnard,Bérnard,Quincy,Quincy,,,,,,,false,,
-69879,quine,Willard {van Orman},Willard van Orman,Quine,Quine,,,,,,,false,,
+69879,quine,Willard {van Orman},Willard van Orman,Quine,Quine,,,,,,,true,,
 69880,quinio,Philippe,Philippe,Quinio,Quinio,,,,,,,false,,
 69881,quiniou,Yvon,Yvon,Quiniou,Quiniou,,,,,,,false,,
 69882,quinlan,Michael,Michael,Quinlan,Quinlan,,,,,,,false,,

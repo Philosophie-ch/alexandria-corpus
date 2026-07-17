@@ -8,6 +8,8 @@ ocallaghan_c:2008,1:perception,1
 ocallaghan_c:2008,2:auditory_perception,2
 ocallaghan_c:2008a,1:perception,1
 ocallaghan_c:2008a,2:auditory_perception,2
+ocallaghan_c:2009,1:perception,1
+ocallaghan_c:2009,2:auditory_perception,2
 ocallaghan_c:2009a,1:perception,1
 ocallaghan_c:2009a,2:sounds,2
 ocallaghan_c:2009b,1:perception,1
@@ -24,6 +26,8 @@ ocallaghan_c:2011b,1:representation,1
 ocallaghan_c:2011b,2:meaning,2
 ocallaghan_c:2011c,1:perception,1
 ocallaghan_c:2011c,2:auditory_perception,2
+ocallaghan_c:2014,1:perception,1
+ocallaghan_c:2014,2:auditory_perception,2
 ocallaghan_c:2014a,1:perception,1
 ocallaghan_c:2014a,2:common_sensibles,2
 ocallaghan_c:2014a,3:multisensory_perception,3
@@ -52,6 +56,8 @@ ocallaghan_c:2020,2:consciousness,2
 ocallaghan_c:2020a,1:perception,1
 ocallaghan_c:2020a,2:common_sensibles,2
 ocallaghan_c:2020a,3:multisensory_perception,3
+ocallaghan_c:2020b,1:perception,1
+ocallaghan_c:2020b,2:auditory_perception,2
 ocallaghan_j:2003a,1:representation,1
 ocallaghan_j:2003a,2:metaphysics_of_words,2
 ocallaghan_j:2003a,3:ontology_of_words,3
@@ -154,6 +160,10 @@ oconnor_b:2020,2:dialectics,2
 oconnor_c-etal:2012,1:ethics,1
 oconnor_c-etal:2012,2:metaethics,2
 oconnor_c-etal:2012,3:ethical_intuitionism,3
+oconnor_c-etal:2023,1:epistemology,1
+oconnor_c-etal:2023,2:collective_epistemology,2
+oconnor_c-etal:2024,1:epistemology,1
+oconnor_c-etal:2024,2:collective_epistemology,2
 oconnor_c-weatherall:2021,1:political_philosophy,1
 oconnor_c:2019,1:political_philosophy,1
 oconnor_c:2019,2:justice,2
@@ -230,11 +240,19 @@ oconnor_t-churchill:2004,1:action,1
 oconnor_t-churchill:2004,2:reasons_for_action,2
 oconnor_t-churchill:2010,2:emergence,2
 oconnor_t-churchill:2010a,2:emergence,2
+oconnor_t-franklin:2018,1:determinism,1
+oconnor_t-franklin:2018,2:free_will,2
+oconnor_t-franklin:2022,1:determinism,1
+oconnor_t-franklin:2022,2:free_will,2
 oconnor_t-jacobs:2010,1:religion,1
 oconnor_t-jacobs:2010,2:immortality,2
 oconnor_t-jacobs:2010,3:resurrection,3
 oconnor_t-sandis:2010,1:action,1
+oconnor_t-wong:2002,2:emergence,2
 oconnor_t-wong:2005,2:emergence,2
+oconnor_t-wong:2006,2:emergence,2
+oconnor_t-wong:2012,2:emergence,2
+oconnor_t-wong:2015,2:emergence,2
 oconnor_t:1992,1:religion,1
 oconnor_t:1992,2:divine_attributes,2
 oconnor_t:1992,3:divine_omniscience,3
@@ -260,6 +278,8 @@ oconnor_t:2002,2:naturalism,2
 oconnor_t:2002a,1:determinism,1
 oconnor_t:2002a,2:free_will,2
 oconnor_t:2002b,1:action,1
+oconnor_t:2002c,1:determinism,1
+oconnor_t:2002c,2:free_will,2
 oconnor_t:2003,1:determinism,1
 oconnor_t:2003,2:free_will,2
 oconnor_t:2004,1:religion,1
@@ -268,6 +288,8 @@ oconnor_t:2004,3:cosmological_argument,3
 oconnor_t:2005,1:determinism,1
 oconnor_t:2005,2:free_will,2
 oconnor_t:2005a,1:determinism,1
+oconnor_t:2005b,1:determinism,1
+oconnor_t:2005b,2:free_will,2
 oconnor_t:2007,1:determinism,1
 oconnor_t:2007,2:free_action,2
 oconnor_t:2008,1:religion,1
@@ -284,6 +306,8 @@ oconnor_t:2009b,2:free_action,2
 oconnor_t:2010,1:action,1
 oconnor_t:2010,2:reasons_for_action,2
 oconnor_t:2010,3:reasons_vs_causes,3
+oconnor_t:2010a,1:determinism,1
+oconnor_t:2010a,2:free_will,2
 oconnor_t:2011,2:free_action,2
 oconnor_t:2016,1:religion,1
 oconnor_t:2016,2:theological_determinism,2
@@ -291,6 +315,7 @@ oconnor_t:2016a,1:probability,1
 oconnor_t:2018,1:mind_body,1
 oconnor_t:2018,2:dualism,2
 oconnor_t:2018,3:substance_dualism,3
+oconnor_t:2020,2:emergence,2
 oconnor_t:2022,1:determinism,1
 oconnor_t:2022,2:free_will,2
 oconnor_to:2016,1:social_philosophy,1

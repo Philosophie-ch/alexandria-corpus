@@ -28,6 +28,9 @@ okasha:2003,1:biology,1
 okasha:2003,2:evolution,2
 okasha:2003,3:heritability,3
 okasha:2003a,1:skepticism,1
+okasha:2003b,1:biology,1
+okasha:2003b,2:evolution,2
+okasha:2003b,3:evolution_of_altruism,3
 okasha:2004,1:biology,1
 okasha:2004,2:evolution,2
 okasha:2004,3:units_of_selection,3
@@ -48,9 +51,14 @@ okasha:2005d,2:induction,2
 okasha:2006a,1:biology,1
 okasha:2006a,2:evolution,2
 okasha:2006a,3:units_of_selection,3
+okasha:2006b,1:biology,1
+okasha:2006b,2:generics,2
 okasha:2008,1:biology,1
 okasha:2008,2:evolution,2
 okasha:2008,3:units_of_selection,3
+okasha:2008a,1:biology,1
+okasha:2008a,2:evolution,2
+okasha:2008a,3:evolution_of_altruism,3
 okasha:2009,1:biology,1
 okasha:2009a,1:causation,1
 okasha:2010,1:biology,1
@@ -58,10 +66,15 @@ okasha:2011,1:causation,1
 okasha:2011,2:laws_of_nature,2
 okasha:2011a,1:science,1
 okasha:2012,1:economics,1
+okasha:2012a,1:biology,1
+okasha:2012a,2:generics,2
 okasha:2013,1:epistemology,1
 okasha:2013,2:epistemic_closure,2
 okasha:2013,3:kk_principle,3
 okasha:2013a,1:biology,1
+okasha:2013b,1:biology,1
+okasha:2013b,2:evolution,2
+okasha:2013b,3:evolution_of_altruism,3
 okasha:2015,1:science,1
 okasha:2015,2:theory_choice,2
 okasha:2015a,1:biology,1
@@ -71,6 +84,8 @@ okasha:2016a,1:biology,1
 okasha:2018,1:explanation,1
 okasha:2018,2:teleological_explanation,2
 okasha:2019,1:biology,1
+okasha:2022,1:biology,1
+okasha:2022,2:generics,2
 okawara:2012,1:law,1
 okawara:2012,2:jurisprudence,2
 okeefe_g:2002,1:information,1
@@ -88,6 +103,7 @@ okeefe_ti:2016,1:feeling,1
 okeefe_ti:2016,2:happiness,2
 okeefe_ti:2016a,1:social_philosophy,1
 okeefe_ti:2016a,2:well_being,2
+okeefe_ti:2020a,1:determinism,1
 okeeffe_a-mccarthy:2010,1:linguistics,1
 okeeffe_te:1996,1:metaphilosophy,1
 okeja:2017,1:history,1

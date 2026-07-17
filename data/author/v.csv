@@ -1594,7 +1594,7 @@ id,author_key,given_name_latex,given_name_unicode,family_name_latex,family_name_
 87607,vidal_c,Cl{\'e}ment,Clément,Vidal,Vidal,,,,,,,false,,
 87673,virchaux_p,Pascal,Pascal,Virchaux,Virchaux,,,,,,,false,,
 87748,volpe_d,Daniele,Daniele,Volpe,Volpe,,,,,,,false,,
-87780,virgo,,,,,{Virgo Collaboration},Virgo Collaboration,,,,,false,,
+87780,virgo,,,,,{Virgo Collaboration},Virgo Collaboration,,,,,false,"{""{Virgo Collaboration}""}",
 87936,varickamakkal_a,Ajin Noble,Ajin Noble,Varickamakkal,Varickamakkal,,,,,,,false,,
 87957,vanhove_l,L{\'e}on,Léon,Van Hove,Van Hove,,,,,,,false,,
 88047,voelke_j,Jean-Daniel,Jean-Daniel,Voelke,Voelke,,,,,,,false,,
@@ -1641,3 +1641,4 @@ id,author_key,given_name_latex,given_name_unicode,family_name_latex,family_name_
 89352,vogt_e,Ella,Ella,Vogt,Vogt,,,,,,,false,,
 89383,volpe_e,Enrico,Enrico,Volpe,Volpe,,,,,,,false,,
 89453,vanoli_i,Iris,Iris,Vanoli,Vanoli,,,,,,,false,,
+89517,vinokurov_i,Ilia,Ilia,Vinokurov,Vinokurov,,,,,,,false,,

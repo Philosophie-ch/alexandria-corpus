@@ -58,6 +58,8 @@ jech_t:1978,1:mathematics,1
 jech_t:1978,2:set_theory,2
 jech_t:1978a,1:mathematics,1
 jech_t:1978a,2:algebra,2
+jech_t:2002,1:mathematics,1
+jech_t:2002,2:set_theory,2
 jeck_ur:1994,1:time,1
 jeck_ur:1994,2:experience_of_time,2
 jeck_ur:1998,1:history_of_philosophy,1
@@ -444,6 +446,9 @@ jennings_nr:2000,2:distributed_systems,2
 jennings_nr:2000,3:multi_agent_systems,3
 jennings_rae-etal:1981,1:logic,1
 jennings_rae-etal:1981,2:modal_logic,2
+jennings_rae-hartline:2008,1:logic,1
+jennings_rae-hartline:2008,2:logical_connectives,2
+jennings_rae-hartline:2008,3:disjunction,3
 jennings_rae-johnstone:1983,1:logic,1
 jennings_rae-johnstone:1983,2:paraconsistent_logic,2
 jennings_rae-schotch:1978,1:representation,1
@@ -454,6 +459,9 @@ jennings_rae:1985,1:decision_theory,1
 jennings_rae:1994,1:logic,1
 jennings_rae:1994,2:logical_connectives,2
 jennings_rae:1994,3:disjunction,3
+jennings_rae:2001,1:logic,1
+jennings_rae:2001,2:logical_connectives,2
+jennings_rae:2001,3:disjunction,3
 jennings_rae:2002,1:explanation,1
 jennings_rae:2005,1:logic,1
 jennings_roe:1981,1:logic,1
@@ -505,6 +513,9 @@ jensen_rb:1967,1:representation,1
 jensen_rb:1967,2:coordination,2
 jensen_rb:1967,3:variables,3
 jensen_rb:1967a,1:mathematics,1
+jensen_rb:1968,1:mathematics,1
+jensen_rb:1968,2:set_theory,2
+jensen_rb:1968,3:new_foundations,3
 jensen_rb:1970,1:mathematics,1
 jensen_rb:1970,2:set_theory,2
 jensen_rb:1974,1:mathematics,1
@@ -567,6 +578,9 @@ jeshion:2000,2:certainty,2
 jeshion:2000,3:the_obvious,3
 jeshion:2001,1:reference,1
 jeshion:2001,2:definite_descriptions,2
+jeshion:2001a,1:epistemology,1
+jeshion:2001a,2:certainty,2
+jeshion:2001a,3:self_evidence,3
 jeshion:2002,1:representation,1
 jeshion:2002,2:singular_thought,2
 jeshion:2002,3:de_re_belief,3
@@ -621,8 +635,17 @@ jeske:1993,3:utilitarianism,3
 jeske:2001,1:feeling,1
 jeske:2001,2:friendship,2
 jeske:2001,3:love,3
+jeske:2002,1:exemplification,1
+jeske:2002,2:qua_objects,2
+jeske:2002,3:roles,3
 jeske:2008,2:good_for,2
 jeske:2008,3:personal_value,3
+jeske:2008a,1:exemplification,1
+jeske:2008a,2:qua_objects,2
+jeske:2008a,3:roles,3
+jeske:2014,1:exemplification,1
+jeske:2014,2:qua_objects,2
+jeske:2014,3:roles,3
 jeske:2016,1:medicine,1
 jeske:2016,2:health,2
 jeske:2018,1:ethics,1
@@ -631,6 +654,9 @@ jeske:2018a,2:friendship,2
 jeske:2019,1:feeling,1
 jeske:2019,2:friendship,2
 jeske:2019,3:love,3
+jeske:2019a,1:exemplification,1
+jeske:2019a,2:qua_objects,2
+jeske:2019a,3:roles,3
 jeske:2022,1:feeling,1
 jeske:2022,2:friendship,2
 jespersen_b-carrara:2011,1:structuralism,1

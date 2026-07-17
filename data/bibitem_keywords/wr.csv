@@ -32,6 +32,7 @@ wrathall:2021,1:history_of_philosophy,1
 wray_do:1987,1:ontology,1
 wray_do:1987,2:quantification,2
 wray_do:1987,3:propositional_quantifiers,3
+wray_kb:1995,1:mathematics,1
 wray_kb:2002,1:science,1
 wray_kb:2002,2:sociology_of_science,2
 wray_kb:2002a,1:action,1
@@ -94,6 +95,7 @@ wreen:2003,1:epistemology,1
 wreen:2003,2:ignorance,2
 wreen:2005,1:skepticism,1
 wreen:2005,2:doubting,2
+wreen:2005a,1:aesthetics,1
 wreen:2005b,1:language,1
 wreen:2007,1:argumentation,1
 wreen:2007,2:analogy,2
@@ -112,6 +114,7 @@ wreen:2017a,1:ontology,1
 wreen:2017a,2:being,2
 wreen:2019,1:argumentation,1
 wreen:2019,2:analogy,2
+wreen:2022,1:aesthetics,1
 wren_a:2006,1:economics,1
 wren_c-wren:2003,1:psychology,1
 wren_c-wren:2003,2:learning,2
@@ -176,6 +179,7 @@ wright_c:1982a,1:metaphysics,1
 wright_c:1982a,2:idealism,2
 wright_c:1983,1:mathematics,1
 wright_c:1983a,1:skepticism,1
+wright_c:1984,1:history_of_philosophy,1
 wright_c:1984a,1:representation,1
 wright_c:1984a,2:objects_of_propositional_attitudes,2
 wright_c:1984a,3:propositions,3
@@ -248,6 +252,7 @@ wright_c:1994b,1:truth,1
 wright_c:1995,1:ethics,1
 wright_c:1995,2:metaethics,2
 wright_c:1995,3:moral_realism,3
+wright_c:1995a,1:mathematics,1
 wright_c:1995b,1:vagueness,1
 wright_c:1995b,2:epistemicism,2
 wright_c:1995c,1:logic,1
@@ -263,6 +268,9 @@ wright_c:1997,1:mathematics,1
 wright_c:1997a,1:representation,1
 wright_c:1997a,2:meaning_skepticism,2
 wright_c:1997a,3:indeterminacy_of_translation,3
+wright_c:1998,1:properties,1
+wright_c:1998,2:property_designators,2
+wright_c:1998,3:concept_horse,3
 wright_c:1998a,1:mathematics,1
 wright_c:1998b,1:mathematics,1
 wright_c:1998d,1:properties,1
@@ -353,6 +361,8 @@ wright_c:2012c,1:skepticism,1
 wright_c:2012d,1:knowledge,1
 wright_c:2012d,2:self_knowledge,2
 wright_c:2012d,3:iem,3
+wright_c:2012e,1:mathematics,1
+wright_c:2012e,2:arithmetic,2
 wright_c:2012f,1:truth,1
 wright_c:2012f,2:pluralism_about_truth,2
 wright_c:2013,1:mathematics,1
@@ -372,6 +382,8 @@ wright_c:2018a,1:skepticism,1
 wright_c:2018b,1:skepticism,1
 wright_c:2018c,1:epistemology,1
 wright_c:2018c,2:epistemic_modals,2
+wright_c:2019,1:mathematics,1
+wright_c:2019,3:russell_s_paradox,3
 wright_c:2020,1:mathematics,1
 wright_c:2020a,1:vagueness,1
 wright_c:2020b,1:logic,1

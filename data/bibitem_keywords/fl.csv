@@ -327,11 +327,17 @@ fleurbaey-maniquet:2007,2:metaethics,2
 fleurbaey-maniquet:2007,3:utilitarianism,3
 fleurbaey-voorhoeve:2015,1:ethics,1
 fleurbaey-voorhoeve:2015,2:meaning_of_life,2
+fleurbaey:2004,1:economics,1
 fleurbaey:2005,1:rationality,1
 fleurbaey:2007,1:political_philosophy,1
 fleurbaey:2007,2:distributive_justice,2
+fleurbaey:2008,1:economics,1
 fleurbaey:2011,1:political_philosophy,1
+fleurbaey:2012,1:economics,1
 fleurbaey:2012a,1:economics,1
+fleurbaey:2016,1:economics,1
+fleurbaey:2021,1:economics,1
+fleurbaey:2021a,1:economics,1
 fleury_p:2017,1:political_philosophy,1
 fleury_p:2017,2:democracy,2
 flew_a:1953,1:rationality,1
@@ -581,6 +587,8 @@ floridi:2004b,1:information,1
 floridi:2004c,1:information,1
 floridi:2004d,1:information,1
 floridi:2005,1:information,1
+floridi:2005a,1:information,1
+floridi:2005a,2:semantic_information,2
 floridi:2006,1:information,1
 floridi:2007,1:information,1
 floridi:2008,1:information,1
@@ -601,6 +609,8 @@ floridi:2011,1:information,1
 floridi:2011a,1:metaphysics,1
 floridi:2011a,2:relativism,2
 floridi:2011a,3:social_constructivism,3
+floridi:2011b,1:information,1
+floridi:2011b,2:semantic_information,2
 floridi:2012,1:information,1
 floridi:2013,1:information,1
 floridi:2013,2:ethics_of_information,2
@@ -611,6 +621,8 @@ floridi:2014,2:epistemic_closure,2
 floridi:2014a,1:information,1
 floridi:2014b,1:information,1
 floridi:2014c,1:perception,1
+floridi:2015,1:information,1
+floridi:2015,2:semantic_information,2
 floridi:2016,1:information,1
 floridi:2016a,1:information,1
 floridi:2016a,2:semantic_information,2
@@ -678,6 +690,7 @@ floyd_c:1992,3:software_engineering,3
 floyd_j-bokulich:2017,1:computation,1
 floyd_j-shieh:2001,1:metaphilosophy,1
 floyd_j-shieh:2001a,1:metaphilosophy,1
+floyd_j:1998,1:history_of_philosophy,1
 floyd_j:1998a,1:aesthetics,1
 floyd_j:1998a,2:aesthetic_judgement,2
 floyd_j:2001a,1:truth,1
@@ -686,6 +699,8 @@ floyd_j:2003,1:metaphysics,1
 floyd_j:2005,1:representation,1
 floyd_j:2005,2:content_determination,2
 floyd_j:2005,3:content_externalism,3
+floyd_j:2006,1:ontology,1
+floyd_j:2006,2:being,2
 floyd_j:2009,1:history_of_philosophy,1
 floyd_jo:2017,1:political_philosophy,1
 floyd_r:2016,1:pragmatics,1
@@ -729,6 +744,8 @@ flynn_g:2022,1:ethics,1
 flynn_g:2022,2:business_ethics,2
 flynn_j:2010,1:ethics,1
 flynn_j:2010,2:particularism,2
+flynn_j:2020,1:ethics,1
+flynn_j:2020,2:bioethics,2
 flynn_je:2011,1:political_philosophy,1
 flynn_je:2011,2:rights,2
 flynn_je:2011,3:human_rights,3

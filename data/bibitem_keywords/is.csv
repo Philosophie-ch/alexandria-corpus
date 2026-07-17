@@ -44,6 +44,8 @@ isaacson_da:1994,1:metaphysics,1
 isaacson_da:1994,2:relativism,2
 isaacson_da:1994,3:principle_of_tolerance,3
 isaacson_da:1994a,1:mathematics,1
+isaacson_da:2004,1:metaphysics,1
+isaacson_da:2004,2:logical_empiricism,2
 isaacson_da:2011,1:logic,1
 isaacson_da:2011,2:in_completeness,2
 isaacson_da:2011,3:goedel_s_theorem,3
@@ -74,8 +76,12 @@ isenberg:1944,1:aesthetics,1
 isenberg:1980,1:feeling,1
 isenberg:1980,2:emotions,2
 isensee_j:2007,1:religion,1
+iser_m:2013,1:political_philosophy,1
+iser_m:2013,2:anerkennung,2
 iser_m:2017,1:political_philosophy,1
 iser_m:2017,2:war,2
+iser_m:2019,1:political_philosophy,1
+iser_m:2019,2:anerkennung,2
 iser_w:1989,1:aesthetics,1
 iser_w:1989,2:literary_criticism,2
 ishai-sagi:1998,1:perception,1
@@ -162,6 +168,7 @@ ismael_j-vanfraassen:2003,1:structuralism,1
 ismael_j-vanfraassen:2003,2:symmetry,2
 ismael_j-vanfraassen:2003,3:symmetries_in_physics,3
 ismael_j:1999,1:science,1
+ismael_j:2000,1:quantum_mechanics,1
 ismael_j:2001,1:structuralism,1
 ismael_j:2001,2:structuralism_in_the_sciences,2
 ismael_j:2001,3:structuralism_in_physics,3
@@ -197,6 +204,7 @@ ismael_j:2015,3:humean_supervenience,3
 ismael_j:2015a,1:probability,1
 ismael_j:2015b,1:time,1
 ismael_j:2015b,2:ontology_of_time,2
+ismael_j:2015c,1:quantum_mechanics,1
 ismael_j:2016,1:determinism,1
 ismael_j:2016a,1:causation,1
 ismael_j:2016a,2:causal_reasoning,2
@@ -214,6 +222,7 @@ ismael_j:2018a,1:science,1
 ismael_j:2018a,2:experimentation,2
 ismael_j:2020,1:quantum_mechanics,1
 ismael_j:2020,2:entanglement,2
+ismael_j:2020a,1:quantum_mechanics,1
 ismael_j:2021,1:probability,1
 ismael_j:2021a,1:structuralism,1
 ismael_j:2021a,2:symmetry,2

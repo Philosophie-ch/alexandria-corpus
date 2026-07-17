@@ -19,6 +19,8 @@ toadvine:2012,1:metaphysics,1
 toadvine:2012,2:phenomenology,2
 toadvine:2014,1:time,1
 toadvine:2014,2:the_past,2
+toadvine:2016,1:history_of_philosophy,1
+toadvine:2023,1:history_of_philosophy,1
 tobararbulu:1984,2:extrinsic_entities,2
 tobararbulu:1984,3:artefacts,3
 tobia:2015,1:persons,1
@@ -138,6 +140,7 @@ todres-galvin:2018,2:well_being,2
 todt:1983,1:vagueness,1
 toedt:1985,1:ethics,1
 toellner:1981,1:method,1
+toemmel-passerindentreves:2024,1:history_of_philosophy,1
 toemmel:2019,1:feeling,1
 toemmel:2019,2:friendship,2
 toemmel:2019,3:love,3
@@ -182,6 +185,15 @@ tofighian_o:2016,1:history_of_philosophy,1
 toft_e:2010,1:religion,1
 toft_e:2010,2:religious_experience,2
 toft_e:2010,3:mysticism,3
+tognazzini-coates:2014,1:action,1
+tognazzini-coates:2014,2:responsibility,2
+tognazzini-coates:2014,3:blame_for_actions,3
+tognazzini-coates:2018,1:action,1
+tognazzini-coates:2018,2:responsibility,2
+tognazzini-coates:2018,3:blame_for_actions,3
+tognazzini-coates:2024,1:action,1
+tognazzini-coates:2024,2:responsibility,2
+tognazzini-coates:2024,3:blame_for_actions,3
 tognazzini-fischer:2017,1:time,1
 tognazzini-fischer:2017,2:the_past,2
 tognazzini-fischer:2017,3:fixity_of_the_past,3
@@ -303,6 +315,12 @@ tollefsen_tt:2010a,2:natural_meaning,2
 tollefsen_tt:2010a,3:pictorial_representation,3
 tolley:2006,1:logic,1
 tolley:2006,2:nature_of_logic,2
+tolley:2006a,1:representation,1
+tolley:2006a,2:fregean_sense,2
+tolley:2006a,3:hierarchy_of_senses,3
+tolley:2011,1:representation,1
+tolley:2011,2:content_determination,2
+tolley:2011,3:meaning_holism,3
 tolley:2012,1:logic,1
 tolley:2012,2:nature_of_logic,2
 tolley:2012a,1:science,1
@@ -357,6 +375,7 @@ tolomio_i:2015a,1:history_of_philosophy,1
 tolomio_i:2015a,2:history_of_the_history_of_philosophy,2
 tolomio_i:2015b,1:history_of_philosophy,1
 tolomio_i:2015b,2:history_of_the_history_of_philosophy,2
+tolonen-douglass:2024,1:history_of_philosophy,1
 tolonen:2008,1:ethics,1
 tolonen:2008,2:virtue_ethics,2
 toma-etal:1998,1:history_of_philosophy,1
@@ -599,6 +618,8 @@ toner_p:2015a,2:death,2
 tonfoni:1999,1:pragmatics,1
 tonfoni:1999,2:discourse,2
 tonfoni:1999,3:discourse_analysis,3
+tong_r-williams:2006,1:ethics,1
+tong_r-williams:2009,1:ethics,1
 tong_r:1987,1:aesthetics,1
 tong_r:1987,2:pornography,2
 tong_r:1996,1:ethics,1
@@ -606,6 +627,7 @@ tong_r:1996,2:bioethics,2
 tong_r:1997,1:social_philosophy,1
 tong_r:1997,2:sex,2
 tong_r:1997,3:prostitution,3
+tong_r:1998,1:ethics,1
 tong_r:2001,1:political_philosophy,1
 tong_r:2001,2:justice,2
 tong_r:2003,1:persons,1
@@ -698,6 +720,8 @@ tooley:2001,2:self_knowledge,2
 tooley:2001,3:self_consciousness,3
 tooley:2001a,1:time,1
 tooley:2001b,1:time,1
+tooley:2002,1:religion,1
+tooley:2002,2:problem_of_evil,2
 tooley:2003,1:modality,1
 tooley:2003,2:counterfactuals,2
 tooley:2003a,2:supervenience,2
@@ -716,6 +740,8 @@ tooley:2005c,3:euthanasia,3
 tooley:2007,1:space_spacetime,1
 tooley:2007,2:physical_time,2
 tooley:2007,3:simultaneity_in_relativity_theory,3
+tooley:2007a,1:religion,1
+tooley:2007a,2:problem_of_evil,2
 tooley:2009,1:causation,1
 tooley:2009a,1:causation,1
 tooley:2009a,2:laws_of_nature,2
@@ -729,9 +755,13 @@ tooley:2010a,3:divine_foreknowledge,3
 tooley:2012,1:time,1
 tooley:2012,2:presentism,2
 tooley:2012,3:tm_against_presentism,3
+tooley:2012a,1:religion,1
+tooley:2012a,2:problem_of_evil,2
 tooley:2013,1:perception,1
 tooley:2013,2:appearances,2
 tooley:2013,3:phenomenal_conservatism,3
+tooley:2015,1:religion,1
+tooley:2015,2:problem_of_evil,2
 tooley:2018,1:religion,1
 tooley:2018,2:theism,2
 tooley:2019,1:religion,1
@@ -869,6 +899,7 @@ tornau:2013a,1:history_of_philosophy,1
 tornau:2014,2:metaphysics_of_mind,2
 tornau:2015,1:feeling,1
 tornau:2015,2:happiness,2
+tornau:2024,1:history_of_philosophy,1
 toronyai:1999,1:science,1
 toronyai:1999,2:sociology_of_science,2
 torrago:2000,1:causation,1
@@ -945,6 +976,7 @@ torrens-faltings:2002,1:pragmatics,1
 torrens-faltings:2002,2:discourse,2
 torres_c-falconvega:1995,1:logic,1
 torres_c-falconvega:1995,2:nature_of_proof,2
+torres_c:1995,1:mathematics,1
 torres_cr:2014,1:aesthetics,1
 torres_cr:2014,2:dance,2
 torres_cr:2014a,1:aesthetics,1
@@ -971,6 +1003,8 @@ torretti:1991a,2:cosmology,2
 torretti:1999,1:physics,1
 torretti:1999a,1:time,1
 torretti:1999a,2:ontology_of_time,2
+torretti:1999b,1:mathematics,1
+torretti:1999b,2:history_of_mathematics,2
 torretti:2000,1:science,1
 torretti:2000,2:constructive_empiricism,2
 torretti:2002,1:space_spacetime,1
@@ -978,11 +1012,19 @@ torretti:2002,2:gravitation,2
 torretti:2002,3:mass,3
 torretti:2003,1:mathematics,1
 torretti:2003,2:geometry,2
+torretti:2003a,1:mathematics,1
+torretti:2003a,2:history_of_mathematics,2
 torretti:2005,1:mathematics,1
 torretti:2005,2:geometry,2
+torretti:2007,1:mathematics,1
+torretti:2007,2:history_of_mathematics,2
 torretti:2008,1:metaphysics,1
 torretti:2008,2:perspectivalism,2
 torretti:2008,3:objectivity_in_representation,3
+torretti:2010,1:mathematics,1
+torretti:2010,2:history_of_mathematics,2
+torretti:2016,1:mathematics,1
+torretti:2016,2:history_of_mathematics,2
 torrevejano:1995,1:metaphilosophy,1
 torrey:2020,1:political_philosophy,1
 torrey:2020,2:discrimination,2

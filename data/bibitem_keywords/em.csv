@@ -86,6 +86,7 @@ emery_g-levering:2011,3:trinity,3
 emery_g:2004,1:religion,1
 emery_g:2004,2:god,2
 emery_g:2004,3:trinity,3
+emery_n-etal:2020,1:time,1
 emery_n-hill:2017,1:modality,1
 emery_n-hill:2017,2:impossibility,2
 emery_n-hill:2017,3:impossible_worlds,3
@@ -119,11 +120,15 @@ emilsson:1994,1:mind_body,1
 emilsson:1996,1:representation,1
 emilsson:1996,2:objects_of_propositional_attitudes,2
 emilsson:1996,3:objects_of_belief,3
+emilsson:2005,1:history_of_philosophy,1
+emilsson:2011a,1:history_of_philosophy,1
 emilsson:2012,1:persons,1
 emilsson:2012,2:self,2
 emilsson:2013,1:history_of_philosophy,1
 emilsson:2015a,1:feeling,1
 emilsson:2015a,2:happiness,2
+emilsson:2015b,1:history_of_philosophy,1
+emilsson:2021,1:history_of_philosophy,1
 emmanuel_sm:2001,1:history_of_philosophy,1
 emmeche-etal:1997,2:emergence,2
 emmeche:2003,1:causation,1
