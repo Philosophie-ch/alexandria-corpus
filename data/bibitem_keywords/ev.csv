@@ -39,6 +39,9 @@ evans_ca:2013,3:jesus,3
 evans_ca:2013a,1:religion,1
 evans_ca:2013a,2:immortality,2
 evans_ca:2013a,3:resurrection,3
+evans_cs-baggett:2022,1:religion,1
+evans_cs-baggett:2022,2:arguments_for_the_existence_of_god,2
+evans_cs-baggett:2022,3:moral_argument_for_god,3
 evans_cs-westphal:1993,1:religion,1
 evans_cs-westphal:1993,2:epistemology_of_religion,2
 evans_cs:1994,1:religion,1
@@ -52,6 +55,12 @@ evans_cs:2005,3:religious_revelation,3
 evans_cs:2010b,1:religion,1
 evans_cs:2010b,2:arguments_for_the_existence_of_god,2
 evans_cs:2013,1:religion,1
+evans_cs:2014,1:religion,1
+evans_cs:2014,2:arguments_for_the_existence_of_god,2
+evans_cs:2014,3:moral_argument_for_god,3
+evans_cs:2018,1:religion,1
+evans_cs:2018,2:arguments_for_the_existence_of_god,2
+evans_cs:2018,3:moral_argument_for_god,3
 evans_cs:2019,1:religion,1
 evans_cs:2019,2:atheism,2
 evans_d:1994,1:ontology,1

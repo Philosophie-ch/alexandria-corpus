@@ -19,10 +19,14 @@ gheaus:2017a,2:friendship,2
 gheaus:2017a,3:love,3
 gheaus:2018,1:ethics,1
 gheaus:2018,2:procreation,2
+gheaus:2018a,1:feeling,1
+gheaus:2018a,2:friendship,2
 gheaus:2019,1:ethics,1
 gheaus:2019,2:procreation,2
 gheaus:2021,1:ethics,1
 gheaus:2021,2:procreation,2
+gheaus:2022,1:feeling,1
+gheaus:2022,2:friendship,2
 gheerbrant:2010,1:logic,1
 gheerbrant:2010,2:model_theory,2
 gheerbrant:2010,3:mu_calculus,3
@@ -97,6 +101,7 @@ ghins:2017,1:science,1
 ghins:2017,2:scientific_realism,2
 ghirardato-marinacci:1998,1:probability,1
 ghirardato-marinacci:1998,2:nature_of_probability,2
+ghirardi-bassi:2020,1:quantum_mechanics,1
 ghirardi-etal:1986,1:time,1
 ghirardi-etal:1986,2:change,2
 ghirardi-marinatto:2009,1:quantum_mechanics,1
@@ -109,7 +114,11 @@ ghirardi:1997,1:physics,1
 ghirardi:1997a,1:quantum_mechanics,1
 ghirardi:1998,2:reduction,2
 ghirardi:1999,1:quantum_mechanics,1
+ghirardi:2002,1:quantum_mechanics,1
 ghirardi:2004,1:quantum_mechanics,1
+ghirardi:2007,1:quantum_mechanics,1
+ghirardi:2011,1:quantum_mechanics,1
+ghirardi:2016,1:quantum_mechanics,1
 ghisalberti_a:1996,1:metaphysics,1
 ghisalberti_a:1996,2:distinctions,2
 ghisalberti_a:1996,3:formal_distinction,3

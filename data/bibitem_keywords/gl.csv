@@ -73,6 +73,7 @@ glanzberg:2006,2:quantification,2
 glanzberg:2006,3:unrestricted_quantification,3
 glanzberg:2006a,1:language,1
 glanzberg:2006a,2:quantifiers,2
+glanzberg:2006b,1:truth,1
 glanzberg:2007,1:truth,1
 glanzberg:2007,2:relative_truth,2
 glanzberg:2007a,1:reference,1
@@ -84,9 +85,12 @@ glanzberg:2009a,1:logic,1
 glanzberg:2009a,2:negation,2
 glanzberg:2011,1:truth,1
 glanzberg:2011,2:relative_truth,2
+glanzberg:2013,1:truth,1
 glanzberg:2013a,1:argumentation,1
 glanzberg:2014,1:representation,1
 glanzberg:2014,2:meaning,2
+glanzberg:2014a,1:ontology,1
+glanzberg:2014a,2:ontological_commitment,2
 glanzberg:2015,1:logic,1
 glanzberg:2015,2:entailment,2
 glanzberg:2015,3:logical_consequence,3
@@ -96,6 +100,7 @@ glanzberg:2015b,1:truth,1
 glanzberg:2015b,2:axiomatic_theories_of_truth,2
 glanzberg:2018,1:truth,1
 glanzberg:2018a,1:truth,1
+glanzberg:2018b,1:truth,1
 glas_e:1993,1:mathematics,1
 glas_e:1993,2:sociology_of_mathematics,2
 glas_e:1993a,1:mathematics,1
@@ -507,6 +512,8 @@ glock_hj:2009a,1:representation,1
 glock_hj:2009a,2:concepts,2
 glock_hj:2010,1:animals,1
 glock_hj:2010,2:animal_cognition,2
+glock_hj:2010a,1:representation,1
+glock_hj:2010a,2:concepts,2
 glock_hj:2010b,1:animals,1
 glock_hj:2010b,2:animal_agency,2
 glock_hj:2010c,1:representation,1
@@ -527,6 +534,7 @@ glock_hj:2013b,1:metaphilosophy,1
 glock_hj:2013b,2:analytic_continental_philosophy,2
 glock_hj:2013c,1:metaphilosophy,1
 glock_hj:2013c,2:analytic_continental_philosophy,2
+glock_hj:2014,1:history_of_philosophy,1
 glock_hj:2015,1:perception,1
 glock_hj:2015,2:perceptual_content,2
 glock_hj:2015,3:representationalism_about_perception,3
@@ -663,6 +671,9 @@ glucksberg-keysar:1993,1:pragmatics,1
 glucksberg-keysar:1993,2:metaphor,2
 glucksmann:2004,1:feeling,1
 glucksmann:2004,2:hate,2
+glueer-etal:2022,1:language,1
+glueer-etal:2022,2:semantic_normativity,2
+glueer-etal:2022,3:normativity_of_content,3
 glueer-pagin:2006,1:reference,1
 glueer-pagin:2006,2:names,2
 glueer-pagin:2007,1:representation,1
@@ -675,9 +686,18 @@ glueer-pagin:2014,2:empty_names,2
 glueer-wikforss:2009,1:language,1
 glueer-wikforss:2009,2:semantic_normativity,2
 glueer-wikforss:2009,3:normativity_of_content,3
+glueer-wikforss:2009a,1:language,1
+glueer-wikforss:2009a,2:semantic_normativity,2
+glueer-wikforss:2009a,3:normativity_of_content,3
 glueer-wikforss:2010,2:epistemic_norms,2
 glueer-wikforss:2010,3:norms_of_belief,3
 glueer-wikforss:2014,2:epistemic_norms,2
+glueer-wikforss:2015,1:language,1
+glueer-wikforss:2015,2:semantic_normativity,2
+glueer-wikforss:2015,3:normativity_of_content,3
+glueer-wikforss:2018a,1:language,1
+glueer-wikforss:2018a,2:semantic_normativity,2
+glueer-wikforss:2018a,3:normativity_of_content,3
 glueer:1997,1:representation,1
 glueer:1997,2:analyticity,2
 glueer:2000,1:representation,1

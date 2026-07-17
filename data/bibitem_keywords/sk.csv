@@ -47,6 +47,8 @@ skiba-woodward:2021,2:fictionalism,2
 skiba:2017,1:ontology,1
 skiba:2017,2:abstract_objects,2
 skiba:2017,3:ficta,3
+skiba:2017a,1:representation,1
+skiba:2017a,2:fregean_sense,2
 skiba:2018,1:reference,1
 skiba:2019,1:metaphysics,1
 skiba:2019,2:fictionalism,2
@@ -189,6 +191,9 @@ sklar_l:1995a,2:direction_of_time,2
 sklar_l:1998,1:mathematics,1
 sklar_l:2000,1:science,1
 sklar_l:2000a,1:physics,1
+sklar_l:2001,1:physics,1
+sklar_l:2001,2:mechanics,2
+sklar_l:2001,3:statistical_mechanics,3
 sklar_l:2001a,1:probability,1
 sklar_l:2001a,2:chaos,2
 sklar_l:2001b,1:metaphysics,1
@@ -200,6 +205,9 @@ sklar_l:2005a,1:time,1
 sklar_l:2005a,2:direction_of_time,2
 sklar_l:2006,1:science,1
 sklar_l:2006,2:history_of_science,2
+sklar_l:2009,1:physics,1
+sklar_l:2009,2:mechanics,2
+sklar_l:2009,3:statistical_mechanics,3
 sklar_l:2009a,1:causation,1
 sklar_l:2011,1:physics,1
 sklar_l:2013,1:time,1
@@ -211,6 +219,9 @@ sklar_l:2015a,2:scientific_method,2
 sklar_l:2015b,1:physics,1
 sklar_l:2015c,1:method,1
 sklar_l:2015c,2:scientific_method,2
+sklar_l:2015d,1:physics,1
+sklar_l:2015d,2:mechanics,2
+sklar_l:2015d,3:statistical_mechanics,3
 skoble:2006,1:law,1
 skoble:2021,1:political_philosophy,1
 skoble:2021,2:anarchism,2
@@ -253,6 +264,7 @@ skolimowski:1967,1:ontology,1
 skolimowski:1967,2:particulars,2
 skolimowski:1969,1:knowledge,1
 skolimowski:1976,1:biology,1
+skolimowski:1986,1:metaphilosophy,1
 skolimowski:1995,1:rationality,1
 skolnick-bloom:2006,2:imagination,2
 skolnick:2004,1:political_philosophy,1
@@ -279,6 +291,8 @@ skorupski:1980,1:modality,1
 skorupski:1980a,1:representation,1
 skorupski:1980a,2:objects_of_propositional_attitudes,2
 skorupski:1980a,3:objects_of_belief,3
+skorupski:1984,1:representation,1
+skorupski:1984,2:fregean_sense,2
 skorupski:1985,2:value_bearers,2
 skorupski:1985,3:organic_unity,3
 skorupski:1986,1:epistemology,1

@@ -68,6 +68,12 @@ oren_t-press:2019,2:feminism,2
 orend:1999,1:social_philosophy,1
 orend:1999,2:war,2
 orend:1999,3:just_war,3
+orend:2000,1:social_philosophy,1
+orend:2000,2:war,2
+orend:2002,1:social_philosophy,1
+orend:2002,2:war,2
+orend:2005,1:social_philosophy,1
+orend:2005,2:war,2
 orend:2013,1:social_philosophy,1
 orend:2013,2:war,2
 orend:2013,3:just_war,3
@@ -76,11 +82,15 @@ orend:2016,2:war,2
 orenduff:1975,1:logic,1
 orenduff:1975,2:modal_logic,2
 orenduff:1982,1:metaphysics,1
+orenstein-kotatko:2000,1:epistemology,1
 orenstein:1973,1:ontology,1
 orenstein:1973,2:ontological_commitment,2
 orenstein:1975,1:epistemology,1
 orenstein:1975,2:cogito,2
+orenstein:1977,1:history_of_philosophy,1
 orenstein:1979,1:properties,1
+orenstein:1990,1:ontology,1
+orenstein:1990,2:ontological_commitment,2
 orenstein:1995,1:properties,1
 orenstein:1995a,1:ontology,1
 orenstein:1995a,2:ontological_commitment,2
@@ -93,6 +103,7 @@ orenstein:2000a,1:metaphilosophy,1
 orenstein:2000a,2:theory_choice_in_philosophy,2
 orenstein:2000b,1:ontology,1
 orenstein:2000b,2:ontological_commitment,2
+orenstein:2002,1:history_of_philosophy,1
 orenstein:2002a,2:essence,2
 orenstein:2003,1:aesthetics,1
 orenstein:2003,2:fiction,2
@@ -100,6 +111,9 @@ orenstein:2004,2:essence,2
 orenstein:2009,1:religion,1
 orenstein:2009,2:arguments_for_the_existence_of_god,2
 orenstein:2009,3:ontological_argument,3
+orenstein:2014,1:ontology,1
+orenstein:2014,2:ontological_relativity,2
+orenstein:2014,3:inscrutability_of_reference,3
 orentlicher:2003,1:political_philosophy,1
 orentlicher:2003,2:democracy,2
 orentlicher:2003a,1:political_philosophy,1
@@ -142,9 +156,11 @@ origgi:2020a,1:epistemology,1
 origgi:2020a,2:testimony,2
 origgi:2020a,3:trust,3
 orilia-oaklander:2015,1:time,1
+orilia-paolinipaoletti:2020,1:properties,1
 orilia-rapaport:1998,1:varia,1
 orilia-rapaport:1998a,1:metaphysics,1
 orilia-rapaport:1998a,2:metametaphysics,2
+orilia-swoyer:2016,1:properties,1
 orilia-varzi:1998,1:explanation,1
 orilia-varzi:1998,2:definition,2
 orilia:1984,1:ontology,1
@@ -444,4 +460,6 @@ orvas:2001,2:geometry,2
 orwin:2005,1:political_philosophy,1
 ory_a:1990,1:reference,1
 ory_p:2004,1:history_of_philosophy,1
+orzack_sh-forber:2010,1:biology,1
+orzack_sh-forber:2010,2:evolution,2
 orzack_sh-sober:2001,1:biology,1

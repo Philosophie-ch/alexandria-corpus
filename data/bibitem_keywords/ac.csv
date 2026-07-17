@@ -174,6 +174,8 @@ ackerman_b:1980,2:justice,2
 ackerman_b:1980a,1:economics,1
 ackerman_b:1980a,2:property,2
 ackerman_b:2011,1:political_philosophy,1
+ackerman_d:1978,1:mathematics,1
+ackerman_d:1978,2:nature_of_number,2
 ackerman_d:1979,1:reference,1
 ackerman_d:1980,1:causation,1
 ackerman_d:1980,2:natural_kinds,2
@@ -186,6 +188,8 @@ ackerman_d:1990,1:representation,1
 ackerman_d:1990,2:fregean_sense,2
 ackerman_fa-moore:1999,1:causation,1
 ackerman_fa-moore:1999,2:causatives,2
+ackerman_fe:1981,1:explanation,1
+ackerman_fe:1981,2:paradox_of_analysis,2
 ackerman_fe:1986,1:explanation,1
 ackerman_fe:1986,2:paradox_of_analysis,2
 ackerman_fe:1987,1:perception,1
@@ -346,6 +350,9 @@ aczel:1977,2:definition,2
 aczel:1978,1:mathematics,1
 aczel:1978,2:set_theory,2
 aczel:1978,3:nonstandard_set_theory,3
+aczel:1980,1:mathematics,1
+aczel:1980,2:set_theory,2
+aczel:1980,3:nonstandard_set_theory,3
 aczel:1982,1:logic,1
 aczel:1982,2:type_theory,2
 aczel:1983,1:mathematics,1

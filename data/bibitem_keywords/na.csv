@@ -623,6 +623,7 @@ nail_t:2020,1:political_philosophy,1
 nail_t:2020,2:marxism,2
 nail_t:2021,1:ontology,1
 nail_t:2021,2:particulars,2
+nails_d-monoson:2022,1:history_of_philosophy,1
 nails_d-thesleff:2003,1:history_of_philosophy,1
 nails_d:1978,1:properties,1
 nails_d:1978,2:problem_of_universals,2
@@ -632,8 +633,12 @@ nails_d:1991,1:political_philosophy,1
 nails_d:1991,2:democracy,2
 nails_d:1995,1:metaphilosophy,1
 nails_d:1995a,1:history_of_philosophy,1
+nails_d:2005,1:history_of_philosophy,1
 nails_d:2006,1:history_of_philosophy,1
 nails_d:2006a,1:history_of_philosophy,1
+nails_d:2009,1:history_of_philosophy,1
+nails_d:2014,1:history_of_philosophy,1
+nails_d:2018,1:history_of_philosophy,1
 nair_r-etal:2003,1:ai,1
 nair_s:2014,1:ethics,1
 nair_s:2014,2:metaethics,2
@@ -840,6 +845,7 @@ nanay:2019a,1:perception,1
 nanay:2019a,2:perceptual_judgement,2
 nanay:2019b,1:experimental_philosophy,1
 nanay:2020,1:action,1
+nanay:2021,2:imagery,2
 nanay:2023,2:imagination,2
 nanay:2023,3:imagery,3
 nance_da:2008,1:law,1
@@ -898,6 +904,8 @@ napoli_a:1992,2:knowledge_representation,2
 napoli_dj:1988,1:linguistics,1
 napoli_dj:1988,2:syntax,2
 napoli_dj:1988,3:government_binding_theory,3
+napoli_e:1978,1:ontology,1
+napoli_e:1978,2:ontological_commitment,2
 napoli_e:1985,1:truth,1
 napoli_e:1985,2:semantic_paradoxes,2
 napoli_e:1995,1:reference,1
@@ -983,6 +991,12 @@ nardin_t-williams:2006,1:social_philosophy,1
 nardin_t-williams:2006,2:war,2
 nardin_t:2006,1:social_philosophy,1
 nardin_t:2006,2:war,2
+nardin_t:2016,1:political_philosophy,1
+nardin_t:2016,2:conservatism,2
+nardin_t:2020,1:political_philosophy,1
+nardin_t:2020,2:conservatism,2
+nardin_t:2024,1:political_philosophy,1
+nardin_t:2024,2:conservatism,2
 nardini_c:2015,1:medicine,1
 nardini_c:2016,1:medicine,1
 narens-skyrms:2020,1:decision_theory,1
@@ -1385,6 +1399,10 @@ nauen_fg:1992,1:history_of_philosophy,1
 nauen_fg:1995,1:metaphysics,1
 nauen_fg:1995,2:transcendental_idealism,2
 nauen_fg:1996,1:history_of_philosophy,1
+nauert:2007,1:history_of_philosophy,1
+nauert:2008,1:history_of_philosophy,1
+nauert:2011,1:history_of_philosophy,1
+nauert:2012,1:history_of_philosophy,1
 naujoks-stelling:2018,1:history,1
 nault:2004,1:religion,1
 nault:2004,2:religious_experience,2

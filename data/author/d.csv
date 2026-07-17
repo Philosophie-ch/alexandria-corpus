@@ -1211,7 +1211,7 @@ id,author_key,given_name_latex,given_name_unicode,family_name_latex,family_name_
 39843,delaubier,Patrick,Patrick,de Laubier,de Laubier,,,,,,,false,,
 39844,delaunay,Marc,Marc,de Launay,de Launay,,,,,,,false,,
 39845,delaurenti_b,B{\'e}atrice,Béatrice,Delaurenti,Delaurenti,,,,,,,false,,
-39846,delaurentiis,Allegra,Allegra,de Laurentiis,de Laurentiis,,,,,,,false,,
+39846,delaurentiis,Allegra,Allegra,de Laurentiis,de Laurentiis,,,,,,,false,"{""{de Laurentiis}, Allegra""}",
 39847,delavalette,Gerard R.~Renardel,Gerard R. Renardel,de Lavalette,de Lavalette,,,,,,,false,,
 39848,delay_j,Jean,Jean,Delay,Delay,,,,,,,false,,
 39849,delay_n,Nelly,Nelly,Delay,Delay,,,,,,,false,,
@@ -3476,3 +3476,4 @@ id,author_key,given_name_latex,given_name_unicode,family_name_latex,family_name_
 89361,dealmeida_a,Alessandra,Alessandra,de Almeida,de Almeida,,,,,,,false,,
 89382,dovale_b,Bianca,Bianca,do Vale,do Vale,,,,,,,false,,
 89429,dainesi_m,Marta,Marta,Dainesi,Dainesi,,,,,,,false,,
+89532,dao_a,Adama,Adama,Dao,Dao,,,,,,,false,,

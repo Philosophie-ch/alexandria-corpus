@@ -79,6 +79,7 @@ ebbesen:2015,1:exemplification,1
 ebbesen:2015,2:qua_objects,2
 ebbesen:2016,1:logic,1
 ebbesen:2016,2:history_of_logic,2
+ebbesen:2020,1:history_of_philosophy,1
 ebbinghaus_hd-etal:1988,1:mathematics,1
 ebbinghaus_hd-etal:1988,2:arithmetic,2
 ebbinghaus_hd-etal:1989,1:mathematics,1
@@ -136,6 +137,7 @@ ebbs:2014,1:logic,1
 ebbs:2014,2:logical_truth,2
 ebbs:2014a,1:science,1
 ebbs:2014a,2:theory_change,2
+ebbs:2014b,1:history_of_philosophy,1
 ebbs:2015,1:epistemology,1
 ebbs:2015,2:epistemic_internalism_externalism,2
 ebbs:2015,3:epistemic_externalism,3
@@ -182,6 +184,8 @@ eberl:2014,2:procreation,2
 eberl:2014,3:abortion,3
 eberl:2020,1:ethics,1
 eberl:2020,2:bioethics,2
+eberle_c-cuneo:2008,1:political_philosophy,1
+eberle_c-cuneo:2015,1:political_philosophy,1
 eberle_c:2002,1:political_philosophy,1
 eberle_c:2002,2:secularism,2
 eberle_c:2015,1:social_philosophy,1
@@ -234,9 +238,18 @@ ebert_c-hinterwimmer:2013,1:linguistics,1
 ebert_pa-robertson:2013,1:social_philosophy,1
 ebert_pa-robertson:2013,2:sport,2
 ebert_pa-rossberg:2009,1:mathematics,1
+ebert_pa-rossberg:2009a,1:logic,1
+ebert_pa-rossberg:2009a,2:history_of_logic,2
 ebert_pa-rossberg:2013,1:mathematics,1
 ebert_pa-rossberg:2016,1:mathematics,1
 ebert_pa-rossberg:2016a,1:mathematics,1
+ebert_pa-rossberg:2019,1:mathematics,1
+ebert_pa-rossberg:2019,2:arithmetic,2
+ebert_pa-rossberg:2019a,1:ontology,1
+ebert_pa-rossberg:2019a,2:abstract_objects,2
+ebert_pa-rossberg:2019a,3:logical_objects,3
+ebert_pa-rossberg:2019b,1:mathematics,1
+ebert_pa-rossberg:2019b,2:arithmetic,2
 ebert_pa-smith:2012,1:belief,1
 ebert_pa-smith:2012,2:credence,2
 ebert_pa:2005,1:epistemology,1
@@ -247,9 +260,13 @@ ebert_pa:2008,1:ontology,1
 ebert_pa:2008,2:ontological_commitment,2
 ebert_pa:2010,1:representation,1
 ebert_pa:2010,2:concepts,2
+ebert_pa:2014,1:logic,1
+ebert_pa:2014,2:history_of_logic,2
 ebert_pa:2015,1:representation,1
 ebert_pa:2015,2:content_determination,2
 ebert_pa:2015,3:context_principle,3
+ebert_pa:2015a,1:mathematics,1
+ebert_pa:2015a,2:arithmetic,2
 ebert_pa:2016,1:mathematics,1
 ebert_pa:2016a,1:mathematics,1
 ebert_t-nortmann:2007,1:logic,1

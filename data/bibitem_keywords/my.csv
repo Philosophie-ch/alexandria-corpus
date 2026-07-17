@@ -162,6 +162,12 @@ myro:1993a,1:metaphilosophy,1
 myro:1994,1:mind_body,1
 myro:1994,2:dualism,2
 myrvold-christian:2009,1:science,1
+myrvold-etal:2019,1:quantum_mechanics,1
+myrvold-etal:2019,2:entanglement,2
+myrvold-etal:2019,3:bell_s_theorem,3
+myrvold-etal:2024,1:quantum_mechanics,1
+myrvold-etal:2024,2:entanglement,2
+myrvold-etal:2024,3:bell_s_theorem,3
 myrvold:1995,1:quantum_mechanics,1
 myrvold:1997,1:quantum_mechanics,1
 myrvold:1997,2:entanglement,2
@@ -177,11 +183,13 @@ myrvold:2015,2:generalism,2
 myrvold:2015,3:wave_function_realism,3
 myrvold:2015a,1:probability,1
 myrvold:2016,1:probability,1
+myrvold:2016a,1:quantum_mechanics,1
 myrvold:2020,1:mathematics,1
 myrvold:2020,2:applicability_of_mathematics,2
 myrvold:2021,1:probability,1
 myrvold:2021,2:nature_of_probability,2
 myrvold:2021a,1:quantum_mechanics,1
+myrvold:2022,1:quantum_mechanics,1
 myser_c:2011,1:ethics,1
 myser_c:2011,2:bioethics,2
 myskja:2002,1:aesthetics,1

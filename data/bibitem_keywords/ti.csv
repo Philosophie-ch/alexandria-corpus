@@ -75,6 +75,9 @@ tichy_p:1985,1:time,1
 tichy_p:1985,2:tense_aspect,2
 tichy_p:1986,1:skepticism,1
 tichy_p:1986,2:brains_in_a_vat,2
+tichy_p:1986a,1:representation,1
+tichy_p:1986a,2:fregean_sense,2
+tichy_p:1988,1:logic,1
 tichy_p:1994,1:language,1
 tichy_p:1995,1:mathematics,1
 tichy_p:1995,2:intuitionistic_mathematics,2
@@ -428,6 +431,8 @@ tilly:2006,1:history,1
 timar:2021,1:political_philosophy,1
 timar:2021,2:discrimination,2
 timmerman-cohen:2016,1:ethics,1
+timmerman-cohen:2019,1:modality,1
+timmerman-cohen:2019,2:actualism,2
 timmerman-cohen:2020,1:ethics,1
 timmerman-cohen:2020,2:virtue_ethics,2
 timmerman-pereira:2019,1:ethics,1
@@ -585,6 +590,9 @@ timpe:2018a,2:authority,2
 timpe:2018a,3:nudging,3
 timpe:2020,1:religion,1
 timpe:2020,2:heaven_and_hell,2
+timpe:2021,1:religion,1
+timpe:2021,2:heaven_and_hell,2
+timpe:2021,3:sin,3
 timpson:2010,1:quantum_mechanics,1
 timpson:2010,2:information_theoretic_interpretation_of_qm,2
 timpson:2010a,1:quantum_mechanics,1

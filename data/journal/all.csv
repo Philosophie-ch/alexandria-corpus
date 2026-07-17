@@ -29,7 +29,7 @@ id,journal_key,name_latex,name_unicode,issn_print,issn_electronic
 28,academy-of-management-review,Academy of Management Review,Academy of Management Review,,
 29,accademia-nazionale-dei-lincei-rendiconti-della-classe-di-scienze-morali-storiche-e-filologiche-serie-viii,"Accademia Nazionale dei Lincei, Rendiconti della Classe di Scienze morali, storiche e filologiche, serie VIII","Accademia Nazionale dei Lincei, Rendiconti della Classe di Scienze morali, storiche e filologiche, serie VIII",,
 30,acta-antiqua-academiae-scientarum-hungaricae,Acta Antiqua Academiae Scientarum Hungaricae,Acta Antiqua Academiae Scientarum Hungaricae,,
-31,acta-biotheoretica,1,1,,
+31,acta-biotheoretica,Acta Biotheoretica,Acta Biotheoretica,,
 32,acta-classica-universitatis-scientiarum-debreceniensis,Acta Classica Universitatis Scientiarum Debreceniensis,Acta Classica Universitatis Scientiarum Debreceniensis,,
 33,acta-informatica,Acta Informatica,Acta Informatica,,
 34,acta-mathematica-academiae-scientiarum-hungaricae,Acta Mathematica Academiae Scientiarum Hungaricae,Acta Mathematica Academiae Scientiarum Hungaricae,,
@@ -2074,3 +2074,4 @@ id,journal_key,name_latex,name_unicode,issn_print,issn_electronic
 2076,business-and-professional-ethics-journal,Business and Professional Ethics Journal,Business and Professional Ethics Journal,,
 2077,theoretical-medicine-and-bioethics,Theoretical Medicine and Bioethics,Theoretical Medicine and Bioethics,,
 2078,yale-human-rights-and-development-law-journal,Yale Human Rights and Development Law Journal,Yale Human Rights and Development Law Journal,,
+2079,mind-and-matter,Mind and Matter,Mind and Matter,,

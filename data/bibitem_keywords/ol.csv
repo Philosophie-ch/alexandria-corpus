@@ -120,6 +120,9 @@ olin_p:1978,1:logic,1
 olin_p:1978,2:model_theory,2
 oliphant:1899,1:social_philosophy,1
 oliphant:1899,2:sex,2
+oliva_l:2006,1:logic,1
+oliva_l:2006,2:entailment,2
+oliva_l:2006,3:logical_validity,3
 oliva_l:2015,1:mathematics,1
 oliva_l:2018,1:mathematics,1
 oliva_p:2008,1:logic,1
@@ -182,6 +185,7 @@ oliver_a:1993,2:mereology,2
 oliver_a:1994,1:mathematics,1
 oliver_a:1994,2:set_theory,2
 oliver_a:1994,3:nature_of_sets,3
+oliver_a:1994a,1:mathematics,1
 oliver_a:1996,1:properties,1
 oliver_a:1998,1:mathematics,1
 oliver_a:1998,2:infinity,2
@@ -198,6 +202,7 @@ oliver_a:2000a,2:rationalism,2
 oliver_a:2001,1:language,1
 oliver_a:2001,2:logical_structure,2
 oliver_a:2001,3:logical_form,3
+oliver_a:2010,1:exemplification,1
 oliver_a:2010a,1:logic,1
 oliver_a:2010a,2:nature_of_logic,2
 oliver_aa:2017,1:political_philosophy,1
@@ -440,6 +445,8 @@ olson_et:2002a,2:particulars,2
 olson_et:2002b,1:persons,1
 olson_et:2002b,2:personal_identity,2
 olson_et:2002c,1:animals,1
+olson_et:2002d,1:persons,1
+olson_et:2002d,2:personal_identity,2
 olson_et:2003,1:persons,1
 olson_et:2003,2:personal_identity,2
 olson_et:2003,3:animalism,3
@@ -461,6 +468,8 @@ olson_et:2006c,3:growth,3
 olson_et:2007,1:persons,1
 olson_et:2007,2:personal_identity,2
 olson_et:2007,3:animalism,3
+olson_et:2007a,1:persons,1
+olson_et:2007a,2:personal_identity,2
 olson_et:2008,1:persons,1
 olson_et:2008,2:personal_identity,2
 olson_et:2008,3:animalism,3
@@ -473,10 +482,14 @@ olson_et:2008b,3:animalism,3
 olson_et:2008c,1:persons,1
 olson_et:2008c,2:personal_identity,2
 olson_et:2008c,3:animalism,3
+olson_et:2008d,1:persons,1
+olson_et:2008d,2:personal_identity,2
 olson_et:2009,1:time,1
 olson_et:2009,2:passage_of_time,2
 olson_et:2009a,1:time,1
 olson_et:2009a,2:passage_of_time,2
+olson_et:2010,1:persons,1
+olson_et:2010,2:personal_identity,2
 olson_et:2010a,1:religion,1
 olson_et:2010a,2:immortality,2
 olson_et:2010a,3:resurrection,3
@@ -495,6 +508,8 @@ olson_et:2015a,3:animalism,3
 olson_et:2015b,1:persons,1
 olson_et:2015b,2:personal_identity,2
 olson_et:2015b,3:animalism,3
+olson_et:2015c,1:persons,1
+olson_et:2015c,2:personal_identity,2
 olson_et:2016,1:persons,1
 olson_et:2016,2:personal_identity,2
 olson_et:2016,3:animalism,3
@@ -507,6 +522,10 @@ olson_et:2018,3:animalism,3
 olson_et:2019,1:persons,1
 olson_et:2019,2:self,2
 olson_et:2019,3:narrative_self,3
+olson_et:2019a,1:persons,1
+olson_et:2019a,2:personal_identity,2
+olson_et:2023,1:persons,1
+olson_et:2023,2:personal_identity,2
 olson_j-timmons:2011,1:ethics,1
 olson_j:2002,2:desire,2
 olson_j:2003,2:intrinsic_value,2
@@ -625,6 +644,8 @@ olsson_ej:2011a,1:epistemology,1
 olsson_ej:2011a,2:epistemic_coherentism,2
 olsson_ej:2011b,1:epistemology,1
 olsson_ej:2011b,2:collective_epistemology,2
+olsson_ej:2012,1:epistemology,1
+olsson_ej:2012,2:epistemic_coherentism,2
 olsson_ej:2013,1:knowledge,1
 olsson_ej:2013,2:reliabilism,2
 olsson_ej:2013a,1:argumentation,1
@@ -641,8 +662,12 @@ olsson_ej:2017,2:relative_truth,2
 olsson_ej:2017a,1:metaphysics,1
 olsson_ej:2017a,2:relativism,2
 olsson_ej:2017a,3:epistemic_relativism,3
+olsson_ej:2017b,1:epistemology,1
+olsson_ej:2017b,2:epistemic_coherentism,2
 olsson_ej:2020,1:pragmatics,1
 olsson_ej:2020,2:assertion,2
+olsson_ej:2021,1:epistemology,1
+olsson_ej:2021,2:epistemic_coherentism,2
 olsson_g:1989,1:modality,1
 olsson_g:1989,2:possible_worlds,2
 olsson_r:1995,1:computation,1
