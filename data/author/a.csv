@@ -1557,7 +1557,7 @@ id,author_key,given_name_latex,given_name_unicode,family_name_latex,family_name_
 29273,apter_mj,M.J.,M.J.,Apter,Apter,,,,,,,false,,
 29274,aquila,Richard E.,Richard E.,Aquila,Aquila,,,,,,,false,,
 29275,aquilon_p,P.,P.,Aquilon,Aquilon,,,,,,,false,,
-29276,aquinas,,,,,{Thomas Aquinas},Thomas Aquinas,,,,,true,"{""{Thomas d'Aquin}""}",
+29276,aquinas,,,,,{Thomas Aquinas},Thomas Aquinas,,,,,true,"{""{Thomas d'Aquin}"",""{Thomas Aquinas}"",""Aquinas""}",
 29277,aquino_fd,Frederick D.,Frederick D.,Aquino,Aquino,,,,,,,false,,
 29278,aquino_k,Kristine,Kristine,Aquino,Aquino,,,,,,,false,,
 29279,aqvist,Lennart,Lennart,{\AA}qvist,Åqvist,,,,,,,false,,

@@ -2327,6 +2327,7 @@ aquila:2002,abela:2002,further_ref
 aquila:2015,waxman_w:2013,further_ref
 aquila:2016,emundts-sedgwick:2016,depends_on
 aquilon_p:1976,margolin:1976,depends_on
+aquinas:1976i,aquinas:1976,depends_on
 aquino_fd:2012,gavrilyuk_pl-coakley:2012,depends_on
 aquino_k:2020,solomos_j:2020,depends_on
 aqvist-guenthner:1978,guenthner-rohrer:1978,depends_on
@@ -66004,6 +66005,7 @@ pelham:1995,marion_m-cohen:1995,depends_on
 pelham:2002,lepage_f-etal:2002,depends_on
 pelikan_f:1925,dellavalle_g:1925,depends_on
 pelis-maker:2010,pelis:2010,depends_on
+pell_s:2024,gorman_m:2024,further_ref
 pellandinisimanya:2021,borch_c-wosnitzer:2021,depends_on
 pellegrin_p:1985,gotthelf_a:1985,depends_on
 pellegrin_p:1986,pellegrin_p:1982,further_ref
@@ -78188,7 +78190,6 @@ seager:2003,tye:2000,further_ref
 seager:2004,gennaro:2004,depends_on
 seager:2007,zelazo_pd-etal:2007,depends_on
 seager:2009,mclaughlin_bp-etal:2009,depends_on
-seager:2010,basile_p-etal:2010,depends_on
 seager:2017,bruentrup-jaskolla:2017,depends_on
 seager:2018,gillett_c:2016,further_ref
 seager:2018a,gennaro:2018,depends_on
@@ -96917,5 +96918,3 @@ zynda_l:2016,hajek_a-hitchcock:2016,depends_on
 zysow:2016,schmidtke_s:2016,depends_on
 zytkow_jm:1976,przelecki-etal:1976,depends_on
 zytkow_jm:1982,krajewski_w:1982,depends_on
-aquinas:1976i,aquinas:1976,depends_on
-pell_s:2024,gorman_m:2024,further_ref
