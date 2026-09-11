@@ -1,5 +1,5 @@
 # Bump version and description before opening a PR to main.
 
-version: "11.alpha-8"
-description: "Eight alpha release with v11 of the bibliography data, which still contains errors and inconsistencies, but lets us test the new data structure and API. Minor change w.r.t alpha-7 is that all data necessary to render properly Pell's references has been integrated."
+version: "11.alpha-9"
+description: "Ninth alpha release with v11 of the bibliography data, which still contains errors and inconsistencies, but lets us test the new data structure and API. Minor change w.r.t alpha-8 is that all data necessary to render properly Osborn 2024's references have been integrated."
 

@@ -287,7 +287,7 @@ id,author_key,given_name_latex,given_name_unicode,family_name_latex,family_name_
 52725,james_stp,Steven P.,Steven P.,James,James,,,,,,,false,,
 52726,james_te,Theodore Earle,Theodore Earle,James,James,,,,,,,false,,
 52727,james_vd,V.~Denise,V. Denise,James,James,,,,,,,false,,
-52728,james_w,William,William,James,James,,,,,,,false,,
+52728,james_w,William,William,James,James,,,,,,,true,,
 52729,jameson_a,Anthony David,Anthony David,Jameson,Jameson,,,,,,,false,,
 52730,jameson_d,Dorothea,Dorothea,Jameson,Jameson,,,,,,,false,,
 52731,jameux_jp,Jean-Pierre,Jean-Pierre,Jameux,Jameux,,,,,,,false,,
